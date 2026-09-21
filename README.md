@@ -20,6 +20,7 @@ Aplikasi **Shiny/R** untuk analisis kesehatan stok ikan secara batch menggunakan
 - [Pengembangan & Testing](#pengembangan--testing)
 - [Risiko & Catatan Metodologis](#risiko--catatan-metodologis)
 - [Referensi](#referensi)
+- [Deploy ke Oracle Cloud](#deploy-ke-oracle-cloud)
 
 ---
 
@@ -441,3 +442,85 @@ wpp711/
 - Martell, S. & Froese, R. (2013). A simple method for estimating MSY from catch and resilience. *Fish and Fisheries* 14: 520–531.
 
 **Kode asal CMSY++:** [SISTA16/cmsyPlusPlus](https://github.com/SISTA16/cmsyPlusPlus)
+
+---
+
+## Deploy ke Oracle Cloud
+
+Aplikasi bisa di-deploy ke **Oracle Cloud Free Tier** (gratis selamanya) menggunakan Docker.
+
+### Langkah 1: Buat Akun Oracle Cloud
+
+1. Buka https://cloud.oracle.com/free
+2. Klik **Start for Free**
+3. Isi data dan buat akun
+4. Pilih **Home Region** terdekat (Singapore atau Tokyo)
+
+### Langkah 2: Buat VM Instance
+
+1. Login ke Oracle Cloud Console
+2. Klik **Create a VM Instance**
+3. Pilih:
+   - **Name:** `wpp711-server`
+   - **Image:** Ubuntu 22.04 (atau Debian)
+   - **Shape:** VM.Standard.A1.Flex (4 OCPU, 24 GB RAM — gratis)
+   - **Public IP:** Assign public IP
+4. **SSH Keys:** Upload public key atau generate baru
+5. Klik **Create**
+
+### Langkah 3: Setup Firewall
+
+Di Oracle Cloud Console:
+1. Klik **Networking** → **Virtual Cloud Networks** → pilih VCN
+2. Klik **Security Lists** → **Default Security List**
+3. Tambah **Ingress Rules:**
+   - **Source CIDR:** `0.0.0.0/0`
+   - **Destination Port:** `3838`
+   - **Protocol:** TCP
+
+### Langkah 4: Connect ke VM
+
+```powershell
+ssh -i your-key.pem ubuntu@<PUBLIC_IP>
+```
+
+### Langkah 5: Deploy Aplikasi
+
+```bash
+# Jalankan satu perintah ini:
+bash <(curl -s https://raw.githubusercontent.com/el-kizmi/wpp711/master/deploy.sh)
+```
+
+Atau manual:
+
+```bash
+# Install Docker
+curl -fsSL https://get.docker.com | sudo bash
+sudo usermod -aG docker $USER
+
+# Clone repo
+sudo git clone https://github.com/el-kizmi/wpp711.git /opt/wpp711
+cd /opt/wpp711
+
+# Build & run
+sudo docker-compose up -d --build
+
+# Buka firewall
+sudo ufw allow 3838/tcp
+```
+
+### Langkah 6: Akses Aplikasi
+
+Buka browser:
+```
+http://<PUBLIC_IP>:3838
+```
+
+### Perintah Berguna
+
+| Perintah | Fungsi |
+|---|---|
+| `sudo docker-compose logs -f` | Lihat log real-time |
+| `sudo docker-compose down` | Hentikan aplikasi |
+| `sudo docker-compose restart` | Restart aplikasi |
+| `cd /opt/wpp711 && sudo git pull && sudo docker-compose up -d --build` | Update ke versi terbaru |

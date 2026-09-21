@@ -1,0 +1,11 @@
+R_library/
+runs/
+.git/
+*.md
+images/
+scripts/
+tests/
+CPUE/
+amanisal/
+.Rhistory
+wpp711.rar

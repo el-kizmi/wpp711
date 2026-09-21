@@ -1,0 +1,11 @@
+services:
+  shiny:
+    build: .
+    container_name: wpp711-shiny
+    ports:
+      - "3838:3838"
+    volumes:
+      - ./runs:/srv/shiny-server/wpp711/runs
+    restart: unless-stopped
+    environment:
+      - SHINY_LOG_LEVEL=info
