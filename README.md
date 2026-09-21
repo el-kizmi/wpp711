@@ -18,7 +18,6 @@ Aplikasi **Shiny/R** untuk analisis kesehatan stok ikan secara batch menggunakan
 - [Pengembangan & Testing](#pengembangan--testing)
 - [Risiko & Catatan Metodologis](#risiko--catatan-metodologis)
 - [Referensi](#referensi)
-- [Lisensi](#lisensi)
 
 ---
 
@@ -30,6 +29,8 @@ WPP-711 Batch cMSY++ Stock Assessment dirancang untuk Kementerian Kelautan dan P
 - **Standardisasi CPUE** — metode Delta-Gamma GLM untuk mengolah data operasi penangkapan mentah menjadi indeks kelimpahan tahunan
 - **Antarmuka Wizard** — 7 langkah terstruktur (Import → Indeks → Validasi → Parameter → Proses → Hasil → Ringkasan)
 - **Pelaporan kelompok** — pengelompokan spesies berdasarkan komoditas dengan narasi otomatis berbahasa Indonesia
+
+> **Catatan:** Repository ini hanya mengembangkan **antarmuka (interface)** — kode awal CMSY++ berasal dari repo [SISTA16/cmsyPlusPlus](https://github.com/SISTA16/cmsyPlusPlus). Untuk pemahaman substantif tentang metode CMSY++, silakan baca: [*New developments in the analysis of catch time series as the basis for fish stock assessments: The CMSY++ method*](https://www.sciencedirect.com/org/science/article/pii/S0137159223000080) (Froese et al., 2023).
 
 ---
 
@@ -433,16 +434,8 @@ wpp711/
 
 ## Referensi
 
+- Froese, R., Coro, G., Winker, H. (2023). New developments in the analysis of catch time series as the basis for fish stock assessments: The CMSY++ method. *Journal of Sea Research*. https://doi.org/10.1016/j.seares.2023.102008
 - Froese, R., Coro, G., Winker, H. (2021). CMSY++ and BSM: Bayesian biomass and MSY assessment methods. Daur hidup: 2016–2021.
-- Froese, R. et al. (2017). Updating the natural productivity estimates for the inland and marine fisheries of the Philippines using CMSY++. *Fisheries Management and Ecology*.
 - Martell, S. & Froese, R. (2013). A simple method for estimating MSY from catch and resilience. *Fish and Fisheries* 14: 520–531.
 
----
-
-## Lisensi
-
-Project ini dikembangkan untuk keperluan Kementerian Kelautan dan Perikanan Republik Indonesia.
-
----
-
-*Dikembangkan untuk KOMNASJISKAN — Komisi Nasional Junkan Jangka Ikan*
+**Kode asal CMSY++:** [SISTA16/cmsyPlusPlus](https://github.com/SISTA16/cmsyPlusPlus)
