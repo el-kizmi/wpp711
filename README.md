@@ -2,6 +2,8 @@
 
 Aplikasi **Shiny/R** untuk analisis kesehatan stok ikan secara batch menggunakan metode **CMSY++** (Collapsed and Maximum Sustainable Yield). Aplikasi ini hanya mengembangkan **antarmuka (interface)** — kode inti CMSY++ tidak diubah dari versi aslinya.
 
+![WPP711 Infographic](images/111.jpg)
+
 ---
 
 ## Daftar Isi
