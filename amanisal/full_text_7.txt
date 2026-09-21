@@ -1,0 +1,643 @@
+Vol. 15 | No. 1: 73 - 84
+Mei, 2026
+Peer-Reviewed ☑
+https://doi.org/10.30598/amanisal.v15i1.25339
+Optimalisasi Pemanfaatan Pelabuhan Perikanan sebagai Strategi Pengelolaan
+Perikanan Kepulauan untuk Mendukung Keberlanjutan Industri Tuna,
+Cakalang, dan Tongkol (TCT) di Provinsi Nusa Tenggara Timur, Indonesia
+(Navigating Archipelagic Fisheries Through An Optimization Strategy For Fisheries Port
+Utilization To Support The Sustainable Tuna, Skipjack, And Tongkol (Tct) Fisheries
+Industry In Ntt Province, Indonesia)
+Welhelmina L. Kause¹, Marince P. Tunardjo1, Noverius H. Nggili1, Aprianus R. P. Modena1,
+Dalmasius Naif1, Adellia Agusta1, Roidah ‘Afro’1, Descorina P. Br. Sitompul1, Yohanes Frenky1,
+Lisa Novalia1
+1 East Nusa Tenggara Province’s Regional Development Research and Innovation
+Agency (Bapperida), Kupang, East Nusa Tenggara, Indonesia
+Email: kause.well@gmail.com, marince_paulina@yahoo.com, noverius.nggili@gmail.com,
+agusta.adellia040794@gmail.com, dalman0512milan@gmail.com,
+adellia.bapperida@gmail.com, roidah4fro@gmail.com, descorinasitompul@gmail.com,
+yohanes.frenky@outlook.com, lisanovalia2020@gmail.com.
+☑ Article Info : Abstract
+Recived : 07 April 2026
+Accepted : 02 Mei 2026
+Online : 28 Mei 2026 Despite the considerable potential of the tuna, skipjack, and tongkol (TCT)
+fisheries in East Nusa Tenggara (NTT) Province, their economic contribution
+ Article type remains stagnant due to the underutilization of port facilities. This study
+Review Article evaluates the utilization of fishing port facilities at PPI Oeba and PPP Tenau in
+Commin Serv. Articel
+Kupang City, identifies operational constraints, and formulates strategic
+✓ Research Article
+optimization plans for the long-term development of the TCT fisheries industry.
+A mixed-methods approach was employed, integrating quantitative surveys
+ Keyword :
+Archipelagic Logistics, Fishery Port from 180 respondents comprising fishermen, logistics providers, processing
+Optimization, Mixed Methods, NTT entrepreneurs, and port managers with qualitative in-depth interviews with
+Province, Port Infrastructure, key stakeholders. Stakeholder perceptions were assessed using a five-point
+Sustainable Fisheries, TCT Industry Likert scale and the instrument was subjected to validity and reliability testing
+prior to full deployment. Findings reveal that while primary facilities at PPI
+ Corresponding Author :
+Oeba are relatively functional (mean score: 4.03), PPP Tenau faces critical
+Welhelmina L. Kause
+challenges arising from infrastructure aging dating to 1977 and severely
+East Nusa Tenggara Province’s
+Regional Development Research limited operational capacity relative to current TCT industry demand. Key
+and Innovation Agency obstacles identified include non-functional cold chain systems, weak
+(Bapperida), Kupang, East Nusa institutional governance, inadequate waste management, and low
+Tenggara, Indonesia stakeholder participation in policy-making. Strategic recommendations
+encompass infrastructure revitalization, institutional governance reform,
+Email:
+digitalization through GIS-based monitoring, investment facilitation, and
+kause.well@gmail.com
+implementation of the Eco-Fishing Port concept. This study underscores the
+imperative of transforming fishing ports from passive landing sites into
+integrated maritime–industrial hubs to enhance the regional value chain and
+ensure long-term sustainability of archipelagic fisheries.
+Copyright © 2026, Welhelmina L. Kause, Marince P. Tunardjo, Noverius H. Nggili,
+Aprianus R. Modena, Dalmasius Naif, Adellia Agusta, Roidah
+‘Afro’, Descorina P. Br. Sitompul, Yohanes Frenky, Lisa Novalia
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+INTRODUCTION
+The fisheries sector constitutes a vital pillar of Indonesia’s blue economy, with tuna,
+skipjack, and tongkol (TCT) commodities representing among the highest-value export
+categories in the national fisheries portfolio. At the global level, efforts to optimize fisheries
+productivity are aligned with Sustainable Development Goal (SDG) 14, particularly Target 14.4,
+which calls for the regulation of harvesting and the restoration of fish stocks to biologically
+sustainable levels (United Nations, 2015). In Indonesia, the Ministry of Maritime Affairs and
+Fisheries (Kementerian Kelautan dan Perikanan, KKP) has reinforced this commitment through
+the Penangkapan Ikan Terukur (regulated fishing) policy, facilitation of export access to key
+markets including Japan, development of international certification through the Marine
+Stewardship Council (MSC), and inclusion of TCT among the 14 priority capture fisheries
+commodities in the KKP Grand Design for Marine and Fisheries Development (Kementerian
+Kelautan dan Perikanan, 2021).
+East Nusa Tenggara (NTT) Province is strategically positioned as a major contributor to
+national TCT production, with a marine area exceeding 151,000 km² that encompasses the
+productive waters of Fisheries Management Areas (WPP) 714 and 715. TCT production
+recorded a significant increase from 33,291 tonnes in 2019 to 334,536 tonnes in 2020 and
+reached a peak of 404,797 tonnes in 2021, before recovering to 397,135 tonnes in 2023
+following a decline in 2022 (Kementerian Kelautan dan Perikanan, 2025). Despite this
+productive potential, the contribution of the fisheries sub-sector to NTT’s Gross Regional
+Domestic Product (GRDP) at current prices (ADHB) has followed a stagnant and declining
+trajectory: from 5.73% in 2020, peaking at 6.19% in 2022, and declining to a projected 5.84% in
+2024 (Kementerian Kelautan dan Perikanan, 2025). This divergence between high production
+volume and limited economic contribution reflects a structural underutilization of production
+output — a central concern of this study.
+Fishing ports serve as critical nodes in the fisheries value chain, functioning as centers for
+fish landing, auctioning, processing, cold storage, and export logistics (Lubis, 2012). The
+National Fisheries Port Master Plan (RIPPN), regulated under Ministerial Decree No. 132 of 2023,
+designates NTT Province as a priority development area with 26 planned fishing port locations
+across three categories: 2 Coastal Fishing Ports (PPP), 18 Fish Landing Ports (PPI), and 6 Fishing
+Ports (PP), to be developed between 2024 and 2028. This is reinforced by the NTT Province
+2025–2045 Long-Term Development Plan (RPJP), which identifies marine and fisheries sectors —
+including TCT commodities — as strategic priorities for primary sector development. The
+integration between RIPPN and the NTT Grand Design is therefore of paramount importance:
+RIPPN furnishes the infrastructure framework and port classification, while the Grand Design
+promotes these ports as pivotal nodes for TCT downstreaming and industrialization.
+However, empirical evidence reveals a significant gap between policy intent and
+operational reality. Research by Mau et al. (2024) highlighted the strategic importance of PPI
+Oeba Kupang in the processing and marketing of tuna products in NTT, while also underscoring
+the need for improved handling infrastructure. Iksan et al. (2021) demonstrated that
+deficiencies in cold chain facilities — including ice factories and cold storage — constitute
+major barriers to fish quality maintenance and value addition at fishing ports in eastern
+Indonesia. Sitanggang et al. (2025) found that port facility utilization at PPP Tenau Kupang
+remained suboptimal, with damaged and incomplete facilities constraining operational
+performance despite relatively good fish landing and marketing activity. More broadly,
+Agustian et al. (2023) have shown that an ecosystem approach to fishing port management
+is essential for achieving sustainable fisheries governance, a perspective reinforced by
+Widiastuti et al. (2024), whose INFINITY framework demonstrates that the integration of port
+information systems with green port principles measurably improves governance outcomes. At
+the national level, the Ministry of Maritime Affairs and Fisheries (KKP, 2020) identified
+strengthening fishing ports as a strategic priority for downstreaming and the development of
+capture fisheries industry centers.
+Building on these findings, this study seeks to bridge the gap between normative-
+strategic policies and empirical field realities through evidence-based analysis. The research
+focuses on PPI Oeba and PPP Tenau — the two primary active fishing ports in Kupang City —
+with the aim of assessing current port facility utilization, diagnosing operational constraints, and
+74
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+formulating actionable optimization strategies for the sustainable TCT fisheries industry in NTT
+Province.
+RESEARCH OBJECTIVES
+This study pursues three primary objectives:
+● To analyze the current utilization of fishing port facilities at PPI Oeba and PPP Tenau in
+supporting the TCT fisheries industry.
+● To identify and describe the key obstacles and constraints in the utilization of fishing port
+facilities at both port locations.
+● To formulate evidence-based optimization strategies for sustainable fishing port utilization
+in support of the TCT industry in NTT Province.
+RESEARCH METHODS
+Research Location and Period
+This research was conducted at two fisheries ports in Kupang City, NTT Province: PPI Oeba
+and PPP Tenau. These locations were selected through purposive sampling based on their
+strategic relevance to TCT fisheries operations and their contrasting profiles. PPI Oeba is an
+active, moderate-capacity port serving as the primary fish landing site within Kupang City, with
+strategic access to local and regional markets; while supporting facilities are not yet fully
+optimized, the port maintains relatively consistent operational activity. PPP Tenau is the largest
+active fisheries port in NTT Province in terms of production volume, possessing comparatively
+more comprehensive infrastructure; however, it faces significant constraints in export
+integration and cold chain logistics, and is also designated for elevation to Pelabuhan
+Perikanan Nusantara (PPN) status under the National Fisheries Port Master Plan (RIPPN). Data
+collection was conducted over a six-month period from May to November 2025.
+Research Design
+This study employs a mixed-methods research design (Creswell & Plano Clark, 2018),
+integrating quantitative and qualitative approaches to generate a comprehensive
+understanding of fishing port utilization and optimization strategies. The quantitative
+component measures stakeholder perceptions and satisfaction levels regarding port
+infrastructure and services through a structured Likert scale questionnaire. The qualitative
+component involves in-depth interviews and participatory observation with key informants —
+including officials from the Provincial Marine and Fisheries Service (DKP), port managers, TCT
+industry operators, and fisheries extension workers — to explore operational realities,
+institutional dynamics, and policy barriers. Integration of both approaches occurs at the
+analytical and strategy formulation stages, where quantitative findings are contextually
+interpreted through qualitative narratives.
+Population and Sampling
+The target population comprises all parties directly involved in fishing port operations and
+the TCT fisheries industry chain at PPI Oeba and PPP Tenau, including TCT fishermen, port
+managers and staff, fish processing entrepreneurs, logistics and port support service providers,
+and technical officials from the NTT Provincial Marine and Fisheries Service. Non-probability
+sampling techniques were applied: purposive sampling to select respondents with direct
+involvement in port activities and the TCT value chain, and snowball sampling to reach
+additional respondents in cases where direct access was limited. The minimum target was set
+at 30 respondents per port location, with the total reaching 180 respondents across six ports in
+the broader Bapperida NTT research project from which this article draws its primary data.
+To ensure the representativeness of perceptions captured from the 30 respondents per
+port, the Likert-scale questionnaire was subjected to validity and reliability testing prior to full
+deployment. Construct validity was examined through Pearson product-moment correlation
+between each item score and the total score for each indicator block, with items retained
+when r-count exceeded the r-table value at α = 0.05. Reliability was assessed using Cronbach’s
+Alpha for each indicator block, with a threshold of α ≥ 0.60 considered acceptable for
+exploratory descriptive-evaluative research. A preliminary trial was conducted with a select
+75
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+group of fishermen and port operators at PPI Oeba prior to the main survey. The mixed-
+methods design compensates for quantitative sample limitations through in-depth interviews
+and participatory observation (Sugiyono, 2019).
+Data Collection
+Primary data were collected through three instruments: (1) structured questionnaires
+using a five-point Likert scale administered to respondents across both port locations; (2) semi-
+structured in-depth interviews with key informants, including DKP officials, port managers, and
+fisheries industry operators; and (3) direct field observation of port facility conditions,
+operational activities, and environmental management practices (Siregar, 2013). Secondary
+data were sourced from the Ministry of Maritime Affairs and Fisheries (KKP), the Central Statistics
+Agency (BPS), the NTT Provincial Marine and Fisheries Service, and port management units,
+encompassing port facility profiles and fisheries statistics. A systematic literature review was
+also conducted in accordance with the criteria of relevance, currency, and originality
+proposed by Sugiyono (2019) and supplemented by non-interactive documentation methods
+as described by Sutopo (1988).
+Data Analysis
+Quantitative data were analyzed using descriptive statistics to produce frequency
+distributions, mean scores, and category-based interpretations of stakeholder perceptions.
+The Likert scale interpretation scheme applied is as follows:
+Table 1. Likert Scale Interpretation Scheme
+Interpretation Score Descriptive Meaning
+STS – Very Low 1 Respondents express strong dissatisfaction. Conditions or
+facilities are considered wholly inadequate or non-
+functional.
+TS – Low 2 Respondents express mild disagreement. Weaknesses
+are present but the overall situation is not entirely
+negative.
+N – Neutral/Moderate 3 Respondents are uncertain or indifferent, often due to
+insufficient information or limited direct experience.
+S – Agree 4 Respondents report satisfactory conditions with room for
+improvement. Overall satisfaction is evident.
+SS – Strongly Agree 5 Respondents express full satisfaction. Conditions are
+excellent with no notable complaints.
+Source: Adapted from Sugiyono (2019)
+Qualitative data from interviews and observations were analyzed thematically to identify
+recurring patterns, operational challenges, and governance gaps. Both data types were
+subsequently integrated at the interpretation stage to produce a holistic analysis and
+formulate context-specific optimization strategies.
+RESULTS AND DISCUSSION
+Existing Infrastructure Conditions at PPI Oeba and PPP Tenau
+Primary Facilities
+An assessment of primary facilities was conducted in accordance with Ministerial
+Regulation on Marine Affairs and Fisheries No. PER.08/MEN/2012, which classifies fishing port
+facilities into three categories: primary (pokok), functional (fungsional), and supporting
+(penunjang). At PPI Oeba, the primary facilities are in generally good operational condition.
+The majority of structures were constructed between 2000 and 2003 and are now over 20 years
+old, necessitating systematic preventive maintenance. Field observations revealed that while
+the port maintains routine landing activity, several drainage channels are blocked by
+accumulated waste and certain technology infrastructure units are non-functional.
+76
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Table 2. Primary Facilities at PPI Oeba
+Primary Facilities Year Condition
+Breakwater (1) 2001 Good Condition
+Breakwater (2) 2000 Good Condition
+Revetment 2001 Good Condition
+Wharf/Dock 2000 Good Condition
+Groin N/A Good Condition
+Mooring Poles 2022 Good Condition
+Navigation Channel 2000 Good Condition
+Access Road 2000 Good Condition
+Open Drainage 2000 Good Condition – requires maintenance
+Perimeter Fence 2003 Good Condition
+Source: Bapperida Provinsi NTT (2025); KKP Portal Data (https://portaldata.kkp.go.id), processed 2025
+At PPP Tenau, the primary facilities present a considerably more critical picture. A direct
+comparison between the original 1977–1999 design capacity and current operational
+requirements illustrates the magnitude of the revitalization gap. The Tenau dock was originally
+designed to accommodate vessels of up to 30 GT with a daily fish-handling throughput of
+approximately 3–5 tonnes and an ice supply of about 5 tonnes/day; however, the current
+demand from the TCT industry necessitates capacity for vessels of 50–100 GT (consistent with
+the planned upgrade to PPN status under RIPPN), a daily throughput of 15–25 tonnes during
+peak season, an ice supply of at least 20–30 tonnes/day, and cold-storage capacity of no less
+than 100 tonnes to support export-grade tuna handling. In practical terms, the dock length
+and draft must be extended by approximately 40–60 meters and 1–2 meters respectively, ice
+production capacity must be expanded four- to sixfold, and cold-storage volume must
+increase fivefold. Key concerns also include insufficient basin area to accommodate larger-
+tonnage vessels and the need for navigation channel re-survey.
+Table 3. Primary Facilities at PPP Tenau
+Primary Facilities Year Condition
+Breakwater (1) 2016 Minor Rehabilitation Needed
+Breakwater (2) 2016 Minor Rehabilitation Needed
+Breakwater (3) 2016 Minor Rehabilitation Needed
+Wharf/Dock (main) 2010 Severely Damaged
+Wharf/Dock (old) 1999 Requires Major Repair
+Wharf/Dock (original) 1977 Requires Revitalization
+Groin 2014 Functional
+Basin/Harbor Pool 1999 Silted – requires dredging
+Navigation Channel (1) 2016 Functional
+Navigation Channel (2) 1977 Requires Re-survey
+Source: Bapperida Provinsi NTT (2025); KKP Portal Data (https://portaldata.kkp.go.id), processed 2025
+Functional Facilities
+A comparative analysis of functional facilities at both ports reveals contrasting
+operational profiles. PPI Oeba possesses a more diversified and operational-oriented set of
+functional facilities, directly supporting core port functions including fish auction, cold chain
+management, fuel supply, and fish processing. PPP Tenau’s functional facilities are
+comparatively fewer but are oriented toward ancillary port support functions within the
+Kupang fisheries system.
+77
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Table 4. Comparative Functional Facilities at PPI Oeba and PPP Tenau
+Port Location Facility Construction Year
+PPP Tenau Fish Auction Site (TPI) 1996 / 2016 (Rehabilitation)
+Fish Market 2001
+Navigational Beacon 1996
+Telephone Line 1982
+SSB Radio Communication 1978
+Internet Connectivity 2014
+Port Services Building 1997
+PPI Oeba Fish Auction Site (TPI) N/A
+Fish Market 2001
+Fish Processing Facility 2010
+Internal Road Network 2000
+Water Supply (PDAM) 2015
+Water Supply (Alternative) 2015 / 2006
+PLN Electrical Connection 2012
+Fuel Storage Tank 2000
+Ice Storage 2008
+Ice Crusher Unit 2012
+Ice Factory (1) 2011
+Ice Factory (2) 2004
+Port Administrative Office 2000
+Waste Collection Facility N/A
+Source: Bapperida Provinsi NTT (2025); KKP Portal Data (https://portaldata.kkp.go.id), processed 2025
+Supporting Facilities
+A comparative review of supporting facilities at both ports reveals that PPI Oeba has
+security posts and information technology infrastructure — albeit largely underutilized — while
+PPP Tenau maintains a more diverse range of utility and administrative support facilities, though
+many date back to the 1970s and require significant modernization.
+Table 5. Comparative Supporting Facilities at PPI Oeba and PPP Tenau
+Port Facility Year/Units Condition
+PPI Oeba Security Post 2 units Functional
+IT/Information Center 8 units / Functional, underutilized
+(computers) 2006
+IT/Information Center 20 units / Functional, underutilized
+(workstations) 2000
+PPP Tenau Internal Road (1) 2016 Functional
+Internal Road (2) 1977 Functional
+PDAM Water Connection 1995 Aging – functional
+Borehole Well (1) 2011 Functional
+Borehole Well (2) 2005 Functional
+Shallow Well 2011 Functional
+Water Treatment Unit 2014 Functional
+Electrical Power Supply 1983 Aging – requires upgrading
+Generator House 1977 Functional
+Ice Factory 1977 Non-functional / abandoned
+Port Administrative Office 1978 Functional
+Fisheries Authority Office 1995 Functional
+Harbor Master Office 1978 Functional
+Waste Management Facility N/A Functional but inadequate
+Source: Bapperida Provinsi NTT (2025); KKP Portal Data (https://portaldata.kkp.go.id), processed 2025
+78
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Stakeholder Perception Analysis
+Fishermen’s Perceptions
+The average perception score among fishermen at PPI Oeba was 4.03, placing it in the
+‘Agree’ (satisfactory) category. Respondents at both ports expressed high satisfaction with fish
+auction site accessibility, ice and cold storage availability, and the economic profitability of
+fish products. However, the lowest-scoring indicator at both ports was stakeholder
+participation in port policy-making (Oeba: 2.64; Tenau: 2.55 — both in the ‘Low’ category),
+indicating that governance processes are largely non-participatory. To translate this finding
+into operational practice, the optimization framework integrates a set of public-engagement
+instruments designed to give the fishing community a verifiable voice in port governance: (i) a
+quarterly Multi-Stakeholder Forum (Forum Pemangku Kepentingan Pelabuhan), chaired by the
+UPT and including representatives of fishermen’s cooperatives (KUB), processing
+entrepreneurs, logistics providers, and the DKP; (ii) an annual port-development consultation
+modeled on the Musrenbang method, ensuring fishermen’s priorities are integrated into the
+APBD planning cycle; (iii) a complaint-and-suggestion mechanism combining a physical drop-
+box at the landing site with a WhatsApp/SMS hotline managed by the UPT with a 14-working-
+day response commitment; and (iv) participatory monitoring of cold-chain and waste-
+handling indicators by selected community observers reporting monthly to the UPT. These
+instruments are expected to elevate the ‘active in policy-making’ perception score towards
+the ‘Agree’ range over the medium term.
+Table 6. Fishermen’s Perception Scores at PPI Oeba and PPP Tenau
+No. Indicator Score Score
+(PPI Oeba) (PPP Tenau)
+1 Adequacy of basic port infrastructure 3.91 4.27
+2 Accessibility and operation of fish auction site (TPI) 4.45 4.45
+3 Availability of ice supply and cold storage 4.36 4.36
+4 Accessibility and capacity of fuel supply 4.00 3.91
+5 Quality of port administrative services 4.00 4.36
+6 Availability of basic utilities (water, electricity) 4.09 4.00
+7 Economic profitability of fisheries products 4.73 4.73
+8 Participation in port policy-making processes 2.64 2.55
+9 Facility contribution to improved livelihoods 4.27 4.36
+10 Overall satisfaction with port services 3.83 3.82
+Average Score 4.03 4.08
+Source: Primary data, processed 2025
+Logistics Providers’ Perceptions
+Logistics providers at PPI Oeba reported notable difficulties with transportation
+accessibility (score: 3.20) and logistic demand stability (3.40), suggesting weak integration
+between port operations and broader supply chain networks. At PPP Tenau, the primary
+concern was the efficiency of infrastructure-to-distribution flow (3.00), indicating bottlenecks
+in the movement of goods within and beyond the port area. The overall average scores were
+3.96 at Oeba and 4.17 at Tenau.
+Table 7. Logistics Providers’ Perception Scores at PPI Oeba and PPP Tenau
+No. Indicator Score (PPI Oeba) Score (PPP Tenau)
+1 Adequacy of logistic support facilities 3.80 4.63
+2 Accessibility of transportation to/from port 3.20 4.75
+3 Stability and regularity of logistic demand 3.40 4.25
+4 Coordination with port management 5.00 4.63
+5 Availability of ice and fuel supply 3.80 4.13
+6 Impact of electricity and water on operations 3.80 4.00
+7 Efficiency of infrastructure-to-distribution flow 4.00 3.00
+79
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+No. Indicator Score (PPI Oeba) Score (PPP Tenau)
+8 Clarity of logistic regulations and procedures 3.60 4.00
+9 Entrepreneurship climate and business potential 4.60 3.88
+10 Overall operational satisfaction 4.40 4.38
+Average Score 3.96 4.17
+Source: Primary data, processed 2025
+Entrepreneurs and Fish Marketers’ Perceptions
+Entrepreneurs and fish marketers reported the lowest perception scores overall. At PPI
+Oeba, critical gaps were observed in primary facility conditions (2.33), understanding of the
+port as a distribution hub (2.67), institutional support (2.67), and training availability (2.33), all
+indicating systemic underperformance in the enabling environment for small-scale enterprises.
+At PPP Tenau, the main concern was the negative impact of financial limitations (2.00),
+suggesting that while facilities and coordination are relatively better, economic access
+remains a significant barrier. This finding is consistent with broader evidence on financial
+exclusion in small-scale fisheries (Pomeroy et al., 2020) and the role of institutional governance
+in determining port effectiveness (Yulisti et al., 2022).
+Table 8. Entrepreneurs and Fish Marketers’ Perception Scores at PPI Oeba and PPP Tenau
+No. Indicator Score (PPI Score (PPP
+Oeba) Tenau)
+1 Condition of primary facilities 2.33 3.75
+2 Optimality of port services 3.33 4.50
+3 Inter-sector coordination 3.00 5.00
+4 Regularity of vessel activities and catch availability 4.33 4.25
+5 Accessibility of support inputs (ice, fuel) 3.67 5.00
+6 Impact of financial limitations on business 4.33 2.00
+7 Port understood as a product distribution center 2.67 4.00
+8 Support from relevant government agencies 2.67 3.25
+9 Availability of training and technical assistance 2.33 3.25
+10 Degree of public-facing port optimization 3.67 3.50
+Average Score 3.23 3.85
+Source: Primary data, processed 2025
+OBSTACLES AND CHALLENGES IN PORT MANAGEMENT
+Based on field research and stakeholder interviews, five principal categories of obstacles
+were identified:
+Infrastructure Deficiencies
+Both ports face critical infrastructure gaps. At PPI Oeba, these include the absence of
+functional cold storage, malfunctioning ice machines, and inadequate basic utilities (clean
+water and sanitation). At PPP Tenau, a narrow and shallow wharf creates severe vessel
+queuing during peak landing periods, with the gap between original design capacity and
+current operational requirements documented in Section 3.1.1. A comparable yet more
+limited discrepancy is evident at PPI Oeba, where the 2008 ice storage and 2011 ice factory
+facilities function at less than 60% of present daily demand from active TCT fishermen. These
+figures provide a tangible baseline for the port-modernization action plan and should guide
+investment phasing under the 2024–2028 RIPPN implementation period (Iksan et al., 2021;
+Sitanggang et al., 2025).
+Human Resources and Institutional Weaknesses
+Both ports suffer from a shortage of technical manpower and insufficiently trained
+personnel, with organizational structures characterized by daily executive arrangements
+without clearly defined structural positions or accountability frameworks. To address this gap,
+this study proposes a three-pillar professional port management strategy: (i) organizational
+80
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+restructuring, in which each port adopts a formal Port Technical Implementation Unit (UPT)
+structure with clearly defined echelon-IV positions for a Port Master (Syahbandar), Head of
+Operations and Catch Recording, Head of Facilities and Cold-Chain Maintenance, and Head
+of Statistics and Information Systems; (ii) targeted recruitment, in which the NTT Provincial
+Marine and Fisheries Service initiates competitive recruitment for at least one certified Port
+Master and two Catch Recorders per port, in collaboration with the KKP and Politeknik
+Kelautan dan Perikanan Kupang; and (iii) continuous capacity-building through a structured
+annual training program covering log-book verification, VMS data interpretation, e-PIPP and
+SIPEPI reporting, cold-chain quality assurance, and occupational health and safety, with
+refresher certification required biennially.
+Budget Constraints and Operational Costs
+Limited budgetary allocations for routine maintenance have led to a progressive decline
+in service quality. Additionally, high operational logistics costs — particularly for fuel and cold
+chain supplies — create economic barriers for small-scale operators. The national adjustment
+of subsidized fuel prices in September 2022 led to an estimated 25–30% increase in operational
+cost per fishing trip for small and medium vessels operating out of PPI Oeba and PPP Tenau,
+reducing trip frequency and fishing-ground coverage for many operators.
+Production Volatility and Market Uncertainty
+TCT production is highly dependent on seasonal and meteorological conditions, resulting
+in supply instability. The production decline from 2022 to 2024 was exacerbated by several
+structural factors beyond weather: the implementation of the Penangkapan Ikan Terukur
+policy under Government Regulation No. 11 of 2023 introduced quota-based fishing zones
+requiring transitional adjustments in licensing and vessel registration that temporarily reduced
+volumes formally recorded at NTT ports; and regional logistics constraints — including limited
+cold-chain reefer container availability on the Kupang–Surabaya and Kupang–Makassar
+shipping routes and the rationalization of inter-island cargo schedules — increased post-
+harvest losses and discouraged shipments of fresh tuna-grade products. These structural
+factors reinforce the need for the optimization strategies discussed in Section 5 (Suman et al.,
+2020; Proctor et al., 2019).
+Waste Management and Environmental Sanitation
+Inadequate waste management infrastructure, combined with low environmental
+awareness among port users, results in unsanitary conditions across port perimeter areas that
+threaten both ecosystem sustainability and compliance with international food safety and
+export standards. As an integral component of the port-optimization strategy, this study
+recommends a structured waste-management system for PPI Oeba and PPP Tenau
+comprising: segregated waste bins (organic fish waste, plastic, metal, and hazardous/B3
+categories) at every dock, fish-handling area, ice-loading bay, and TPI auction floor;
+construction of a Temporary Waste Storage Facility (TPS) within the port perimeter, integrated
+with the municipal waste-collection schedule of Kupang City; establishment of a small-scale
+fish-waste processing unit (rendering, fish meal, or silage) operated through a cooperative
+scheme; a scheduled clean-up program involving daily routine sweeping, weekly joint clean-
+ups (Jumat Bersih), and quarterly community campaigns; and a monitoring and enforcement
+mechanism incorporating sanitation compliance into port service-level standards (SOPs) with
+monthly reporting to the UPT. This package is essential to support the overarching ‘Eco-Fishing
+Port’ concept (Yulisti et al., 2022).
+Strategic Recommendations for Port Optimization
+Based on empirical findings and stakeholder consultations, the following integrated
+optimization strategies are recommended for PPI Oeba and PPP Tenau, structured across
+short-, medium-, and long-term horizons:
+81
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Short-Term: Infrastructure Revitalization and Cold Chain Development
+Priority rehabilitation of cold chain systems — including ice machines and cold storage
+units — is urgently required at both ports to reduce post-harvest losses and maintain product
+quality for market and export. Port basin dredging and wharf extension, particularly at PPP
+Tenau, are critical to accommodate larger-tonnage vessels and reduce operational
+congestion. Systematic provision of basic utilities — clean water, stable electricity, and fuel —
+must be guaranteed to sustain uninterrupted port operations (KKP, 2020; Lubis, 2012).
+Short-Term: Institutional Strengthening and Human Resource Development
+Port governance should be strengthened through formalization of UPT structures and
+professionalization of staffing at both ports, as detailed in Section 4.2. Targeted capacity-
+building programs for technical personnel — harbor masters, production officers, and logistical
+coordinators — are essential to improve data accuracy, vessel management, and catch
+recording (Sitanggang et al., 2025). Port zoning — reorganizing landing, marketing, and
+logistics layouts — will improve loading and unloading efficiency and port cleanliness.
+Medium-Term: Investment Facilitation and Business Ecosystem Development
+Public–private partnership (PPP) schemes should be actively promoted to attract private
+sector investment into underutilized port facilities, reducing reliance on state budget
+allocations (APBD/APBN). Port status improvement — encouraging class upgrades from PPI to
+PPP for strategic locations serving vessels over 30 GT — will expand operational reach.
+Integration of processing and value-addition industries within or adjacent to port areas would
+capture greater economic value from TCT landings, enabling export of processed rather than
+raw products and enhancing the income multiplier effect for regional communities (Bailey et
+al., 2016; Bennett et al., 2021).
+Medium-Term: Digitalization and Technological Innovation
+The implementation of an integrated port information management system —
+incorporating digital logistic inventories, real-time catch monitoring, and vessel tracking —
+would significantly enhance operational transparency and decision-making efficiency. The
+INFINITY framework developed by Widiastuti et al. (2024) provides a directly applicable model
+for integrating fisheries port information systems with green port governance principles. GIS-
+based mapping of production potential across WPP 714 and 715 fishing grounds would provide
+data-driven support for resource management and strategic port planning (Kementerian
+Kelautan dan Perikanan, 2021).
+Long-Term: Environmental Sustainability and Certification
+The Eco-Fishing Port concept — as assessed by Yulisti et al. (2022) — should be adopted
+as the operational framework for both ports, integrating standardized liquid and solid waste
+management systems, sanitation infrastructure, and environmental monitoring mechanisms as
+described in Section 4.5. This is a prerequisite for compliance with international export
+standards. Fishermen and industry operators should be supported in obtaining sustainability
+certifications — such as the Marine Stewardship Council (MSC) certification — to enhance the
+competitive positioning of NTT’s TCT products in premium global markets (United Nations, 2015;
+Halim et al., 2019). Product downstreaming — encouraging the development of fish processing
+industries around port areas — will enable NTT to export processed products rather than fresh
+or frozen fish alone, significantly increasing regional economic value added (Suharyanto et
+al., 2025).
+CONCLUSION
+This study concludes that despite the substantial fisheries potential of East Nusa Tenggara
+(NTT) Province in the TCT sector within WPP 714 and 715, port facility utilization at PPI Oeba and
+PPP Tenau remains significantly suboptimal due to four interrelated systemic factors: critical
+infrastructure deterioration (particularly in cold chain systems and aging wharfs); institutional
+governance deficits (staffing shortages, unclear organizational structures, and non-
+participatory policy processes); non-integrated supply chains that export raw rather than
+82
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+processed fish, limiting regional value capture; and inadequate environmental management
+that threatens ecosystem sustainability and export compliance.
+The mixed-methods analysis reveals that stakeholders across all groups consistently
+identify infrastructure and institutional weaknesses as primary barriers to port optimization, while
+simultaneously expressing relatively high satisfaction with basic port accessibility and the
+economic value of TCT commodities — suggesting that productive potential is constrained by
+remediable structural factors rather than fundamental market limitations.
+The key transformation required is the repositioning of fishing ports from passive landing
+sites to integrated maritime–industrial hubs capable of supporting the full TCT value chain from
+landing through processing, cold storage, certification, and export. Achievement of this goal
+necessitates coordinated, multi-stakeholder action encompassing infrastructure investment,
+institutional reform, private sector engagement, digital innovation, and environmental
+stewardship. The optimization framework proposed in this study — grounded in evidence from
+180 respondents across multiple stakeholder groups and triangulated through qualitative field
+interviews — provides a replicable, evidence-based model applicable to other archipelagic
+provinces with analogous structural challenges in the capture fisheries sector.
+REFERENCES
+Agustian, D., Megantara, E. N., Ihsan, Y. N., & Cahyandito, M. F. (2023). Ecosystem approach
+to fisheries management in Palabuhanratu Nusantara Fishing Port: Evaluation and
+development strategy. Indonesian Fisheries Research Journal, 29(1), 1–10.
+DOI: https://doi.org/10.15578/ifrj.29.1.2023.1-10
+Widiastuti, N. P. E., Kusumajanti, K., & Nashir, A. K. (2024). How the Integrated Fishing Port with
+Information System for Sustainability (INFINITY) realizes governance of Green Fishing
+Port. Cogent Business & Management, 11(1), 2421409.
+DOI: https://doi.org/10.1080/23311975.2024.2421409
+Badan Perencanaan Pembangunan Riset dan Inovasi Daerah (Bapperida) Provinsi NTT. (2025).
+Strategi optimalisasi pemanfaatan pelabuhan perikanan dalam mendukung
+industri perikanan tuna, cakalang, dan tongkol secara berkelanjutan di Provinsi NTT.
+Pemerintah Provinsi Nusa Tenggara Timur.
+Bailey, M., Bush, S. R., Miller, A., & Kochen, M. (2016). The role of traceability in transforming
+seafood governance in the Global South. Current Opinion in Environmental
+Sustainability, 18, 25–32.
+DOI: https://doi.org/10.1016/j.cosust.2015.06.004
+Bennett, N. J., Blythe, J., White, C. S., & Campero, C. (2021). Blue growth and blue justice: Ten
+risks and solutions for the ocean economy. Marine Policy, 125, 104387.
+DOI: https://doi.org/10.1016/j.marpol.2020.104387
+Creswell, J. W., & Plano Clark, V. L. (2018). Designing and conducting mixed methods research
+(3rd ed.). SAGE Publications.
+Halim, A., Wiryawan, B., Loneragan, N. R., Hordyk, A., Sondita, M. F. A., White, A. T.,
+Koeshendrajana, S., Ruchimat, T., Pomeroy, R. S., & Yuni, C. (2019). Developing a
+functional definition of small-scale fisheries in support of marine capture fisheries
+management in Indonesia. Marine Policy, 100, 238–248.
+DOI: https://doi.org/10.1016/j.marpol.2018.11.044
+Setyohadi, D., Pamungkas, R. S., Purwanto, H., Sunardi, Sulkhany, E., Syawli, A., Rahman, M. A.,
+& Kadhafi, M. (2024). Enhancing fisheries management and sustainability: A
+stowage factor analysis of fish species at Mayangan Port, Indonesia. International
+Journal of Design & Nature and Ecodynamics, 19(6), 1939.
+DOI: https://doi.org/10.18280/ijdne.190610
+Iksan, K. H., Latif, H. A., Wahidin, N., Karman, A., Taeran, I., & Djamhur, M. (2021). Evaluasi tingkat
+pemanfaatan dan kepuasan pengguna fasilitas rantai dingin dan Solar Packed
+Dealer Nelayan Pangkalan Pendaratan Ikan Goto Kota Tidore Kepulauan. Jurnal
+Agribisnis Perikanan, 14(2), 649–657.
+DOI: https://doi.org/10.52046/agrikan.v14i2.649-657
+83
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Kementerian Kelautan dan Perikanan Republik Indonesia. (2012). Peraturan Menteri Kelautan
+dan Perikanan Nomor PER.08/MEN/2012 tentang Kepelabuhanan Perikanan.
+Jakarta: Kementerian Kelautan dan Perikanan.
+Kementerian Kelautan dan Perikanan Republik Indonesia. (2020). Laporan kinerja Kementerian
+Kelautan dan Perikanan tahun 2020. Jakarta: Kementerian Kelautan dan Perikanan.
+Kementerian Kelautan dan Perikanan Republik Indonesia. (2021). Grand design
+pembangunan kelautan dan perikanan 2021–2024. Jakarta: Kementerian Kelautan
+dan Perikanan.
+Kementerian Kelautan dan Perikanan Republik Indonesia. (2023). Keputusan Menteri Kelautan
+dan Perikanan Nomor 132 Tahun 2023 tentang Rencana Induk Pembangunan
+Pelabuhan Perikanan Nasional (RIPPN) 2024–2028. Jakarta: Kementerian Kelautan
+dan Perikanan.
+Kementerian Kelautan dan Perikanan Republik Indonesia. (2025). Statistik perikanan tangkap
+Indonesia 2023. Jakarta: Direktorat Jenderal Perikanan Tangkap.
+Lubis, E. (2011). Kajian peran strategis pelabuhan perikanan terhadap pengembangan
+perikanan laut. Akuatik: Jurnal Sumberdaya Perairan, 5(2), 1–7.
+Lubis, E. (2012). Pelabuhan perikanan. Bogor: IPB Press.
+Lubis, E., & Pane, A. B. (2017). Institutional model of fish auction refunctionalization in Indonesian
+fishing ports. AACL Bioflux, 10(6), 1456–1465.
+Mau, Y., Siahaan, I. C. M., & Rajab, R. (2024). Penanganan ikan tuna loin di atas kapal:
+Tahapan processing dan pemasaran pada CV. Charlie Eka Pranata di PPI Oeba
+Kupang, Provinsi Nusa Tenggara Timur. Jurnal Bahari Papadak, 5(2), 17–31.
+Pomeroy, R., Arango, C., Lomboy, C. G., & Box, S. (2020). Financial inclusion to build economic
+resilience in small-scale fisheries. Marine Policy, 118, 103982.
+https://doi.org/10.1016/j.marpol.2020.103982
+Proctor, C. H., Natsir, M., Mahiswara, Widodo, A. A., Utama, A. A., Wudianto, Satria, F.,
+Hargiyatno, I. T., Sedana, I. G. B., Cooper, S. P., Sadiyah, L., Nurdin, E., Anggawangsa,
+R. F., & Susanto, K. (2019). A characterisation of FAD-based tuna fisheries in
+Indonesian waters. ACIAR Final Report FIS/2009/059.
+DOI: https://doi.org/10.13140/RG.2.2.34985.42083
+Siregar, S. (2013). Metode penelitian kuantitatif: Dilengkapi dengan perbandingan
+perhitungan manual dan SPSS (1st ed.). Jakarta: Kencana Prenadamedia Group.
+Sitanggang, W., Djou, N. T. A. S., Pramudya, H., Alamsyah, S., Pitaloka, M. D. A., Soares, D. D.
+C., & Kiuk, Y. (2025). Analisis strategis pengelolaan Pelabuhan Perikanan Pantai
+Tenau dalam mendukung peningkatan produksi perikanan tangkap di Kabupaten
+Kupang. Akuatika Indonesia, 10(1).
+DOI: https://doi.org/10.24198/akuatika.v10i1.53110
+Sugiyono. (2019). Metode penelitian kuantitatif, kualitatif, dan R&D (2nd ed.). Bandung:
+Alfabeta.
+Suharyanto, Mustaruddin, Mantani, S., Nurlela, E., & Barokah, S. (2025). Estimating sustainable
+effort rates for skipjack tuna fisheries landed at Yogyakarta’s coastal fishing port
+using the Fox model. Marine Fisheries: Journal of Marine Fisheries Technology and
+Management, 16(1), 15–26.
+Suman, A., Irianto, H. E., Satria, F., & Amri, K. (2020). Potential and level of utilization of marine
+fish resources in Indonesia’s Fisheries Management Areas (FMA RI) 2015. Indonesian
+Fisheries Research Journal, 26(2), 99–108.
+DOI: https://doi.org/10.15578/ifrj.26.2.2020.99-108
+Sutopo, H. B. (1988). Pengantar penelitian kualitatif. Surakarta: Universitas Sebelas Maret Press.
+United Nations. (2015). Transforming our world: The 2030 Agenda for Sustainable Development
+(Resolution A/RES/70/1). United Nations General Assembly.
+Yulisti, M., Triyanti, R., Nasution, Z., & Apriliani, T. (2022). Eco-Fishing Port assessment model as an
+environmental management strategy in coastal fishing port. IOP Conference Series:
+Earth and Environmental Science, 1033(1), 012055.
+United Nations. (2015). Transforming our world: The 2030 Agenda for Sustainable Development
+(Resolution A/RES/70/1). United Nations General Assembly.
+https://doi.org/10.1088/1755-1315/1033/1/012055
+84

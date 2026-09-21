@@ -1,0 +1,4 @@
+Stock,Group,Name,ScientificName,Resilience,r.low,r.hi,stb.low,stb.hi,int.yr,intb.low,intb.hi,endb.low,endb.hi,btype,e.creep,force.cmsy
+Katsuwonus_pelamis_711,Large Pelagics,Cakalang,Katsuwonus pelamis,Medium,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Cucut_Botol_711,Large Pelagics,Cucut Botol,Cucut Botol,Very Low,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Cucut_Lanyam_711,Large Pelagics,Cucut Lanyam,Cucut Lanyam,Low,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE

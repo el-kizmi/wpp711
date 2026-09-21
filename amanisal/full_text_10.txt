@@ -1,0 +1,667 @@
+Vol. 15 | No. 1: 115 - 128
+Mei, 2026
+Peer-Reviewed ☑
+https://doi.org/10.30598/amanisal.v15i1.25476
+Dinamika Ekonomi Dan Adaptasi Nelayan Hand Line Terhadap Musim Pelagis
+Donggala
+(Economic Dynamics and Adaptation of Hand Line Fishermen to Donggala Pelagic
+Seasons)
+Ahsan Mardjudo1, Hartina2, Rusli2, Sri Sudewi3
+1 Program Studi Agrobisnis, Fakultas Perikanan, Universitas Alkhairaat,
+Jl. Diponegoro No. 39, Kota Palu, Sulawesi Tengah
+2 Program Studi Sumber Daya Akuatik , Fakultas Perikanan, Universitas Alkhairaat,
+Jl. Diponegoro No. 39, Kota Palu, Sulawesi Tengah
+3 Badan Riset dan Inovasi Daerah (BRIDA) Provinsi Sulawesi Tengah,
+Jl. Garuda No. 30 A, Tanamodindi, Kec. Mantikulore, Kota Palu
+Email: ahsan.mardjudo@gmail.com, thartina17@gmail.com, ruslishogir@gmail.com,
+srisudewirahim@gmail.com
+☑ Article Info : Abstract
+Recived : 20 April 2026
+Accepted : 27 Mei 2026
+Online : 30 Mei 2026 This study aims to examine the household economic dynamics and
+adaptation strategies employed by hand line fishers in response to seasonal
+ Article type changes affecting pelagic fish catches in Donggala Regency, Central
+Review Article Sulawesi. A total of 30 fishers operating from the Boneoge and Labuan Bajo
+Commin Serv. Articel
+landing sites were involved as respondents using a survey method with
+✓ Research Article
+descriptive quantitative and qualitative approaches. The quantitative
+approach was applied to analyze differences in household income between
+ Keyword :
+Adaptation strategies, Fisheries the fishing season and the lean season using a paired-sample t-test.
+Resource management, Fishing Meanwhile, the qualitative approach sought to explore in depth the various
+season, Handline fishermen, forms of socio-economic adaptation implemented by fishers due to seasonal
+Household economy changes in their fishing activities. Qualitative data were collected through in-
+depth interviews and field observations to understand household adaptation
+ Corresponding Author :
+mechanisms, social networking practices, and the utilization of local
+Ahsan Mardjudo
+institutions. The findings reveal that the average monthly household income
+Program Studi Agrobisnis, Fakultas
+Perikanan, Universitas Alkhairaat of fishers declined sharply from IDR 5,790,000 during the fishing season to IDR
+2,890,000 during the lean season, with a statistically significant difference (p
+Email: < 0.05). This income reduction prompted fishers to adopt various adaptive
+ahsan.mardjudo@gmail.com strategies, including livelihood diversification, household financial
+management, and the strengthening of social ties among fishers. Household
+economic resilience was further supported by social adaptation practices
+based on mutual cooperation (gotong royong) and the use of local
+institutions. These results underscore that strengthening adaptive fisheries
+policies and socio-economically based management of pelagic fish
+resources is essential to enhance the adaptive capacity and livelihood
+sustainability of coastal communities.
+Copyright © 2026, Ahsan Mardjudo, Hartina, Rusli, Sri Sudewi
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+PENDAHULUAN
+Sektor kelautan dan perikanan memegang peranan penting dalam perekonomian
+nasional Indonesia, khususnya melalui penyediaan lapangan kerja, jaminan pangan, serta
+peningkatan taraf hidup komunitas pesisir. Sekitar 60% lebih penduduk di wilayah pesisir
+menggantungkan hidupnya pada usaha penangkapan ikan, terutama yang berskala
+tradisional dan kecil (Mardyani et al., 2020). Kabupaten Donggala di Sulawesi Tengah
+termasuk salah satu daerah di Indonesia di mana perikanan tangkap skala kecil menjadi
+tulang punggung perekonomian masyarakat setempat. Sayangnya, kelangsungan hidup
+nelayan skala kecil sangat mudah terpengaruh oleh ketidakpastian musim tangkap,
+perubahan parameter oseanografi, serta naik-turunnya ketersediaan ikan pelagis. Akibatnya,
+stabilitas pendapatan rumah tangga nelayan menjadi terganggu, terutama bagi pengguna
+pancing ulur (hand line) yang masih mengandalkan peralatan sederhana, tenaga kerja
+keluarga, serta pengetahuan lokal dalam menentukan jadwal dan lokasi melaut (Lukum et
+al., 2023; Amanda et al., 2025). Dari sisi teknologi penangkapan, hand line merupakan alat
+tangkap sederhana, selektif, dan relatif ramah lingkungan, tetapi memiliki keterbatasan
+dalam jangkauan operasi, kapasitas tangkap, dan ketergantungan terhadap kondisi cuaca
+serta pengalaman nelayan. Keterbatasan teknologi ini menyebabkan nelayan pancing ulur
+lebih rentan terhadap perubahan musim dibandingkan nelayan dengan armada atau alat
+tangkap yang lebih besar (Choirunnisa et al., 2022; Kasri et al., 2024).
+Salah satu pusat perikanan tangkap yang terpenting di Kawasan Teluk Tomini berada di
+Kabupaten Donggala Provinsi Sulawesi Tengah. Kedua lokasi ini menjadi pusat aktivitas
+penangkapan, pendaratan hasil tangkapan, distribusi ikan, dan interaksi sosial-ekonomi
+nelayan. Perbedaan akses terhadap daerah penangkapan, kondisi musim, jaringan
+pemasaran, serta dukungan kelembagaan lokal menjadikan kedua lokasi tersebut relevan
+untuk memahami variasi strategi adaptasi nelayan dalam menghadapi ketidakpastian musim
+penangkapan ikan pelagis. Di wilayah tersebut banyak ditemukan ikan pelagis kecil dan
+besar seperti tuna, cakalang, dan tongkol yang memiliki potensi ekonomi untuk
+dikembangkan (Mardjudo & Yasin, 2017). Proses penangkapan ikan oleh sebagian besar
+nelayan di daerah ini masih menggunakan alat seperti pancing ulur atau tangkap tangan,
+yang ramah lingkungan dan cocok untuk perikanan skala kecil. Namun demikian, perubahan
+yang terjadi selama musim timur dan barat memengaruhi distribusi dan ketersediaan ikan,
+yang memengaruhi upaya penangkapan ikan pelagis di Kabupaten tersebut. Selama musim
+timur (Mei hingga Desember), suhu permukaan laut dan kondisi perairan relatif tenang
+mendukung penangkapan. (Prasita et al. (2021) melaporkan bahwa pada musim barat
+(Januari hingga April), ombak dan angin kencang membuat melaut menjadi sulit. Produksi
+tangkapan ikan dan pendapatan nelayan dipengaruhi langsung oleh perubahan kondisi
+oseanografi (Siswantoputri et al., 2024; Pratama et al., 2022).
+Nelayan harus menyesuaikan diri dengan fluktuasi pendapatan dalam konteks sosial-
+ekonomi. Menurut Wulandari et al. (2022), salah satu strategi penting yang digunakan
+masyarakat pesisir untuk mempertahankan penghidupan di tengah ketidakpastian ekonomi
+dan lingkungan adalah strategi adaptasi. Pengembangan bisnis sampingan di luar sektor
+perikanan, diversifikasi pekerjaan, dan pengelolaan keuangan keluarga adalah beberapa
+contoh strategi adaptasi nelayan. Banyak nelayan tangkap pancing tangan (hand line) di
+Donggala yang beralih menjadi petani, sopir ojek, atau buruh bangunan saat musim paceklik.
+Metode ini mendukung keberlanjutan rumah tangga nelayan melalui adaptasi sosial dan
+ekonomi (Liando et al., 2020).
+Sejumlah penelitian sebelumnya telah membahas kerentanan ekonomi nelayan kecil,
+perubahan musim penangkapan, dan strategi adaptasi rumah tangga pesisir. Namun, kajian
+yang secara spesifik menghubungkan dinamika musim penangkapan, perubahan
+pendapatan, karakteristik teknologi hand line, dan strategi adaptasi nelayan pancing ulur di
+Kabupaten Donggala masih terbatas. Selain itu, sebagian besar studi lebih banyak menyoroti
+nelayan secara umum tanpa membedakan karakteristik alat tangkap, lokasi pendaratan,
+serta pola adaptasi sosial-ekonomi yang berkembang pada komunitas nelayan hand line.
+Selain itu, pengelolaan sumber daya perikanan juga dipengaruhi oleh dinamika ekonomi
+116
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+rumah tangga nelayan. Intensitas penangkapan ikan pelagis cenderung meningkat selama
+musim tangkap yang melimpah. Kondisi ini dapat menyebabkan sumber daya ikan
+mengalami tekanan yang berlebihan (Shahzad, 2024). Akibatnya, kebijakan pengelolaan
+sumber daya ikan harus mempertimbangkan aspek sosial dan ekonomi masyarakat pesisir.
+Indriyani et al. (2025) mengungkapkan bahwa strategi pengelolaan berbasis ekosistem dan
+meningkatkan kemampuan masyarakat untuk beradaptasi dapat mengurangi kerentanan
+nelayan terhadap perubahan lingkungan dan sekaligus menjaga kelestarian stok ikan.
+Undang-Undang Nomor 7 Tahun 2016 tentang Perlindungan dan Pemberdayaan
+Nelayan telah ditetapkan oleh pemerintah untuk melindungi nelayan, namun implementasi
+di tingkat lokal masih menghadapi berbagai masalah terutama dalam penyediaan data
+sosial-ekonomi, kelembagaan lokal yang kuat, serta sistem informasi musim yang akurat (Azhar
+et al., 2023). Studi empiris seperti ini sangat penting untuk memberikan dasar bagi kebijakan
+berbasis bukti yang berkaitan dengan perubahan yang dilakukan nelayan terhadap musim
+penangkapan ikan pelagis.
+Kebijakan pengelolaan perikanan tangkap dapat diarahkan untuk meningkatkan
+produksi dan meningkatkan ketahanan sosial-ekonomi masyarakat pesisir dengan
+memahami dinamika pendapatan dan strategi adaptasi rumah tangga nelayan (Suhana et
+al., 2025). Metode ini sejalan dengan Tujuan Pembangunan Berkelanjutan (SDG 14) tentang
+kehidupan bawah laut (Life Below Water) dan SDG 1. Berdasarkan latar belakang tersebut,
+penelitian ini memiliki dua sasaran utama: (1) menganalisis perubahan kondisi ekonomi rumah
+tangga nelayan hand line pada periode musim penangkapan ikan pelagis, serta (2)
+mengidentifikasi beragam metode adaptasi yang dilakukan nelayan guna mempertahankan
+ketahanan ekonomi sekaligus menjaga kelestarian sumber daya perikanan di wilayah
+Kabupaten Donggala, Sulawesi Tengah.
+Pembagian musim penangkapan dalam penelitian ini tidak hanya didasarkan pada
+klasifikasi umum musim timur dan musim barat, tetapi juga mempertimbangkan kalender
+musim nelayan lokal, perubahan intensitas angin dan gelombang, serta pola produksi
+bulanan yang memengaruhi aktivitas penangkapan ikan pelagis. Oleh karena itu, penelitian
+ini penting dilakukan untuk menganalisis perubahan pendapatan rumah tangga nelayan dan
+strategi adaptasi yang dikembangkan nelayan pancing ulur dalam menghadapi
+ketidakpastian musim penangkapan di Kabupaten Donggala.
+MATERI DAN METODE
+Lokasi penelitian ini ditetapkan di dua tempat pendaratan ikan, yakni Kelurahan
+Boneoge dan Labuan Bajo, Kabupaten Donggala, Sulawesi Tengah. Waktu pelaksanaan
+disesuaikan dengan periode musim tangkap dan musim paceklik nelayan pancing ulur, yaitu
+Januari–April 2025 untuk musim penangkapan dan Mei–Agustus 2025 untuk musim paceklik.
+Pemilihan kedua lokasi tersebut dilakukan secara purposif dengan pertimbangan bahwa
+Boneoge dan Labuan Bajo merupakan pangkalan utama bagi aktivitas nelayan hand line
+yang menangkap ikan pelagis di pesisir Donggala. ... Populasi penelitian mencakup 300 orang
+nelayan pancing ulur yang aktif di kedua pangkalan tersebut. Sampel diambil sebesar 10%
+dari populasi, yaitu sebanyak 30 responden. Teknik purposive sampling diterapkan dengan
+kriteria: nelayan masih aktif menggunakan pancing ulur, sudah melaut minimal tiga tahun,
+beroperasi di Boneoge atau Labuan Bajo, dan bersedia menjadi narasumber mengenai
+aktivitas penangkapan dan pendapatan rumah tangga.
+Data primer dikumpulkan melalui survei, wawancara mendalam, dan observasi
+lapangan. Survei digunakan untuk memperoleh data pendapatan, biaya operasional, hasil
+tangkapan, dan jumlah trip penangkapan pada musim penangkapan dan musim paceklik.
+Wawancara mendalam digunakan untuk menggali strategi adaptasi nelayan, seperti
+diversifikasi pekerjaan, pengelolaan keuangan rumah tangga, pemanfaatan jaringan sosial,
+serta dukungan kelembagaan lokal. Observasi lapangan dilakukan untuk mengamati
+aktivitas pendaratan ikan, kondisi alat tangkap, interaksi antar-nelayan, dan aktivitas ekonomi
+di sekitar pangkalan pendaratan.
+Data kuantitatif dianalisis secara deskriptif dan inferensial. Analisis deskriptif digunakan
+untuk menghitung rata-rata pendapatan, biaya operasional, penerimaan, jumlah trip, dan
+perubahan pendapatan antar-musim. Data kuantitatif dianalisis secara deskriptif dan
+117
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+inferensial. Analisis deskriptif digunakan untuk menghitung rata-rata pendapatan, biaya
+operasional, penerimaan, jumlah trip, dan perubahan pendapatan antar-musim. Analisis data
+dilakukan secara kuantitatif menggunakan metode analisis deskriptif digunakan untuk
+mengetahui waktu penangkapan ikan oleh nelayan dalam 1 (satu) tahun berdasarkan musim
+penangkapan ikan dan analisis pendapatan rumahtangga nelayan dari kegiatan perikanan
+maupun non perikanan (Mardjudo,A dan Muhammad Y, 2017). Pendapatan rumah tangga
+nelayan dari kegiatan perikanan dihitung dengan rumus :
+𝑃𝐷𝑝 =𝑇𝑅−𝑇𝐶
+𝑇𝐶 =𝑉𝐶+𝐹𝐶
+𝑇𝑅 =𝐻𝑇−𝐻𝑖𝑘𝑛
+Keterangan:
+𝑃𝐷𝑝 = pendapatan perikanan (Rp);
+𝑇𝑅 = penerimaan perikanan (Rp);
+𝑇𝐶 = total biaya melaut (Rp);
+𝑉𝐶 = biaya variabel melaut (Rp);
+𝐹𝐶 = biaya tetap melaut (Rp);
+𝐻𝑇 = hasil tangkapan (kg);
+𝐻 = harga ikan (Rp).
+𝑖𝑘𝑛
+a). Pendapatan Rumahtangga dari Kegiatan Perikanan
+PDp = TR – TC
+TC = VC + FC
+TR = HT.HIkn
+Dimana :
+PDp = pendapatan perikanan (Rp)
+TR = penerimaan perikanan (Rp)
+TC = total biaya melaut (Rp)
+VC = biaya variable melaut(Rp)
+FC = biaya tetap melaut (Rp)
+HT = hasil tangkapan (Kg)
+HIkn = harga ikan (Rp)
+b). Pendapatan Rumahtangga Dari Luar Kegiatan Perikanan
+PDnp = (CTKsmnp . UTKsmnp) + (CTKisnp . UTKinp) + (CTanp . UTKanp)
+Dimana :
+PDnp = Pendapatan Non Perikanan (Rp)
+CTKsmnp = Curahan Tenaga Kerja Suami Non Perikanan (HOK)
+UTKsmnp = Upah Tenaga Kerja Suami Non Perikanan (Rp)
+CTKisnp = Curahan Tenaga Kerja Istri Non Perikanan (HOK)
+UTKinp = Upah Tenaga Kerja Istri Non Perikanan (Rp)
+CTanp = Curahan Tenaga Kerja Anak Non Perikanan (HOK)
+UTKanp = Upah Tenaga Kerja Anak Non Perikanan (Rp)
+c). Pendapatan Total Rumahtangga
+PDRT = PDp + PDnp
+Dimana :
+PDRT = Pendapatan Rumahtangga
+PDp = Pendapatan Perikanan
+PDnp = Pendapatan Nonperikanan
+118
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+HASIL DAN PEMBAHASAN
+Analisis Ekonomi Rumah Tangga Nelayan Hand Line
+1. Karakteristik Responden dan Aktivitas Penangkapan
+Sebanyak tiga puluh nelayan yang menggunakan alat tangkap pancing tangan di dua
+pangkalan pendaratan utama di Kabupaten Donggala yaitu wilayah Boneoge dan Labuan
+Bajo sebagai responden dalam penelitian ini. Variabel responden meliputi umur, pendidikan
+dan pengalaman melaut yang disajikan pada Tabel 1.
+Tabel 1. Karakteristik Responden Nelayan Hand Line di Kabupaten Donggala
+Variabe l Kategori Jumlah (Orang) Persentase (%)
+U mur < 30 tahun 5 16,67
+30–45 tahun 15 50,00
+> 45 tahun 10 33,33
+P endidi kan SD 12 40,00
+SMP 10 33,33
+SMA 8 26,67
+P engala man Melaut < 5 tahun 4 13,33
+5–10 tahun 11 36,67
+> 10 tahun 15 50,00
+Usia responden nelayan pancing tangan (hand line) di Kabupaten Donggala bervariasi
+dan didominasi oleh kelompok usia produktif. Jumlah responden terbanyak terlihat pada umur
+30-45 tahun, sebanyak 15 orang (50,00%). Responden dengan usia di atas 45 tahun berjumlah
+10 orang (33,33%), sedangkan paling sedikit, yaitu sebanyak 5 orang (16,67%) usia < 30 tahun.
+Usia produktif mendominasi karakteristik responden yang menunjukkan bahwa aktivitas
+penangkapan ikan masih didukung oleh tenaga kerja yang memiliki kemampuan fisik yang
+optimal, memiliki pengalaman melaut yang cukup, sehingga lebih adaptif dalam
+menghadapi dinamika musim penangkapan dan perubahan kondisi perairan. Sejalan
+dengan Sigalingging et al. (2026) mengemukakan bahwa usia produktif berperan penting
+dalam menunjang efektivitas aktivitas penangkapan, baik dari aspek fisik maupun
+kemampuan pengambilan keputusan.
+Studi ini melibatkan tiga puluh nelayan yang menggunakan alat tangkap pancing
+tangan di dua pangkalan pendaratan utama di Kabupaten Donggala yaitu wilayah
+Boneoge dan Labuan Bajo. Semua peserta menggunakan kapal kecil (1–5 GT) dan
+melakukan operasi penangkapan baik pada siang maupun malam hari dengan waktu
+perjalanan 1–3 hari. Selama musim tangkap, dilaporkan 8–10 trip per bulan. Selama musim
+paceklik, yang berlangsung dari Januari hingga April, frekuensi melaut turun drastis atau sama
+sekali. Hasil riset ini konsisten dengan Larasati et al. (2024) yang menyatakan bahwa pola
+seasonalitas perikanan pelagis yang dipengaruhi oleh cuaca lokal dan kondisi oseanografi.
+Ada bukti bahwa perubahan perilaku melaut pada komunitas nelayan kecil dipengaruhi
+utamanya oleh perubahan distribusi stok dan variabilitas musim (Ojea et al., 2020).
+Tabel 1. Jenis Ikan Hasil Tangkapan Nelayan Hand Line di Kabupaten Donggala,
+Sulawesi Tengah
+No Family Spesies Nama Indonesia Nama Lokal
+1 Scombridae Thunnus obesus Tuna mata besar Ambu-ambu
+Thunnusalbacores Madidihang Kuli-Kuli
+Katsuwonus pelamis Cakalang Tompi
+Euthynnus affinis Tongkol Deho
+2 Carangidae Selaroides leptolepis Selar Katombo
+119
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Sumber: Olah data pribadi, 2025
+(a) (b)
+Gambar 1. Spesies ikan pelagis hasil tangkapan nelayan pancing ulur di Kabupaten
+Donggala: (a) Selaroides leptolepis (Selar kuning); (b) Decapterus
+macrosoma (Layang). Identifikasi spesies mengacu pada FishBase dan
+karakter morfologi lapangan.
+Riantini et al. (2024) menemukan fenomena serupa dan menguraikan bagaimana
+pergeseran musim dan perubahan iklim memengaruhi aktivitas penangkapan nelayan dan
+ketersediaan ikan, menimbulkan ketidakpastian ekonomi rumah tangga. Selain itu, seperti
+yang dinyatakan oleh Rahman et al. (2021) bahwa kesuksesan nelayan dalam
+mempertahankan kesejahteraan sangat bergantung pada kemampuan mereka untuk
+menyesuaikan diri dengan perubahan iklim laut dan musim.
+2. Musim Penangkapan dan Pola Pendapatan
+Data survei mengungkapkan adanya disparitas pendapatan yang tajam antara musim
+paceklik dan musim tangkap pada nelayan hand line di Kabupaten Donggala. Pada periode
+Mei sampai Desember (musim tangkap), pendapatan rumah tangga rata-rata mencapai
+Rp5.790.000 per bulan. Sebaliknya, pada bulan Januari hingga April (musim paceklik),
+pendapatan merosot menjadi hanya Rp2.890.000 per bulan. Penurunan sekitar setengah dari
+pendapatan normal ini mengindikasikan tingginya kerentanan ekonomi yang dihadapi
+nelayan saat tidak dapat melaut secara optimal. Sejalan dengan yang dikemukakan oleh
+Bennett et al. (2021) bahwa rumah tangga perikanan yang kecil memiliki fenomena fluktuasi
+pendapatan musiman, yang sangat bergantung pada cuaca dan ekosistem laut.
+Tabel 2. Pendapatan Rumah Tangga Nelayan pada Musim Tangkap (Per bulan)
+Pendapatan (Rp/bulan) Frekuensi (responden) Persentase (%)
+3.500.000 – <4.600.000 6 20,00
+4.600.000 – <5.700.000 9 30,00
+5.700.000 – <6.800.000 11 36,67
+6.800.000 – 7.900.000 4 13,33
+Rata-rata Rp5.790.000
+Minimum–Maksimum Rp3.500.000 – Rp7.900.000
+Total responden 30 (100%)
+Sumber: Olah data pribadi, 2025
+120
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Tabel 3. Pendapatan Rumah Tangga Nelayan pada Musim Paceklik (Per bulan)
+Pendapatan (Rp/bulan) Frekuensi (responden) Persentase (%)
+1.300.000 – <2.600.000 8 26,67
+2.600.000 – <3.900.000 14 46,67
+3.900.000 – 5.200.000 8 26,67
+Rata-rata Rp2.890.000
+Minimum–Maksimum Rp1.300.000 – Rp5.200.000
+Total responden 30 (100%)
+Sumber: Olah data pribadi, 2025
+3. Struktur Pendapatan dan Pengeluaran Rumah Tangga
+Terdapat dua bagian utama yang merupakan bagian dari pendapatan rumah tangga
+nelayan yaitu pendapatan perikanan (hasil tangkap bersih) dan pendapatan non-perikanan
+(diversifikasi pekerjaan seperti sopir, penggarap kebun, atau buruh). Pada musim tangkap,
+sumber utama pendapatan berasal dari kegiatan melaut. Pada musim paceklik, proporsi
+pendapatan non-perikanan meningkat. Saksono et al. (2023) melaporkan bahwa diversifikasi
+pendapatan adalah strategi adaptasi penting untuk mengurangi risiko fluktuasi ekonomi yang
+disebabkan oleh perubahan musim di industri perikanan.
+Tabel 4. Pengeluaran Rumah Tangga Nelayan (Per bulan)
+Pengeluaran (Rp/bulan) Frekuensi (responden) Persentase (%)
+1.550.000 – <1.850.000 12 40,00
+1.850.000 – <2.150.000 11 36,67
+2.150.000 – 2.500.000 7 23,33
+Rata-rata Rp1.930.000
+Minimum–Maksimum Rp1.550.000 – Rp2.500.000
+Total responden 30 (100%)
+Sumber: Olah data pribadi, 2025
+Nelayan rata-rata menghabiskan Rp 1.930.000 atau sekitar 33% dari pendapatan musim
+tangkap setiap bulan. Sebagian nelayan menyisihkan bagian dari hasil tangkap untuk
+disisihkan sebagai tabungan, tetapi biasanya tabungan tersebut habis selama musim
+paceklik. Handayati et al. (2025) menemukan situasi serupa di mana rumah tangga nelayan
+menggunakan hasil tangkapannya untuk mempertahankan kebutuhan pangan selama
+musim hujan.
+4. Strategi Diversifikasi Pendapatan
+Sebagian besar nelayan di Kabupaten Donggala beralih profesi sementara ketika tidak
+dapat melaut. Berdasarkan data penelitian pada Tabel 4, sebagian besar bekerja sebagai
+buruh (37 persen), diikuti oleh pengelola kebun (30 persen), sopir/ojek (23 persen), dan
+pekerjaan lain (10 persen).
+Tabel 5. Pekerjaan Nelayan pada Musim Paceklik
+Pekerjaan Jumlah (responden) Persentase (%)
+Mengolah kebun 9 30
+Buruh 11 37
+121
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Pekerjaan Jumlah (responden) Persentase (%)
+Sopir / Ojek 7 23
+Lainnya 3 10
+Total 30 100
+Sumber: Olah data pribadi, 2025
+Kapasitas sosial ekonomi nelayan untuk beradaptasi dengan ketidakpastian lingkungan
+ditunjukkan oleh variasi pekerjaan mereka. Diversifikasi mata pencaharian adalah strategi
+penting untuk nelayan kecil di Asia Tenggara untuk bertahan menghadapi perubahan musim
+dan fluktuasi harga ikan, menurut Islam et al. (2020).
+5. Dampak Ekonomi pada Pengelolaan Sumber Daya
+Studi menunjukkan bahwa tekanan penangkapan terhadap stok ikan pelagis lokal
+meningkat karena intensitas melaut yang meningkat selama musim tangkap. Overfishing
+musiman akan meningkat jika tidak ada kebijakan pengelolaan berbasis ekosistem. Oleh
+karena itu, pengaturan musim penangkapan, pengendalian tenaga kerja, dan penguatan
+institusi nelayan harus disertakan dengan hasil ekonomi rumah tangga. Untuk menjaga
+keberlanjutan ekosistem dan kesejahteraan pesisir, data sosial-ekonomi nelayan harus
+diintegrasikan dengan kebijakan pengelolaan sumber daya berbasis adaptasi (Nuraini et al.,
+2025)
+Hasil penelitian menunjukkan bahwa perubahan yang terjadi selama musim
+penangkapan ikan pelagis sangat memengaruhi rumah tangga nelayan tangan di
+Kabupaten Donggala; perbedaan pendapatan antara musim tangkap dan paceklik
+mencapai 50%. Nelayan menggunakan strategi pengelolaan tabungan dan diversifikasi
+pekerjaan untuk mengatasi perbedaan ini. Meskipun metode ini berhasil mempertahankan
+ketahanan ekonomi dalam jangka pendek, tanpa dukungan legislatif dan kebijakan adaptif,
+hal ini masih kurang kuat untuk menangani perubahan iklim dalam jangka panjang.
+Akibatnya, hasil penelitian ini memberikan dasar untuk kebijakan adaptasi dan pengelolaan
+sumber daya perikanan tangkap yang berbasis sosial-ekonomi. Sejalan dengan hasil temuan
+Bossier et al. (2025) tentang pentingnya adaptasi strategis dalam sektor perikanan skala kecil.
+Strategi Adaptasi Terhadap Musim Penangkapan Dan Kelembagaan Nelayan
+1. Pola Adaptasi Nelayan pada Musim Penangkapan
+Adaptasi didefinisikan sebagai kapasitas nelayan dalam menyesuaikan diri terhadap
+berbagai perubahan—baik yang bersifat lingkungan, ekonomi, maupun sosial—yang
+berdampak pada kegiatan perikanan tangkap. Berdasarkan temuan lapangan, nelayan
+pancing ulur di Kabupaten Donggala menerapkan setidaknya empat pola penyesuaian
+utama dalam menghadapi dinamika musim ikan pelagis: (1) mendiversifikasi sumber
+pekerjaan dan pendapatan, (2) mengatur hasil tangkapan secara lebih efisien, (3)
+memodifikasi jadwal serta lokasi melaut, dan (4) memanfaatkan jejaring sosial antarsesama
+nelayan. Seperti dikemukakan Meland et al. (2021), upaya beradaptasi terhadap perubahan
+iklim dan musim menjadi faktor krusial dalam mempertahankan tingkat pendapatan serta
+ketahanan ekonomi keluarga nelayan.
+2. Metode Adaptasi Ekonomi melalui Diversifikasi Pekerjaan
+Selama periode paceklik, strategi diversifikasi menjadi pilihan utama nelayan di
+Kabupaten Donggala dalam menghadapi tekanan ekonomi. Mayoritas responden beralih
+profesi sementara, seperti menjadi buruh, pengemudi ojek atau angkutan, serta menggarap
+lahan pertanian. Tujuan utamanya adalah menjaga likuiditas rumah tangga tetap stabil serta
+mengurangi ketergantungan yang berlebihan pada pendapatan dari hasil pancing tangan.
+Rubiyanto & Hirota (2025) mencatat bahwa nelayan di berbagai wilayah pesisir Indonesia
+cenderung mencari pekerjaan alternatif sebagai bentuk mitigasi terhadap risiko fluktuasi
+musim dan harga ikan.
+Sebagian nelayan juga diversifikasi aset produktif, seperti membeli alat tangkap
+tambahan saat pendapatan tinggi atau menabung untuk biaya operasional musim
+122
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+berikutnya. Millar et al. (2019) dalam ekonomi ekologis menyatakan bahwa diversifikasi aset
+dapat meningkatkan kapasitas adaptif nelayan dalam jangka panjang karena mengurangi
+ketergantungan langsung terhadap kondisi ekologis laut.
+3. Adaptasi Sosial dan Kesesuaian dengan Kelembagaan Lokal
+Di samping penyesuaian di bidang ekonomi, nelayan Donggala juga menunjukkan
+kemampuan beradaptasi secara sosial, misalnya melalui kerja sama perbaikan kapal, tukar
+informasi tentang kondisi cuaca, serta saling meminjamkan peralatan tangkap. Meskipun
+bersifat informal, praktik-praktik ini terbukti sangat vital bagi kelangsungan hidup mereka saat
+musim paceklik. Dari sisi kelembagaan, sebagian nelayan memang tergabung dalam
+kelompok nelayan setempat. Akan tetapi, peran kelompok tersebut masih terbatas pada
+penyaluran bantuan pemerintah, belum optimal dalam mengelola usaha atau membuka
+akses pasar. Padahal, Yusuf et al. (2018) menegaskan bahwa kelembagaan nelayan yang
+berfungsi kuat dapat meningkatkan daya adaptasi melalui kemudahan akses permodalan,
+informasi, serta advokasi kebijakan di tingkat lokal. Selain itu, strategi penting untuk
+menghadapi perubahan iklim dan pergeseran musim tangkap yang semakin ekstrim adalah
+adaptasi kelembagaan, seperti penguatan tata kelola berbasis komunitas dan peningkatan
+kolaborasi antar-kelompok nelayan (Bossier et al., 2025).
+4. Akses Informasi, Pasar dan Kebijakan
+Salah satu kendala utama dalam proses adaptasi adalah minimnya akses terhadap
+informasi musim dan pasar. Hanya sedikit nelayan yang memanfaatkan kelompok nelayan
+atau platform digital untuk memperoleh prakiraan cuaca. Kebanyakan dari mereka masih
+mengandalkan pengalaman pribadi serta petunjuk alam tradisional dalam menentukan
+waktu yang tepat untuk melaut. Keadaan ini memperbesar potensi kerugian sekaligus
+menurunkan tingkat efektivitas upaya adaptasi yang dilakukan. Perubahan kecil dalam suhu
+dan arus laut dapat memengaruhi lokasi sumber ikan, adaptasi komunitas nelayan terhadap
+pergeseran iklim yang disebabkan oleh iklim (Fatima et al., 2023).
+Pemerintah daerah telah berusaha menggunakan kebijakan untuk mendukung koperasi dan
+kelompok nelayan dalam usaha tangkap. Hernawan et al. (2019) menyatakan bahwa
+kelembagaan lokal masih kurang efektif karena kurangnya koordinasi antar instansi dan
+kegagalan manajemen ekonomi nelayan. Hal ini menunjukkan bahwa dalam perencanaan
+pengelolaan sumber daya perikanan berbasis adaptasi, kebijakan top-down pemerintah dan
+upaya bottom-up masyarakat harus bekerja sama.
+5. Model Adaptasi Terpadu Nelayan Pancing Tangkap (Hand Line)
+Mengacu pada temuan penelitian serta tinjauan pustaka, suatu model adaptasi
+terpadu yang sesuai untuk nelayan hand line di Kabupaten Donggala dapat disusun dalam
+tiga pilar utama. Pertama, adaptasi ekonomi yang mencakup diversifikasi pekerjaan,
+pengelolaan aset usaha, serta kebiasaan menabung produktif. Kedua, adaptasi sosial dan
+kelembagaan melalui penguatan jejaring antarkelompok nelayan serta mekanisme gotong
+royong yang berbasis pada rasa saling percaya. Ketiga, adaptasi kebijakan dan informasi,
+misalnya dukungan pemerintah daerah dalam menyediakan data musim, informasi harga
+ikan, serta akses pembiayaan yang berpihak pada nelayan skala kecil (Stacey et al., 2021).
+6. Implikasi Kebijakan dari Strategi Adaptasi
+Hasil penelitian mengindikasikan bahwa strategi adaptasi yang dijalankan nelayan
+hand line di Kabupaten Donggala belum sepenuhnya mampu mempertahankan ketahanan
+ekonomi secara optimal. Hal ini disebabkan karena pendekatan yang digunakan masih
+bersifat individual dan berorientasi jangka pendek. Karenanya, kebijakan pemerintah daerah
+perlu diarahkan untuk meningkatkan kapasitas adaptif komunitas pesisir, misalnya melalui
+program penguatan ekonomi lokal, penyediaan platform informasi pasar dan musim yang
+partisipatif, serta penyusunan rencana pengelolaan perikanan yang berbasis siklus musim.
+Pendekatan ini menekankan kerja sama antar-pemangku kepentingan untuk
+menyeimbangkan tujuan konservasi dan ekonomi (Muliawan et al., 2016). Hasil penelitian ini
+tidak hanya menjelaskan perilaku ekonomi rumah tangga nelayan tetapi juga memberikan
+123
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+dasar praktis untuk membangun kebijakan pengelolaan perikanan tangkap yang inklusif dan
+berkelanjutan.
+Kapasitas sosial-ekonomi yang dinamis dalam menghadapi perubahan musim
+penangkapan ikan pelagis merupakan strategi adaptasi bagi nelayan hand line di wilayah
+Donggala. Adaptasi nyata mencakup gotong royong antar-nelayan, diversifikasi pekerjaan,
+dan tabungan hasil tangkap. Adaptasi dilakukan melalui strategi ekonomi dan sosial yang
+berkembang dalam komunitas nelayan. Namun, sulit untuk menjaga kesejahteraan nelayan
+dalam jangka panjang tanpa dukungan kelembagaan dan kebijakan adaptif. Akibatnya,
+hasil temuan penelitian ini menegaskan bahwa adaptasi ekonomi, sosial, dan kebijakan harus
+diintegrasikan untuk mengelola sumber daya perikanan tangkap secara berkelanjutan di
+tingkat lokal.
+Sintesa Kebijakan
+Temuan studi ini memperlihatkan bahwa faktor ekologis, sosial, dan ekonomi saling
+terkait erat dalam membentuk ketahanan penghidupan masyarakat pesisir Kabupaten
+Donggala. Musim penangkapan ikan pelagis secara langsung memengaruhi tingkat
+pendapatan rumah tangga, pola belanja, serta jenis strategi adaptasi yang dipilih nelayan
+dalam menghadapi ketidakpastian hasil tangkapan. Analisis menunjukkan bahwa selisih
+pendapatan antara musim tangkap dan paceklik mencapai sekitar 50 persen. Angka ini
+menegaskan bahwa ekonomi rumah tangga nelayan sangat sensitif terhadap perubahan
+iklim serta fluktuasi sumber daya laut. Nelayan beradaptasi dengan berbagai jenis pekerjaan,
+seperti menjadi buruh, sopir, atau penggarap kebun, mengelola tabungan hasil tangkap
+mereka, dan berkolaborasi dengan orang lain dalam komunitas sosial. Namun, sebagian
+besar pendekatan adaptasi ini masih dilakukan secara individual dan bersifat jangka pendek,
+dan belum diadopsi secara keseluruhan oleh suatu organisasi.
+Hasilnya menunjukkan bahwa metode adaptasi sosial-ekonomi nelayan membutuhkan
+dukungan kelembagaan dan kebijakan pemerintah yang lebih kuat. Pengembangan
+masyarakat nelayan yang mampu beradaptasi sangat penting untuk mempertahankan
+pendapatan rumah tangga dan keberlanjutan sumber daya ikan pelagis, yang merupakan
+dasar ekonomi daerah. Sejalan dengan Nurlaela et al. (2025) bahwa pendekatan
+pengelolaan sumber daya berbasis adaptasi memungkinkan integrasi data sosial-ekonomi
+dengan kebijakan pengelolaan stok ikan, meningkatkan efektivitas kebijakan.
+Implikasi Kebijakan
+Berdasarkan temuan penelitian, terdapat beberapa rekomendasi kebijakan strategis
+untuk pengelolaan perikanan tangkap skala kecil di Kabupaten Donggala. Pertama,
+pemerintah daerah perlu membangun sistem informasi cuaca dan musim yang mudah
+diakses nelayan, misalnya melalui aplikasi ponsel atau papan informasi di pangkalan
+pendaratan. Hal ini akan membantu nelayan merencanakan jadwal melaut secara lebih
+aman dan efisien, seperti yang telah berhasil dilakukan di Thailand dan Filipina (Rahman et
+al., 2021). Kedua, akses terhadap permodalan mikro perlu diperluas, terutama untuk
+mendukung nelayan kecil dalam mengembangkan usaha alternatif seperti budidaya,
+pengolahan hasil laut, atau pertanian musiman. Ketiga, penguatan kelembagaan berbasis
+komunitas harus menjadi prioritas, dengan melibatkan kelompok nelayan tidak hanya
+sebagai penerima bantuan tetapi juga sebagai aktor aktif dalam perencanaan kebijakan
+adaptasi (Daris et al., 2022). Keempat, penyusunan rencana pengelolaan perikanan harus
+mempertimbangkan data ekonomi rumah tangga serta kapasitas adaptasi nelayan,
+sehingga kebijakan pengendalian upaya tangkap dapat disesuaikan dengan kondisi sosial-
+ekonomi lokal (Roberts et al., 2023). Terakhir, kolaborasi antara pemerintah, perguruan tinggi,
+dan lembaga riset seperti BRIN serta KKP sangat diperlukan untuk menjembatani kesenjangan
+antara hasil penelitian dan implementasi kebijakan di lapangan.
+KESIMPULAN
+Kesimpulan dari penelitian ini adalah sebagai berikut. Kondisi ekonomi rumah tangga
+nelayan hand line di Kabupaten Donggala sangat berbeda antara musim tangkap dan
+paceklik: pendapatan rata-rata mencapai Rp5.790.000 per bulan pada musim tangkap, turun
+124
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+menjadi Rp2.890.000 per bulan pada musim paceklik, dengan rata-rata pengeluaran
+konsumsi rumah tangga sebesar Rp1.930.000 per bulan. Disarankan kepada nelayan hand line
+agar mampu mengelola pendapatan dengan menyisihkan tabungan guna menghadapi
+masa paceklik yang berlangsung sekitar empat bulan. Apabila memungkinkan, hasil
+tangkapan dapat diolah menjadi ikan kering yang tahan lama dan memiliki nilai jual lebih
+tinggi saat musim paceklik tiba. Pemerintah daerah, khususnya Dinas Perikanan Kabupaten
+Donggala, hendaknya memberikan perhatian serta pelatihan keterampilan alternatif bagi
+nelayan hand line selama periode paceklik.
+UCAPAN TERIMA KASIH
+Ucapan terima kasih yang sebesar-besarnya kepada Lembaga Penelitian dan
+Pengabdian kepada Masyarakat yang telah memberikan biaya penelitian hibah internal
+pada Tahun 2024, kepada nelayan hand line di Desa Boneoge dan Labuan Bajo Kabupaten
+Donggala Provinsi Sulawesi tengah karena telah bersedia menjadi responden dan
+memberikan informasi berharga tentang usaha perikanan dan kondisi sosial ekonomi nelayan
+setempat serta dukungan administratif dan masukan konseptual dari rekan sejawat di Fakultas
+Perikanan Universitas Alkhairaat dan Badan Riset Inoveasi Daerah Provinsi Sulawesi Tengah.
+PERNYATAAN KONTRIBUSI PENULIS
+Kami yang berkontribusi pada penelitian dan penulisan artikel ini yaitu Ahsan Mardjudo
+sebagai kontributor utama (penulis utama sekaligus penulis korespondensi) yang
+bertanggung jawab atas ide penelitian, pengumpulan data, dan penulisan draf utama
+manuskrip. Hartina, Rusli dan Sri Sudewi sebagai kontributor anggota yang membantu dalam
+analisis data, interpretasi hasil, dan revisi ilmiah serta penyusunan implikasi kebijakan dan
+validasi metodologi.
+125
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+DAFTAR PUSTAKA
+Amanda, T., Octorina, P., Andrianto, U., Santoso, G., Al Basyir, I. A., & Wiliyana, A. T. (2025).
+Dampak Perubahan Iklim Pada Sosial Ekonomi Nelayan Dan Pembudidaya Ikan.
+JELAWAT: Jurnal Ekonomi Laut Dan Air Tawar, Vol. 01(No. 01), 11–20.
+DOI: https://doi.org/10.9000/jelawat.v1i1.1
+Azhar, R. Q. A., Soepeno, M. H., & Maramis, M. M. (2023). Implementasi Peraturan Daerah
+Terhadap Pemberdayaan Masyarakat Nelayan Di Miangas Kabupaten Kepulauan
+Talaud. Jurnal Fakultas Hukum Universitas Sam Ratulangi, 5(1), 12–26.
+Bennett, N. J., Schuhbauer, A., Skerritt, D., & Ebrahim, N. (2021). Socio-economic monitoring
+and evaluation in fisheries. Fisheries Research, 239,105934.
+DOI: https://doi.org/10.1016/j.fishres.2021.105934
+Biological and Clinical Sciences Research Journal, 2024, 1–8.
+Bossier, S., Ota, Y., Pozas-Franco, A. L., & Cisneros-Montemayor, A. M. (2025). How much time
+and who will do it? Organizing the toolbox of climate adaptations for small-scale
+fisheries. Frontiers in Marine Science, 12(March), 1–21.
+Choirunnisa, L. A. D., Purwaningsih, Y., & Prasetyani, D. (2022). Adaptasi Nelayan Pesisir
+Kabupaten Pacitan Akibat Perubahan Iklim. Jurnal Wilayah Dan Lingkungan,
+10(2), 166– 181.
+Danil Arifin, M. (2024). Risk Analysis of Port Facility Security Based on the International Ship and
+Port Facility Security Code (ISPS CODE). International Journal of Marine Engineering
+Innovation and Research, 9(2), 2548–1479.
+Daris, L., Massiseng, A. N. A., Fachri, M. E., Jaya, J., & Zaenab, S. (2022). The impact of fishermen’s
+conflict on the sustainability of crab (Portunus pelagicus) resources in the coastal
+areas of Maros District, South Sulawesi, Indonesia. Biodiversitas, 23(10), 5278–5289.
+DOI: https://doi.org/10.13057/biodiv/d231037
+Fatima, N., Shuaib, S. E., & Kong, J. D. (2023). Predicting adaptations of fish and fishing
+communities to rapid climate velocities in Canadian waters: A systematic review.
+Environmental Advances, 14(November), 100452.
+DOI: https://doi.org/10.1016/j.envadv.2023.100452
+Handayati, P., Nasih, A. M., Susilowati, I., Idris, Nayak, P. K., & Narmaditya, B. S. (2025). From
+vulnerable to resilience: an assessment of small-scale fisheries livelihood in South
+Malang of Indonesia. Discover Sustainability, 6(1).
+DOI: https://doi.org/10.1007/s43621-025-00810-z
+Hernawan, D., Rahmawati, R., Seran, G., & Luthfie, M. (2019). Peningkatan Kapasitas
+Kelembagaan Nelayan Untuk Adaptasi Terhadap Perubahan Iklim. Jurnal Mina
+Sains, 5(1), 13–24.
+DOI: https://doi.org/10.30997/jms.v5i1.1769
+Indriyani, R., Kumar Singh, M., & Trang Vu, T. N. (2025). Protecting fisheries resources and marine
+ecosystem from climate change: Solutions and legal constraints. BIO Web of
+Conferences, 155, 1–10.
+DOI: https://doi.org/10.1051/bioconf/202515509003
+Kasri, K., Hasani, M. C., Baso, A., & Amiluddin, A. (2024). Perceptions of Small-scale Fishermen
+on the Impact of Climate Change in Coastal and Small Island Areas of Pangkajene
+and Islands Regency. PONGGAWA : Journal of Fisheries Socio-Economic,
+December 2024, 92–107.
+DOI: https://doi.org/10.35911/ponggawa.v4i2.42105
+Larasati, R. F., Jaya, M. M., Mahardi, I. G. N. K. H., Putra, A., Bramana, A., Aini, S., Hamdani, H.,
+& Ariana, M. (2024). Observasi Daerah Penangkapan Ikan Di Perairan Laut Jawa
+Dan Selat Makassar. Jurnal Teknologi Perikanan Dan Kelautan, 15(2), 203–210.
+DOI: https://doi.org/10.24319/jtpk.15.203-210
+Liando, V. Y., Aling, D. R. R., & Wasak, M. (2020). Strategi Adaptasi Sosial Dan Ekonomi Nelayan
+Alat Tangkap Sero Di Desa Jayakarsa Kecamatan Likupang Barat Kabupaten
+Minahasa. AKULTURASI: …,8(1),61–66.
+126
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Lukum, R., Hafid, R., & Mahmud, M. (2023). Pengaruh Perubahan Musim Terhadap
+Pendapatan Nelayan. Journal of Economic and Business Education, 1(1), 115–123.
+DOI: https://doi.org/10.37479/jebe.v1i1.18687
+Mardjudo, A., & Yasin, M. (2017). Household Economic Model To Improve Small-Scale
+Fisherman Income At Rural Minapadi (Rice-Fish System) Development Program In
+Donggala, Central Sulawesi. Russian Journal of Agricultural and Socio Economic
+Science, 10(October), 247–255.
+Mardyani, Y., Kurnia, T., & Adrianto, L. (2020). Pengelolaan Perikanan Skala Kecil Di Perairan
+Pesisir Kabupaten Bangka Dengan Pendekatan Bioekonomi. Jurnal Kebijakan Sosial
+Ekonomi Kelautan Dan Perikanan, 10(2), 91.
+DOI: https://doi.org/10.15578/jksekp.v10i2.9305
+Meland, P. H., Bernsmed, K., Wille, E., Rødseth, J., & Nesheim, D. A. (2021). A retrospective
+analysis of maritime cyber security incidents. TransNav, 15(3), 519–530.
+DOI: https://doi.org/10.12716/1001.15.03.04
+Millar, N., McLaughlin, E., & Börger, T. (2019). The Circular Economy: Swings and Roundabouts?
+Ecologica lEconomics, 158,11–19. https://doi.org/10.1016/j.ecolecon.2018.12.012
+Muliawan, I., Fahrudin, A., Fauzi, A., & Boer, M. (2016). Analisis Stakeholders Pada Perikanan
+Tangkap Kerapu, Preliminary Study Menuju Implementasi Ecosystem Approach for
+Fisheries Management Di Kepulauan Spermonde Kota Makassar. Jurnal Sosial
+Ekonomi Kelautan Dan Perikanan, 9(2), 233.
+DOI: https://doi.org/10.15578/jsekp.v9i2.1224
+Nuraini, Satria, A., Wahyuni, E. S., & Bengen, D. G. (2025). Integrasi Kelembagaan Pengelolaan
+Kawasan Konservasi Perairan Daerah Kabupaten Raja Ampat Melalui Analisis Level
+Aksi Kelembagaan. Jurnal Kebijakan Sosial Ekonomi Kelautan Dan Perikanan, 15(1),
+40–57.
+Nurlaela, E., Ripaldi, M., Saputra, A., Choerudin, H., & Nababan, S. P. (2025). Effectiveness of
+Measured Fishing Policy and Post-Production Non-Tax State Revenue Mechanism at
+Klidang Lor Coastal Fisheries Port, Central Java. 9(2), 155–173.
+Ojea, E., Lester, S. E., & Salgueiro-Otero, D. (2020). Adaptation of Fishing Communities to
+Climate-Driven Shifts in Target Species. One Earth, 2(6), 544–556.
+Prasita, V. D., Zati, L. A., & Widagdo, S. (2021). The characteristics of west season wind and
+wave as well as their impacts on ferry cruise in the kalianget-kangean cruise route,
+madura, indonesia. Pertanika Journal of Science and Technology, 29(3), 2087–2102.
+DOI: https://doi.org/10.47836/pjst.29.3.16
+Pratama, G. B., Nurani, T. W., Mustaruddin, M., & Herdiyeni, Y. (2022). Hubungan Parameter
+Oseanografi Perairan Terhadap Pola Musim Ikan Pelagis Di Perairan Palabuhanratu.
+Jurnal Teknologi Perikanan Dan Kelautan, 13(1), 67–78.
+DOI: https://doi.org/10.24319/jtpk.13.67-78
+Rahman, M. S., Toiba, H., & Huang, W. C. (2021). The impact of climate change adaptation
+strategies. Sustainability (Switzerland), 13(14), 7905.
+Riantini, M., Mardiharini, M., Saptana, Sudjarmoko, B., Kasymir, E., Nur’aini, L. G., Anindita, S. H.,
+Syukur, M., Zulham, A., Wardono, B., Ketut Ardana, I., Indrawanto, C., & Wahyudi, A.
+(2024). Livelihood vulnerability household fishermen household due to climate
+change in Lampung Province, Indonesia. PLoS ONE, 19(12), 1–20.
+DOI: https://doi.org/10.1371/journal.pone.0315051
+Roberts, N., Mengge, B., Oaks, B., Sari, N., Irsan, & Humphries, A. (2023). Fish consumption
+pathways and food security in an Indonesian fishing community. Food Security,
+15(1), 1–19.
+DOI: https://doi.org/10.1007/s12571-022-01323-7
+Rubiyanto, C. W., & Hirota, I. (2025). Livelihood transition from mountain to the sea in Eastern
+Indonesia: A case study in Sambi Rampas District, East Manggarai. BIO Web of
+Conferences, 155, 1–11.
+DOI: https://doi.org/10.1051/bioconf/202515509002
+127
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Saksono, H., Nissa’, Z. N. A., & Suadi, S. (2023). Small-Scale Fisher’s Livelihood Strategies: Findings
+from Case Studies in Several Indonesian Coastal Areas. Jurnal Perikanan Universitas
+Gadjah Mada, 25(1), 9.
+DOI: https://doi.org/10.22146/jfs.82815
+Shahzad, Mahboob, K., S. (2024). Marine Fisheries and Its Impact On Community: An
+Overview.
+Siswantoputri, U. Z., Rochaddi, B., & Ismanto, A. (2024). Pengaruh Parameter Oseanografi
+Terhadap Hasil Tangkapan Ikan Layang Di Area Rumpon Perairan Pacitan.
+Indonesian Journal of Oceanography, 6(2), 121–131.
+DOI: https://doi.org/10.14710/ijoce.v6i2.17523
+Stacey, N., Gibson, E., Loneragan, N. R., Warren, C., Wiryawan, B., Adhuri, D. S., Steenbergen,
+D. J., & Fitriana, R. (2021). Developing sustainable small-scale fisheries livelihoods in
+Indonesia: Trends, enabling and constraining factors, and future opportunities.
+Marine Policy, 132, 104654.
+DOI: https://doi.org/10.1016/j.marpol.2021.104654
+Suhana, S., Santoso, G., Apriandi, M. C., & Ardiansyah, J. M. (2025). Strategi Diversifikasi Usaha
+Perikanan untuk Meningkatkan Kesejahteraan Masyarakat Pesisir JELAWAT : Jurnal
+Ekonomi Laut dan Air Tawar Pendahuluan. … : Jurnal Ekonomi Laut …, 01(01),63–72.
+https://ejournal.utmj.ac.id/jelawat/article/view/910%0Ahttps://ejournal.utmj.ac.id/je
+lawat/artic le/download/910/523
+Wulandari, A., Shohibuddin, M., & Satria, A. (2022). Strategi Adaptasi Rumah Tangga Nelayan
+Dalam Menghadapi Dampak Abrasi: Studi Kasus di Kabupaten Pasaman Barat.
+Jurnal Sosial Ekonomi Kelautan Dan Perikanan, 17(2), 269–284.
+Yusuf, D., Arief, A. A., Amiluddin, A., Ali, S. A., & Indar, M. Y. N. (2018). Analisis Peran Kelembagaan
+Lokal Nelayan dan Strategi Pengembangannya dalam Pengelolaan dan
+Pemanfaatan Telur Ikan Terbang di Kabupaten Polman Sulawesi Barat. Akuatika
+Indonesia, 3(1), 1.
+DOI: https://doi.org/10.24198/jaki.v3i1.23390.
+128

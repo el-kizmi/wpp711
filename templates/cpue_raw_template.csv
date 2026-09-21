@@ -1,0 +1,4 @@
+Stock,yr,nama_alat_tangkap,jumlah_hari_operasi,gt_kapal,berat_ikan_kg,musim,wilayah
+Contoh_stok_711,2021,Jaring insang,2,10,125,Barat,Area_A
+Contoh_stok_711,2022,Jaring insang,2,10,118,Barat,Area_A
+Contoh_stok_711,2023,Jaring insang,3,12,132,Timur,Area_A

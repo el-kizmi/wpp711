@@ -1,0 +1,20 @@
+# R session files
+.Rhistory
+.Rdata
+.RData
+.Rproj.user/
+
+# Local R library (install renv or packrat for reproducibility)
+R_library/
+
+# Run outputs
+runs/
+
+# Archives
+*.rar
+*.zip
+*.tar.gz
+
+# OS files
+Thumbs.db
+.DS_Store

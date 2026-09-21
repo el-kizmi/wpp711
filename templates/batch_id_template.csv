@@ -1,0 +1,31 @@
+Stock,Group,Name,ScientificName,Resilience,r.low,r.hi,stb.low,stb.hi,int.yr,intb.low,intb.hi,endb.low,endb.hi,btype,e.creep,force.cmsy
+Katsuwonus_pelamis_711,Large Pelagics,Cakalang,Katsuwonus pelamis,Medium,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Cucut_Botol_711,Large Pelagics,Cucut Botol,Cucut Botol,Very Low,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Cucut_Lanyam_711,Large Pelagics,Cucut Lanyam,Cucut Lanyam,Low,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Cucut_Tikus_Cucut_Monyet_711,Large Pelagics,Cucut Tikus/Cucut Monyet,Cucut Tikus Cucut Monyet,Very Low,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Istiophorus_platypterus_711,Large Pelagics,Ikan Layaran,Istiophorus platypterus,Low,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Coryphaena_hippurus_711,Large Pelagics,Lemadang,Coryphaena hippurus,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Istiompax_indica_711,Large Pelagics,Setuhuk Hitam,Istiompax indica,Low,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Scomberomorus_commerson_711,Large Pelagics,Tenggiri,Scomberomorus commerson,Medium,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Scomberomorus_guttatus_711,Large Pelagics,Tenggiri Papan,Scomberomorus guttatus,Medium,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Euthynnus_affinis_711,Large Pelagics,Tongkol Komo,Euthynnus affinis,Medium,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Auxis_thazard_711,Large Pelagics,Tongkol Krai,Auxis thazard,Medium,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Thunnus_obesus_711,Large Pelagics,Tuna Mata Besar,Thunnus obesus,Medium,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Banyar_711,Small Pelagics,Banyar,Banyar,Medium,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Valamugil_seheli_711,Small Pelagics,Belanak,Valamugil seheli,Medium,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Bentong_711,Small Pelagics,Bentong,Bentong,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Belonidae_711,Small Pelagics,Cendro,Belonidae,Medium,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Dussumieria_acuta_711,Small Pelagics,Japuh,Dussumieria acuta,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Hemiramphus_spp_711,Small Pelagics,Julung-Julung,Hemiramphus spp,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Rastrelliger_faughni_711,Small Pelagics,Kembung,Rastrelliger faughni,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Decapterus_russelli_711,Small Pelagics,Layang Benggol,Decapterus russelli,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Decapterus_macarellus_711,Small Pelagics,Layang Biru,Decapterus macarellus,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Anodontostoma_chacunda_711,Small Pelagics,Selanget,Anodontostoma chacunda,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Selar_Komo_711,Small Pelagics,Selar Komo,Selar Komo,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Amblygaster_sirm_711,Small Pelagics,Siro,Amblygaster sirm,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Elagatis_bipinnulata_711,Small Pelagics,Sunglir,Elagatis bipinnulata,Medium,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Scomberoides_tala_711,Small Pelagics,Talang-Talang,Scomberoides tala,Medium,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Sardinella_gibbosa_711,Small Pelagics,Tembang,Sardinella gibbosa,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Encrasicholina_spp_711,Small Pelagics,Teri,Encrasicholina spp,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Hilsa_toli_711,Small Pelagics,Terubuk,Hilsa toli,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE
+Megalaspis_cordyla_711,Small Pelagics,Tetengkek,Megalaspis cordyla,Medium,NA,NA,NA,NA,NA,NA,NA,NA,NA,None,NA,TRUE

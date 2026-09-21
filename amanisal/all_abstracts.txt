@@ -1,0 +1,1247 @@
+=== DOCUMENT 2 ===
+Source: document (2).pdf
+Abstract:
+Recived : 09 April 2026
+Accepted : 02 Mei 2026
+Online : 23 Mei 2026 The Kluwut Fishing Port in Brebes Regency plays a vital role in supporting
+fishing activities, but the availability and condition of its facilities are not yet
+ Article type fully optimal. This study aims to identify the current condition of port facilities
+Review Article in accordance with Ministry of Marine Affairs and Fisheries Regulation No. 8 of
+Commin Serv. Articel
+2012 and to formulate a development strategy. The data were collected
+✓ Research Article
+through observations, interviews, and documentation involving 30
+respondents, as well as secondary data from relevant agencies, and were
+ Keyword :
+Fishing port facilities, Kluwut fishing then analyzed using a Likert scale, pairwise comparisons, and SWOT analysis.
+port, SWOT analysis The research findings indicate an increase in fishery production, production
+value, and the number of vessels during the 2023–2025 period, reflecting
+ Corresponding Author : growth in fishery activities. The condition of port facilities is generally rated as
+Aulia M. Hasanah
+fair to good, with an average score of 102.66; however, the availability of
+Program Studi Pemanfaatan
+facilities still falls short of standards, with 57% of essential facilities, 44% of
+Sumberdaya Perikanan, Fakultas
+functional facilities, and 50% of supporting facilities available. Additionally,
+Perikanan dan Ilmu Kelautan,
+Universitas Pancasakti Tegal several key facilities, such as the Fish Auction Site (TPI) and sanitation facilities,
+are not yet operating optimally. The results of the SWOT analysis place the
+Email: port in Quadrant I (Strength–Opportunity), so the recommended
+auliamaulidahasanah@gmail.com development strategies are to optimize institutional support, improve service
+quality, reactivate the TPI, and develop facilities in a phased and sustainable
+manner to enhance operational performance and support the port’s future
+status upgrade.
+Copyright © 2026, Aulia M. Hasanah, Noor Zuhry, Beni S. Nugroho
+PENDAHULUAN
+Indonesia merupakan negara kepulauan dengan potensi sumber daya kelautan dan
+perikanan yang besar. Sektor perikanan tangkap berperan strategis dalam penyediaan
+protein hewani, penciptaan lapangan kerja, serta peningkatan ekonomi masyarakat pesisir
+(Rizal et al., 2018; Kaihena et al., 2024). Pemanfaatan sumber daya yang belum merata
+menyebabkan sebagian wilayah mengalami overfishing, sementara wilayah lain belum
+dimanfaatkan secara optimal (Atmaja, 2017). Kondisi ini menunjukkan pentingnya
+pengelolaan perikanan yang terintegrasi melalui pengembangan pelabuhan perikanan.
+Pelabuhan perikanan berfungsi sebagai pusat pendaratan, penanganan, pengolahan, dan
+distribusi hasil tangkapan ikan (Hidayat et al., 2023). Keberadaannya sangat menentukan
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+efisiensi dan keberlanjutan kegiatan perikanan tangkap. Sesuai regulasi, pelabuhan
+perikanan harus didukung oleh fasilitas pokok, fungsional, dan penunjang yang memadai
+(Machdani et al., 2023; Rahmawati et al., 2024). Masih banyak pelabuhan yang menghadapi
+keterbatasan fasilitas dan pengelolaan yang belum optimal. Kondisi tersebut juga ditemukan
+di Pelabuhan Perikanan Kluwut, Kabupaten Brebes. Berdasarkan hasil observasi awal,
+pengelolaan pelabuhan ini masih belum terorganisasi secara optimal karena belum adanya
+Surat Keputusan (SK) resmi yang menetapkan struktur pengelolaannya. Saat ini, petugas
+pengelola masih berasal dari instansi pusat, sehingga tanggung jawab terhadap perawatan
+dan pembangunan fasilitas belum memiliki dasar hukum yang jelas.
+Sejak bulan September 2023 ketersediaan fasilitas di Pelabuhan Perikanan Kluwut
+masih terbatas dan belum sepenuhnya mendukung aktivitas operasional. Fasilitas pokok,
+seperti dermaga dan kolam pelabuhan, belum mampu menampung seluruh kegiatan
+nelayan secara optimal. Fasilitas fungsional berupa Tempat Pelelangan Ikan (TPI) belum
+dimanfaatkan untuk kegiatan pelelangan, dan fasilitas penunjang, seperti kantor pengelola
+dan akses jalan masih dibangun secara sederhana dan belum memenuhi standar teknis Balai
+Besar Wilayah Sungai (BBWS), sehingga berpotensi menimbulkan permasalahan tata ruang
+dan risiko penggusuran di masa mendatang. Kondisi tersebut dapat menyebabkan hilangnya
+fasilitas pelayanan administrasi pelabuhan, sehingga berimplikasi pada terhambatnya
+layanan operasional nelayan, seperti pengurusan keberangkatan kapal dan pencatatan
+hasil tangkapan. Penelitian ini diperlukan karena belum terdapat penelitian komprehensif
+yang menganalisis kondisi fasilitas pelabuhan perikanan yang baru beroperasi berdasarkan
+standar Permen KP Nomor 8 Tahun 2012 serta merumuskan strategi pengembangannya
+menggunakan pendekatan analisis SWOT. Tujuan dari penelitian ini adalah melakukan
+identifikasi kondisi eksisting fasilitas pelabuhan perikanan berdasarkan standar Permen KP No.8
+Tahun 2012 dan menganalisis strategi pengembangannya sebagai upaya peningkatan kelas
+pelabuhan perikanan di Pelabuhan Perikanan Kluwut, Kabupaten Brebes.
+MATERI DAN METODE
+Penelitian ini dilaksanakan selama satu bulan, terhitung dari bulan Januari sampai
+dengan bulan Februari tahun 2026. Pengambilan data berlokasi di Pelabuhan Perikanan
+Kluwut, Kabupaten Brebes Gambar 1.
+Gambar 1. Peta lokasi penelitian
+2
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+METODE PENGUMPULAN DATA
+Penelitian ini menggunakan metode deskriptif, metode deskriptif dipilih karena
+penelitian ini tidak memberikan perlakuan tertentu, melainkan memaparkan kondisi nyata di
+lapangan berdasarkan hasil pengumpulan dan analisis data yang diperoleh secara langsung
+maupun tidak langsung (Iskandar, 2022). Teknik pengumpulan data terdiri dari data primer
+dan sekunder. Data primer diperoleh melalui observasi, wawancara, dan dokumentasi untuk
+mengetahui kondisi, pemanfaatan, dan permasalahan fasilitas pelabuhan perikanan
+(Hasibuan, 2023; Sulung, 2024). Observasi dilakukan dengan cara mengumpulkan data kondisi
+eksisting fasilitas pelabuhan. Wawancara dilakukan secara terstruktur menggunakan
+kuesioner tertutup kepada responden untuk memperoleh informasi terkait kondisi eksisting
+fasilitas pelabuhan. Dokumentasi dilakukan dengan mengumpulkan data berupa foto kondisi
+eksisting fasilitas pelabuhan perikanan sebagai data pendukung hasil. Data sekunder berasal
+dari instansi terkait dan sumber tertulis, meliputi data fasilitas, produksi, dan nilai produksi ikan
+untuk mendukung analisis.
+Teknik pengambilan sampel yang digunakan adalah purposive sampling, yaitu
+penentuan sampel berdasarkan pertimbangan tertentu, seperti keterlibatan langsung dalam
+aktivitas pelabuhan serta pemanfaatan fasilitas pelabuhan perikanan (Sugiyono, 2019;
+Firmansyah, 2022). Populasi dalam penelitian ini adalah seluruh pengguna fasilitas Pelabuhan
+Perikanan Kluwut. Menurut Arikunto dalam Warsah (2018), sampel adalah sebagian atau wakil
+dari populasi yang diteliti. Dalam penarikan sampel, peneliti berpedoman dengan pendapat
+Arikunto, jika populasi dibawah 100 maka semua dijadikan sampel dan jika lebih dari 100 maka
+dari populasi penelitian yang ada tersebut ambil jumlah populasi yang mendekati penentuan
+jumlah sampel dari populasi tertentu dengan taraf kesalahan 1%, 5%, dan 10%. Mengingat
+populasi dalam penelitian ini terdiri dari 3.247 awak kapal perikanan (AKP) yaitu nahkoda dan
+ABK, 3 pengelola pelabuhan Kluwut, 9 enumerator, dan 2 pedagang ikan. Sehingga sampel
+yang digunakan dalam penelitian ini berjumlah 30 responden yang terdiri dari 16 AKP, 3
+pengelola pelabuhan, 9 enumerator, dan 2 pedagang ikan. Sedangkan jumlah sampel AKP
+diperoleh dari perhitungan rumus simamora. Rumus simamora digunakan karena dapat
+menentukan jumlah sampel yang representatif secara efisien berdasarkan Umar (2003) dalam
+Kusnandar et al., (2022):
+𝑁 𝑍2 𝑃 (1−𝑃)
+𝑛=
+𝑁 𝑑2+ 𝑍2 𝑃 (1−𝑃)
+Keterangan :
+n = Banyaknya sampel yang diambil
+N = Jumlah anggota dalam populasi
+Z ² = Normal variable (1,96)²
+P = Presentase variance (0,05)²
+d ² = Kesalahan maksimal yang diterima (0,1)²
+ANALISIS DATA
+Analisis data dalam penelitian ini dilakukan melalui dua tahapan yaitu :
+
+================================================================================
+
+=== DOCUMENT 3 ===
+Source: document (3).pdf
+Abstract:
+Recived : 14 April 2026
+Accepted : 10 Mei 2026
+Online : 24 Mei 2026 The waters off the northern coast of Central Java are part of Fisheries
+Management Area (FMA) 712, which is characterized by high levels of fishing
+ Article type activity and complex oceanographic dynamics. Variations in Sea Surface
+Review Article Temperature (SST) and chlorophyll-a play a crucial role in determining
+Commin Serv. Articel
+primary productivity and potential fishing grounds. This current study seeks to
+✓ Research Article
+investigate the spatial and temporal variability of SST and Chlorophyll-a,
+along with investigating the correlation between both parameters using
+ Keyword :
+Central Java Coastal Waters, Himawari-8 satellite imagery. The research method employed is quantitative
+Chlorophyll-a, Himawari-8, Sea descriptive, utilizing secondary satellite imagery data from the 2023–2025
+Surface Temperature period. Data analysis is conducted thru digital image processing, which
+includes the stages of pixel value extraction, data cleaning from cloud cover,
+ Corresponding Author :
+and the calculation of monthly average values to represent seasonal
+Sharina
+changes. The Spearman rho correlation statistical test is applied to determine
+Program Studi Pemanfaatan
+the strength and direction of the relationship between SPL and chlorophyll-a
+Sumberdaya Perikanan, Fakultas
+Perikanan dan Ilmu Kelautan, over time. The results indicate that SST and Chlorophyll-a at the study site
+Universitas Pancasakti Tegal fluctuate following seasonal patterns. Spatially, chlorophyll-a concentrations
+tend to be higher in coastal areas than in offshore areas. Correlation analysis
+Email: sharinaa2103@gmail.com indicates a strong negative conection between SST and chlorophyll-a, with a
+correlation coefficient of -0.713, suggesting that an increase in sea surface
+temperature is typically followed by a decrease in chlorophyll-a
+concentrations in the waters off northern Central Java.
+Copyright © 2026, Sharina, Kusnandar, Heru K. Alamsyah
+PENDAHULUAN
+Perairan pesisir merupakan wilayah yang sangat dinamis karena dipengaruhi oleh
+interaksi berbagai proses fisik, kimia, dan biologis. Salah satu indikator oseanografi yang
+memegang peranan krusial dalam mengontrol dinamika ekosistem laut adalah suhu
+permukaan laut (SPL). Variasi SPL memengaruhi stabilitas kolom air, proses pencampuran
+massa air, serta distribusi nutrien yang berperan langsung terhadap produktivitas primer
+perairan laut (Wirasatria et al, 2017). Satu dekade terakhir, perubahan SPL semakin intensif
+terjadi akibat pengaruh variabilitas iklim regional dan global. Peningkatan SPL cenderung
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+memperkuat stratifikasi kolom air sehingga menghambat pencampuran vertikal dan
+membatasi suplai nutrien dari lapisan bawah ke lapisan permukaan (Kunarso et al, 2019).
+Keadaan tersebut berdampak pada penurunan kesuburan perairan, terutama di wilayah
+perairan tropis dan pesisir.
+Konsentrasi klorofil-a dapat merepresentasikan produktivitas primer perairan laut, di
+mana merupakan pigmen fotosintetik utama yang terkandung dalam fitoplankton.
+Konsentrasi klorofil-a banyak digunakan sebagai indikator biomassa fitoplankton dan tingkat
+kesuburan perairan (Latifah et al, 2024). Variabilitas klorofil-a dipengaruhi oleh kondisi
+oseanografi, terutama suhu permukaan laut, ketersediaan nutrien, serta dinamika arus dan
+angin (Rifai et al, 2020 ).
+Hubungan antara SPL dan klorofil-a pada umumnya menunjukkan pola negatif di
+wilayah perairan tropis. Pada kondisi SPL yang tinggi, stabilitas kolom air meningkat sehingga
+distribusi nutrien ke lapisan eufotik menjadi terbatas dan pertumbuhan fitoplankton menurun.
+Sebaliknya, pada kondisi SPL yang lebih rendah, pencampuran massa air lebih intensif
+sehingga mendukung peningkatan konsentrasi klorofil-a (Wirasatria et al, 2017).
+Satu di antara bagian dari Wilayah Pengelolaan Perikanan (WPP) 712 yang memiliki
+aktivitas perikanan yang tinggi adalah perairan pantai Jawa Tengah. Wilayah ini dipengaruhi
+oleh sistem monsun, arus Laut Jawa, serta masukan nutrien dari daratan, sehingga
+menyebabkan terjadinya variasi spasial dan temporal parameter oseanografi (Ramadhan,
+2022). Kombinasi SIG telah digunakan untuk memetakan parameter lingkungan laut secara
+spasial-temporal. Penerapan Sistem Informasi Geografis (SIG) telah terbukti efektif dalam
+memetakan parameter laut, sebagaimana ditunjukkan oleh Alamsyah (Alamsyah, 2022)
+dalam penelitiannya di perairan Karang Jeruk, Kabupaten Tegal mengenai teknik pemetaan
+sebaran klorofil-a serta Sea Surface Temperature (SST) yang mengonfirmasi bahwa metode
+penginderaan jauh sangat layak dan aplikatif untuk wilayah pesisir Jawa.
+Sebagian besar penelitian terdahulu masih mengandalkan data satelit dengan resolusi
+temporal yang relatif rendah, sehingga kurang mampu menangkap dinamika musiman dan
+variabilitas jangka pendek secara detail, khususnya di wilayah pesisir yang sangat dinamis.
+Perkembangan teknologi satelit terbaru, seperti Himawari-8, memungkinkan pengamatan
+oseanografi dengan resolusi temporal tinggi yang lebih representatif untuk analisis variabilitas
+harian hingga musiman (Sambah et al, 2021).
+Kebaruan (novelty) penelitian ini terletak pada pemanfaatan data satelit Himawari-8
+beresolusi temporal tinggi untuk menganalisis variabilitas spasial serta temporal SPL sekaligus
+klorofil-a di perairan pantai Jawa Tengah. Berbeda dengan penelitian terdahulu di lokasi yang
+sama yang umumnya menggunakan satelit beresolusi temporal rendah (seperti MODIS atau
+Aqua) yang sering terkendala tutupan awan, penggunaan Himawari-8 dalam penelitian ini
+memberikan keunggulan dalam menangkap dinamika harian secara lebih presis
+
+================================================================================
+
+=== DOCUMENT 4 ===
+Source: document (4).pdf
+Abstract:
+Recived : 07 April 2026
+Accepted : 23 Mei 2026
+Online : 25 Mei 2026 This study examines the integration of airspace utilization into capture fisheries
+surveillance from the perspective of international air law and the law of the
+ Article type sea, with particular emphasis on its operational relevance for fisheries
+Review Article management. The growing prevalence of illegal, unreported, and
+Commin Serv. Articel
+unregulated (IUU) fishing, combined with the limited coverage and high
+✓ Research Article
+operational costs of conventional sea-based patrols, necessitates more
+adaptive and technology-driven monitoring systems. In this context,
+ Keyword :
+Fisheries surveillance, International unmanned aerial vehicles (UAVs) offer practical advantages, including real-
+air law, IUU fishing, Law of the Sea, time monitoring, wider spatial coverage, and cost efficiency, making them
+Maritime domain awareness, UAV increasingly relevant for strengthening fisheries surveillance, particularly in
+(Unmanned Aerial Vehicles) archipelagic states such as Indonesia. This research employs a normative
+juridical approach, complemented by conceptual and comparative
+ Corresponding Author :
+analyses of the Chicago Convention and the United Nations Convention on
+Irma H. Hanafi
+the Law of the Sea (UNCLOS). The findings reveal a normative fragmentation
+Program Studi Ilmu Hukum,
+Fakultas Hukum, Univeristas between the principle of complete and exclusive sovereignty over airspace
+Pattimura. and the concept of sovereign rights in maritime zones, especially within the
+Exclusive Economic Zone (EEZ), which creates legal uncertainty in the
+Email: deployment of UAV-based surveillance systems. At the same time, this study
+irma.hanafi@lecturer.unpatti.ac.id
+identifies a regulatory lag, where existing legal frameworks have not fully
+accommodated the rapid development of multidomain surveillance
+technologies. Beyond its legal analysis, this study highlights the operational
+implications of UAV integration in fisheries monitoring systems, including
+improved detection of illegal activities, enhanced maritime domain
+awareness, and more efficient enforcement strategies. As a key contribution,
+the study proposes an integrated air–sea surveillance governance model
+based on the concept of functional sovereignty integration, which aligns
+legal frameworks with technological and institutional needs. This model
+provides both theoretical contributions to international law and practical
+policy guidance for improving fisheries surveillance and governance in
+Indonesia.
+Copyright © 2026, Irma H. Hanafi, Welly A. Riry, Ifa T. Tazkira
+PENDAHULUAN
+Pemanfaatan sumber daya perikanan tangkap merupakan salah satu pilar penting
+dalam mendukung ketahanan pangan, ekonomi nasional, dan kesejahteraan masyarakat
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+pesisir, khususnya di negara kepulauan seperti Indonesia. Namun, keberlanjutan sektor ini
+menghadapi tantangan serius akibat praktik penangkapan ikan ilegal, tidak dilaporkan, dan
+tidak diatur (illegal, unreported, and unregulated fishing – IUU fishing) yang terus meningkat
+secara global. Selain menimbulkan kerugian ekonomi yang signifikan, praktik ini juga
+berdampak langsung terhadap degradasi stok ikan dan ketidakseimbangan ekosistem laut.
+Dalam konteks Indonesia, luasnya wilayah perairan, karakteristik geografis yang kompleks,
+serta keterbatasan kapasitas pengawasan menjadi tantangan utama dalam mewujudkan
+pengelolaan perikanan tangkap yang efektif dan berkelanjutan. Organisasi seperti Food and
+Agriculture Organization mencatat bahwa IUU fishing tidak hanya merugikan secara ekonomi,
+tetapi juga mengancam keberlanjutan stok ikan dan stabilitas ekosistem laut (FAO, 2020).
+Dalam konteks Indonesia, luasnya wilayah perairan dan kompleksitas geografis semakin
+memperumit upaya pengawasan yang efektif.
+Secara konvensional, pengawasan sumber daya perikanan dilakukan melalui patroli
+laut menggunakan kapal pengawas dan, dalam beberapa kasus, pesawat udara berawak.
+Namun, pendekatan ini memiliki keterbatasan signifikan, terutama dalam hal biaya
+operasional, jangkauan, dan efisiensi waktu (Petrossian, 2015). Dengan luas wilayah laut
+Indonesia yang mencakup lebih dari 3,25 juta km², pendekatan berbasis patroli konvensional
+menjadi tidak memadai untuk menjamin efektivitas pengawasan secara menyeluruh. Oleh
+karena itu, diperlukan inovasi dalam sistem pengawasan yang tidak hanya berbasis pada
+kekuatan fisik, tetapi juga mengintegrasikan teknologi untuk meningkatkan kapasitas deteksi
+dan respons.
+Dalam konteks ini, perkembangan teknologi penginderaan jauh, sistem satelit, dan
+kendaraan udara tanpa awak (unmanned aerial vehicles – UAV) menawarkan solusi strategis
+dalam memperkuat sistem pengawasan perikanan. Teknologi ini memungkinkan
+pemantauan secara real-time, cakupan wilayah yang lebih luas, serta pengumpulan data
+yang lebih akurat (Klemas, 2015). UAV secara khusus memiliki keunggulan dalam fleksibilitas
+operasional dan efisiensi biaya dibandingkan metode patroli konvensional, sehingga semakin
+relevan dalam mendukung sistem pengawasan modern.
+Integrasi UAV dengan sistem pemantauan lainnya, seperti automatic identification
+system (AIS) dan citra satelit, berkontribusi signifikan dalam meningkatkan maritime domain
+awareness, yang menjadi elemen kunci dalam mendeteksi dan mencegah praktik illegal,
+unreported, and unregulated fishing (IUU fishing). Pemanfaatan teknologi ini juga telah
+diadopsi di berbagai negara sebagai bagian dari pendekatan pengawasan berbasis
+teknologi untuk mengidentifikasi aktivitas ilegal di laut.
+Di sisi lain, penggunaan teknologi penginderaan jauh berbasis satelit telah lama menjadi
+perhatian dalam kerangka hukum internasional, khususnya dalam konteks hukum ruang
+angkasa yang berkaitan dengan yurisdiksi dan kedaulatan negara (Hanafi, 2011). Dengan
+demikian, pemanfaatan UAV tidak hanya memiliki relevansi teknis, tetapi juga memainkan
+peran strategis dalam mendukung tata kelola perikanan tangkap yang lebih adaptif,
+terintegrasi, dan berbasis data.
+Meskipun demikian, pemanfaatan ruang udara untuk pengawasan maritim
+memunculkan tantangan hukum yang kompleks, terutama terkait status hukum UAV dalam
+hukum humaniter internasional dan hukum udara internasional (Huwae et al., 2022; Van
+Harling et al., 2024). Berdasarkan Chicago Convention, setiap negara memiliki kedaulatan
+penuh dan eksklusif atas ruang udara di atas wilayahnya, yang menjadi dasar utama dalam
+pengaturan aktivitas penerbangan dan pengawasan udara lintas negara (Saily et al., 2022;
+Tiwery et al., 2024). Konsekuensinya, penggunaan UAV dalam kegiatan pengawasan
+perikanan, khususnya yang melibatkan operasi lintas batas, harus tunduk pada persetujuan
+negara yang bersangkutan, sehingga berpotensi menimbulkan keterbatasan operasional
+serta risiko konflik yurisdiks
+
+================================================================================
+
+=== DOCUMENT 5 ===
+Source: document (5).pdf
+Abstract:
+Recived : 14 April 2026
+Accepted : 10 Mei 2026
+Online : 26 Mei 2026 The capture fisheries sector requires data-based management to support the
+sustainability of fishery resources. One of the efforts is the implementation of
+ Article type fishing logbooks as regulated in the Minister of Marine Affairs and Fisheries
+Review Article Regulation No. 33 of 2021. This study aims to analyze fishermen’s perception
+Commin Serv. Articel
+of the implementation of fishing logbooks among danish seine fishermen. The
+✓ Research Article
+research was conducted from December 2025 to January 2026 at Kluwut
+Fishing Port, Brebes Regency. This study used a mixed method approach with
+ Keyword :
+Danish seine, Fishermen's data collection techniques including observation, interviews, and
+perceptions, Fishing logbook, documentation. Data analysis was carried out using Likert scale, validity and
+Kluwut fishing port reliability tests, and multiple linear regression with SPSS. The results showed that
+fishermen’s perception of logbook implementation was in the moderate
+ Corresponding Author :
+category with a value of 51%. Regression analysis indicated that knowledge
+Rizqi Isticharoh
+of logbook regulations, logbook filling procedures, and E-logbook usage
+Program Studi Pemanfaatan
+significantly influenced knowledge of logbook benefits. The main constraints
+Sumberdaya Perikanan, Fakultas
+Perikanan dan Ilmu Kelautan, faced by fishermen include low technological literacy and limited use of
+Universitas Pancasakti Tegal digital devices and internet networks in supporting E-logbook
+implementation.
+Email:
+rizqiistii@gmail.com
+Copyright © 2026, Rizqi Isticharoh, Sri Mulyani, Heru K. Alamsya
+PENDAHULUAN
+Sektor perikanan tangkap berperan penting dalam mendukung perekonomian nasional
+serta menjadi mata pencaharian utama bagi masyarakat pesisir (Hananto, 2020). Potensi
+sumber daya ikan yang besar perlu dimanfaatkan secara bijak agar tetap memberikan
+manfaat ekonomi bagi masyarakat. Pengelolaan yang tidak terencana dapat menyebabkan
+kerusakan lingkungan serta penurunan stok sumber daya ikan sehingga diperlukan upaya
+pengelolaan yang berkelanjutan.
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Pengelolaan perikanan yang berkelanjutan memerlukan dukungan data yang akurat
+dan berkelanjutan. Data perikanan berfungsi sebagai dasar dalam penyusunan kebijakan,
+evaluasi pengelolaan, serta pengendalian upaya penangkapan untuk mencegah terjadinya
+overfishing (Khoerunnisa et al., 2025)
+Logbook penangkapan ikan merupakan instrumen penting dalam pengumpulan data
+perikanan tangkap. Penerapannya di Indonesia diatur dalam Peraturan Menteri Kelautan dan
+Perikanan Republik Indonesia Nomor 33 Tahun 2021 tentang Logbook Penangkapan Ikan,
+Pemantauan di Atas Kapal Penangkap Ikan dan Kapal Pengangkut Ikan, Inspeksi, Pengujian,
+dan Penandaan Kapal Perikanan, serta Tata Kelola Pengawakan Kapal Perikanan. Menurut
+Kurniawati et al. (2018), logbook penangkapan ikan merupakan media pencatatan aktivitas
+kapal penangkap ikan selama melakukan operasi penangkapan di laut yang memuat
+informasi seperti waktu dan lokasi penangkapan, jenis alat tangkap yang digunakan, serta
+jumlah hasil tangkapan yang diperoleh. Logbook berfungsi mencatat aktivitas penangkapan
+secara rinci sehingga dapat mendukung pengelolaan sumber daya ikan secara
+berkelanjutan (Kiswanto et al., 2020).
+Implementasi logbook di lapangan masih menghadapi berbagai kendala. Hasil
+wawancara awal dengan Syahbandar di Pelabuhan Perikanan Kluwut menunjukkan bahwa
+sebagian besar nelayan belum mengisi logbook secara langsung saat kegiatan
+penangkapan berlangsung di laut, melainkan setelah kapal kembali ke pelabuhan. Kondisi
+tersebut berpotensi menurunkan akurasi data karena pengisian dilakukan berdasarkan
+ingatan. Penelitian Apriliani dan Nugroho (2016) juga menunjukkan bahwa 75% nelayan
+mengisi logbook setelah melakukan penangkapan, 12,5% mengisi di darat sesudah melaut,
+serta 12,5% lainnya tanpa mengisi sama sekali.
+Pelabuhan Perikanan Kluwut di Kabupaten Brebes merupakan basis operasional kapal
+jaring tarik berkantong dengan aktivitas penangkapan yang cukup intensif. Kondisi tersebut
+menuntut adanya sistem pencatatan yang baik guna menyokong tata kelola sumber daya
+ikan dengan cara berkesinambungan. Penelitian ini bertujuan menganalisis persepsi nelayan
+jaring tarik berkantong terhadap implementasi Peraturan Menteri Kelautan dan Perikanan
+Nomor 33 Tahun 2021 tentang logbook penangkapan ikan di di Pelabuhan Perikanan Kluwut,
+Kabupaten Brebes.
+MATERI DAN METODE
+Penelitian ini dilaksanakan pada bulan Desember 2025 - Januari 2026 yang bertempat
+di Pelabuhan Perikanan Kluwut, Kabupaten Brebes.
+Gambar 1. Peta lokasi penelitian
+44
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+METODE PENGUMPULAN DATA
+Penelitian ini memanfaatkan metode mixed method untuk menganalisis persepsi
+nelayan terhadap implementasi logbook penangkapan ikan. Metode mixed method ialah
+pendekatan penelitian yang mencampurkan metode kuantitatif dengan kualitatif di sebuah
+penelitian sehingga mampu memberikan pemahaman yang lebih komprehensif terhadap
+fenomena yang diteliti. Menurut Firmansyah et al. (2025), metode mixed method ialah
+pendekatan penelitian yang mengintegrasikan data kuantitatif dengan kualitatif sehingga
+mampu menyediakan deskripsi yang lebih lengkap terkait kondisi yang diteliti serta
+memperkuat hasil analisis melalui kombinasi kedua jenis data tersebut. Teknik pengumpulan
+data melingkupi data primer serta data sekunder. Data primer didapatkan dari observasi,
+dokumentasi, serta wawancara lewat kuesioner sehingga peneliti memperoleh informasi
+secara langsung dari responden (Lumuko et al., 2023). Data sekunder didapatkan dari buku,
+laporan, serta berbagai sumber pustaka lainnya (Hardani, 2020), termasuk data dari
+Syahbandar Pelabuhan Perikanan Kluwut, Permen KP No. 33 Tahun 2021, serta literatur yang
+relevan. Subjek penelitian ini adalah nelayan di Pelabuhan Perikanan Kluwut yang menjadi
+responden dalam penelitian. Responden dipilih untuk memberikan informasi terkait
+pengetahuan dan persepsi terhadap implementasi logbook penangkapan ikan. Menurut
+Gerungan et al. (2024), nelayan merupakan individu maupun kelompok khalayak umum yang
+melaksanakan tahapan penangkapan ikan di perairan sebagai mata pencaharian utama.
+Populasi merupakan semua subjek maupun objek yang mempunyai ciri khas khusus
+untuk dipelajari (Sugiyono, 2019). Populasi penelitian ini ialah 170 kapal jaring tarik berkantong
+yang aktif di Pelabuhan Perikanan Kluwut berdasarkan laporan tahunan tahun 2025. Sampel
+merupakan bagian dari populasi yang dapat mewakili keseluruhan populasi (Roflin & Liberty,
+2021), sehingga dapat digunakan ketika populasi terlalu besar dan terdapat keterbatasan
+penelitian (Hertanto; 2020). Teknik pengambilan sampel dengan purposive sampling, yakni
+teknik untuk menentukan sampel menggunakan kriteria khusus (Sugiyono, 2019). Penentuan
+jumlah sampel dilakukan menggunakan rumus Simamora yang dikemukakan oleh Bilson et al.
+(2002) dalam Kusnandar et al. (2022) dengan rumus:
+𝑵𝒁𝟐 𝑷 (𝟏−𝑷)
+n =
+𝑵 𝒅𝟐+𝒁𝟐 𝑷 (𝟏−𝑷)
+Keterangan:
+n = Total sampel yang didapat
+N = Total populasi
+Z2 = Normal variable (1,96)2
+P = Percentage variance (0,05)
+d2 = Kesalahan maksimal yang diterima (0,1)2
+Hasil perhitungan atas populasi 170 kapal menghasilkan nilai 16,4787 yang kemudian
+dibulatkan menjadi 16 kapal sebagai sampel penelitian. Responden dipilih dari nahkoda atau
+nelayan yang mengisi logbook penangkapan ikan, dengan ketentuan setiap satu kapal
+diwakili oleh satu responden yang aktif melaut karena dalam satu unit kapal hanya tersedia
+satu dokumen logbook penangkapan ikan yang diisi oleh pihak yang bertanggung jawab
+terhadap pencatatan kegiatan penangkapan, serta memiliki pengalaman kerja minimal 3
+tahun agar mampu memberikan penilaian yang lebih objektif (Sembiring, 2019).
+Analisis Data
+Analisis data yang dimanfaatkan pada penelitian ini ialah analisis skala Likert, uji
+validitas, uji reliabilitas, serta analisis regresi linear berganda. Menurut Rizky et al. (2023), analisis
+data menjadi tahapan menata serta menafsirkan informasi yang didapatkan atas hasil
+observasi, wawancara serta dokumentasi sehingga dapat meningkatkan pemahaman
+peneliti terhadap topik yang diteliti. Penelitian ini memanfaatkan analisis skala Likert yang
+bertujuan guna mengukur persepsi nelayan pada pelaksanaan PERMEN KP No. 33 Tahun 2021
+tentang logbook penangkapan ikan. Penyusunan instrumen kuesioner dalam penelitian ini
+didasarkan pada ketentuan dan pasal-pasal yang tercantum dalam peraturan tersebut,
+45
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+khususnya terkait kewajiban nelayan dalam pengisian logbook penangkapan ikan, baik
+secara manual maupun elektronik (E-logbook).
+Uji Validitas dan Uji Reliablitas
+Menurut Komarudin (2020), uji validitas menjadi proses uji yang dimanfaatkan guna
+mendapatkan informasi ketepatan instrumen penelitian dalam menakar variabel yang wajib
+ditakar, sementara uji reliabilitas digunakan untuk melihat konsistensi instrumen pada
+penemuan informasi yang sama saat dipakai ulang-ulang pada kesamaan keadaan. Uji
+validitas dan reliabilitas digunakan untuk memastikan kualitas instrumen penelitian, khususnya
+kuesioner yang dianalisis menggunakan SPSS. Uji validitas bertujuan demi mengetahui
+kemampuan tiap-tiap pertanyaan pada pengukuran variabel penelitian (Priyatno, 2019).
+Uji reliabilitas bertujuan guna menakar tingkat konsistensi jawaban yang dihasilkan
+sehingga data yang diperoleh sesuai dengan kondisi sebenarnya. Wibowo dan Rasipan
+(2025) menjelaskan bahwa uji reliabilitas ialah proses uji yang dimanfaatkan guna mengetahui
+skala kemampuan sebuah instrumen penelitian dalam menghasilkan data yang konsisten.
+Instrumen yang reliabel akan menyediakan temuan penakaran yang relatif sama jika
+dimanfaatkan berulang-ulang dalam keadaan serta objek yang serupa sehingga data yang
+dihasilkan dapat dipercaya untuk digunakan dalam analisis penelitian.
+Skala Likert
+Berdasarkan pada Taluke et al. (2019), skala Likert ialah skala psikometrik yang banyak
+dimanfaatkan pada angket atau survei guna menakar persepsi, sikap serta pendapat
+partisipan atas suatu objek penelitian. Skala ini mempunyai dua jenis pernyataan yakni
+pernyataan positif yang menilai sikap positif dengan skor 3, 2, dan 1 serta pernyataan negatif
+yang menilai sikap negatif dengan skor 1, 2, dan 3. Pilihan jawaban yang digunakan dalam
+penelitian ini meliputi tahu, ragu-ragu, dan tidak tahu. Setiap jawaban responden diberikan
+skor dengan bobot nilai 1 hingga 3, dimana tingkat bobot nilai dimulai dari yang terendah
+hingga tertinggi.
+Penggunaan skala Likert 3 poin (tahu, ragu-ragu, tidak tahu) dalam penelitian ini
+disesuaikan dengan karakteristik responden nelayan agar lebih mudah dipahami dan
+meminimalisir kesalahan dalam pengisian kuesioner. Sugiyono (2019) menyatakan bahwa
+skala Likert dapat disesuaikan dengan kebutuhan penelitian serta kondisi responden. Skala
+dengan jumlah kategori yang lebih sederhana dinilai lebih efektif digunakan pada responden
+dengan tingkat pendidikan dan literasi yang beragam agar menghindari bias pemahaman.
+Penggunaan skala 3 poin juga telah diterapkan pada penelitian sejenis di bidang perikanan
+oleh Zamzami et al. (2025) dalam analisis persepsi nelayan terhadap kebijakan perikanan,
+sehingga pendekatan ini masih relevan digunakan dalam penelitian dengan karakteristik
+responden yang serupa.
+Tabel 1. Kategori Penilaian Skala Likert
+Bobot/Skor Nilai Penilaian
+3 Tahu
+2 Ragu-ragu
+1 Tidak tahu
+Sumber: Sugiyono Tahun 2022
+Berdasarkan skor yang diperoleh dari setiap jawaban responden, selanjutnya dilakukan
+penentuan kategori penilaian persepsi nelayan terhadap implementasi logbook
+penangkapan ikan. Penentuan kategori dilakukan dengan menghitung nilai maksimum dan
+nilai minimum berdasarkan jumlah pertanyaan pada kuesioner.maksimum diperoleh dari skor
+tertinggi dikalikan dengan jumlah pertanyaan 3 × 13 = 39, sedangkan nilai paling kecil
+didapatkan atas nilai paling rendah dikali dengan total pertanyaan 1 × 13 = 13. Rentang kelas
+kemudian dihitung menggunakan rumus yang dikemukakan oleh Aritonang (2020) sehingga
+diperoleh interval pada setiap kategori. Kategori penilaian persepsi nelayan terhadap
+implementasi logbook penangkapan ikan dipaparkan dalam Tabel di bawah ini.
+46
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Tabel 2. Kategori Penilaian Persepsi Nelayan Terhadap Implementasi
+Logbook Penangkapan Ikan
+No Kategori Rentang Kelas Bobot
+
+================================================================================
+
+=== DOCUMENT 6 ===
+Source: document (6).pdf
+Abstract:
+Recived : 16 April 2026
+Accepted : 25 Mei 2026
+Online : 28 Mei 2026 The Bali Strait (FMA 573) is a critical fishing ground and primary habitat for Bali
+sardinella (Sardinella lemuru), a small pelagic species under increasing
+ Article type exploitation pressure from traditional fishing fleets. However, studies
+Review Article integrating fishing ground characteristics, oceanographic influences, and
+Commin Serv. Articel
+exploitation status at PPI Kedonganan remain limited. This study aimed to
+✓ Research Article
+characterize fishing grounds, assess the influence of oceanographic
+parameters (SST and chlorophyll-a) on fish production, and evaluate the
+ Keyword :
+Exploitation status, Fishing ground, exploitation status of S. lemuru landed at PPI Kedonganan, Bal
+
+================================================================================
+
+=== DOCUMENT 7 ===
+Source: document (7).pdf
+Abstract:
+Recived : 07 April 2026
+Accepted : 02 Mei 2026
+Online : 28 Mei 2026 Despite the considerable potential of the tuna, skipjack, and tongkol (TCT)
+fisheries in East Nusa Tenggara (NTT) Province, their economic contribution
+ Article type remains stagnant due to the underutilization of port facilities. This study
+Review Article evaluates the utilization of fishing port facilities at PPI Oeba and PPP Tenau in
+Commin Serv. Articel
+Kupang City, identifies operational constraints, and formulates strategic
+✓ Research Article
+optimization plans for the long-term development of the TCT fisheries industry.
+A mixed-methods approach was employed, integrating quantitative surveys
+ Keyword :
+Archipelagic Logistics, Fishery Port from 180 respondents comprising fishermen, logistics providers, processing
+Optimization, Mixed Methods, NTT entrepreneurs, and port managers with qualitative in-depth interviews with
+Province, Port Infrastructure, key stakeholders. Stakeholder perceptions were assessed using a five-point
+Sustainable Fisheries, TCT Industry Likert scale and the instrument was subjected to validity and reliability testing
+prior to full deployment. Findings reveal that while primary facilities at PPI
+ Corresponding Author :
+Oeba are relatively functional (mean score: 4.03), PPP Tenau faces critical
+Welhelmina L. Kause
+challenges arising from infrastructure aging dating to 1977 and severely
+East Nusa Tenggara Province’s
+Regional Development Research limited operational capacity relative to current TCT industry demand. Key
+and Innovation Agency obstacles identified include non-functional cold chain systems, weak
+(Bapperida), Kupang, East Nusa institutional governance, inadequate waste management, and low
+Tenggara, Indonesia stakeholder participation in policy-making. Strategic recommendations
+encompass infrastructure revitalization, institutional governance reform,
+Email:
+digitalization through GIS-based monitoring, investment facilitation, and
+kause.well@gmail.com
+implementation of the Eco-Fishing Port concept. This study underscores the
+imperative of transforming fishing ports from passive landing sites into
+integrated maritime–industrial hubs to enhance the regional value chain and
+ensure long-term sustainability of archipelagic fisheries.
+Copyright © 2026, Welhelmina L. Kause, Marince P. Tunardjo, Noverius H. Nggili,
+Aprianus R. Modena, Dalmasius Naif, Adellia Agusta, Roidah
+‘Afro’, Descorina P. Br. Sitompul, Yohanes Frenky, Lisa Novalia
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+
+================================================================================
+
+=== DOCUMENT 8 ===
+Source: document (8).pdf
+Abstract:
+Recived : 10 April 2026
+Accepted : 24 Mei 2026
+Online : 30 Mei 2026 This study addresses the high fishery potential of Natuna waters, influenced
+by oceanographic dynamics, while localized mapping of reef fish fishing
+ Article type grounds remains limited. Previous studies have mainly focused on pelagic
+Review Article species and large-scale areas, with limited integration of oceanographic
+Commin Serv. Articel
+and habitat-based spatial analysis at the local level. This study aims to
+✓ Research Article
+analyze the relationship between oceanographic parameters and reef fish
+catch (CPUE) and to map potential fishing grounds around Kerdau Island
+ Keyword :
+Generalized Additive Model using spatial analysis and remote sensing. A descriptive survey approach was
+(GAM), Habitat Suitability Index applied, integrating primary and secondary data collected through
+(HSI), Oceanography, Reef Fish, observation, interviews, and documentation. Data were analyzed using the
+Potential Area Mapping Generalized Additive Model (GAM) and Geographic Information Systems
+(GIS) to develop a Habitat Suitability Index (HSI). The results show that
+ Corresponding Author :
+individual oceanographic parameters do not significantly influence CPUE;
+Jeriyan
+however, their combination explains up to 73,21% of its variation, with the best
+Program Studi Ilmu Kelautan,
+Fakultas Ilmu Kelautan dan model including temperature, salinity, current, chlorophyll-a, and sea level.
+Perikanan, Universitas Maritim Optimal fishing conditions were identified within specific parameter ranges.
+Raja Ali Haji HSI mapping indicates that 61,40% of fishing locations fall within suitable zones
+(HSI ≥ 0.5), with spatial and temporal variability. However, 38,60% of fishing
+Email: jeriyan422@gmail.com
+points remain in low-suitability areas, indicating limitations of the model in
+capturing all influencing factors. This study is limited by the exclusion of
+habitat complexity, fishing pressure, and socio-economic variables, as well as
+a short observation period. Future research should integrate broader
+ecological and anthropogenic factors to improve model accuracy and
+support sustainable fisheries management.
+Copyright © 2026, Jeriyan, Asep Ma’mun, Esty Kurniawati
+PENDAHULUAN
+Indonesia merupakan negara dengan potensi perikanan yang sangat besar, didukung
+oleh luas wilayah perairan mencapai sekitar 5,9 juta km², termasuk Zona Ekonomi Eksklusif (ZEE)
+seluas 2,8 juta km² (Kurnia, 2022). Potensi ini menjadikan sektor perikanan sebagai salah satu
+kontributor penting bagi perekonomian nasional, dengan kontribusi yang terus meningkat
+terhadap Produk Domestik Bruto (PDB) (Wibowo et al., 2021). Dalam pengelolaannya, wilayah
+perikanan Indonesia dibagi menjadi beberapa Wilayah Pengelolaan Perikanan (WPP), salah
+satunya adalah WPP 711 yang mencakup perairan Kabupaten Natuna. Wilayah ini memiliki
+potensi sumber daya ikan yang besar serta kondisi geografis yang strategis karena berbatasan
+dengan Laut Natuna Utara dan berada pada jalur pelayaran internasional.
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Perairan Natuna memiliki potensi sumber daya ikan yang tinggi, dengan estimasi hasil
+tangkapan ikan pelagis kecil mencapai 330,284 ton per tahun, pelagis besar 185.855 ton per
+tahun, dan ikan demersal sebesar 131,070 ton per tahun (Pemerintah Kabupaten Natuna,
+2021). Tingginya potensi ini tidak terlepas dari kondisi oseanografi perairan yang mendukung,
+seperti suhu permukaan laut, salinitas, arus, kedalaman, serta konsentrasi klorofil-a yang
+berperan dalam menentukan produktivitas perairan dan ketersediaan pakan alami bagi ikan
+(Hukubun & Tubalawony, 2024). Selain itu, keberadaan ekosistem terumbu karang juga
+menjadi faktor penting dalam mendukung keberadaan ikan demersal seperti kerapu dan
+kakap (Safruddin et al., 2020).
+Sejumlah penelitian terdahulu menunjukkan bahwa parameter oseanografi memiliki
+pengaruh signifikan terhadap distribusi dan hasil tangkapan ikan. Variasi suhu permukaan laut
+dan konsentrasi klorofil-a diketahui memengaruhi jumlah titik fishing ground serta distribusi ikan
+(Apriansyah & Utami, 2024; N. Fitriani, 2020). Penelitian lain juga menunjukkan adanya
+hubungan yang kuat antara suhu permukaan laut dengan hasil tangkapan ikan, serta
+pemanfaatan data penginderaan jauh dalam memetakan daerah potensial penangkapan
+ikan (W. Fitriani & Tadjuddah, 2025); (Pratama et al., 2023). Selain itu, pendekatan Generalized
+Additive Model (GAM) terbukti efektif dalam memodelkan hubungan nonlinear antara
+parameter lingkungan dan distribusi ikan (Siregar et al., 2018). Penelitian mengenai ikan
+demersal berbasis parameter oseanografi telah dilakukan di berbagai perairan Indonesia. Di
+Laut Arafura, suhu permukaan laut, klorofil-a, dan salinitas diketahui memengaruhi distribusi
+ikan demersal (Ningsih & Syah, 2020). Sementara itu, penelitian di Kepulauan Riau
+menunjukkan bahwa suhu permukaan laut, klorofil-a, kedalaman, dan salinitas berhubungan
+signifikan dengan hasil tangkapan ikan demersal (Sambah et al., 2021).
+Tingginya aktivitas penangkapan ikan di Natuna belum didukung informasi spasial yang
+memadai mengenai daerah penangkapan potensial. Akibatnya, efisiensi operasi menurun,
+biaya bahan bakar meningkat, dan hasil tangkapan menjadi tidak past
+
+================================================================================
+
+=== DOCUMENT 9 ===
+Source: document (9).pdf
+Abstract:
+Recived : 28 April 2026
+Accepted : 24 Mei 2026
+Online : 30 Mei 2026 The coral reef ecosystem in Wambitema Waters, Tanah Merah Bay, Jayapura
+Regency, plays an important role in supporting reef fisheries resources and
+ Article type marine ecotourism activities. Sustainable management of coral reef
+Review Article ecosystems is required to maintain ecological balance while supporting
+Commin Serv. Articel
+fisheries and tourism utilization. This study aimed to analyze the suitability and
+✓ Research Article
+carrying capacity of coral reef ecosystem areas to support sustainable
+fisheries management and marine ecotourism in Wambitema Waters. The
+ Keyword :
+Coral reef, Carrying capacity, study was conducted using coral reef fish observations through underwater
+Land suitability, Marine visual census (UVC), assessment of marine tourism suitability using the Tourism
+ecotourism, Reef fish, Wambitema Suitability Index (TSI), and environmental carrying capacity analysis. The
+parameters measured included coral cover, reef fish abundance, life form
+ Corresponding Author :
+diversity, water clarity, depth, and current velocity. The results identified 415
+Lolita Tuhumena
+species of coral reef fish belonging to 36 families, indicating high biodiversity
+Program Studi Ilmu Kelautan,
+and relatively healthy coral reef ecosystem conditions. The suitability analysis
+Fakultas MIPA, Universitas
+Cenderawasih, Jayapura. showed that the study area was categorized as highly suitable (S1) for diving
+activities with an IKW value of 2.63, and suitable to highly suitable for
+Email: snorkeling activities with an IKW value of 2.42. The environmental carrying
+lolituhumena@gmail.com capacity value was estimated at 809 visitors/day, while the effective
+utilization carrying capacity recommended for sustainable management
+was 81 visitors/day for each activity. These findings indicate that Wambitema
+Waters have strong potential for integrated management of fisheries
+resources and marine ecotourism based on conservation principles,
+environmental carrying capacity, and sustainable utilization of coral reef
+ecosystems.
+Copyright © 2026, Lolita Tuhumena, Khristhoper A. A. Manalu, Yan Maruanaya
+PENDAHULUAN
+Pesisir Teluk Tanah Merah di Kabupaten Jayapura, Provinsi Papua, merupakan salah satu
+kawasan pesisir yang memiliki potensi sumber daya perikanan dan kelautan yang tinggi serta
+termasuk dalam Wilayah Pengelolaan Perikanan Negara Republik Indonesia (WPPNRI) 717
+(Surahman & Ilhamdi, 2018). Kawasan ini memiliki ekosistem terumbu karang yang berperan
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+penting sebagai habitat, tempat pemijahan, daerah asuhan, dan sumber makanan bagi
+berbagai jenis ikan karang yang mendukung keberlanjutan perikanan pesisir. Selain
+mendukung sumber daya perikanan, ekosistem terumbu karang di kawasan ini juga memiliki
+potensi besar untuk pengembangan ekowisata bahari berbasis konservasi.
+Salah satu kawasan pesisir yang memiliki potensi tersebut adalah Perairan Wambitema
+di Kampung Tablasupa, Teluk Tanah Merah. Kawasan ini merupakan wilayah pengelolaan
+adat masyarakat Suku Tepera yang dikenal dengan sistem Tiyatiki, yaitu bentuk kearifan lokal
+masyarakat adat dalam menjaga dan mengelola sumber daya laut secara berkelanjutan
+(Sujarta et al., 2021). Sistem pengelolaan berbasis adat tersebut menjadi bagian penting
+dalam menjaga keseimbangan pemanfaatan sumber daya pesisir dan kelestarian ekosistem
+laut di kawasan Wambitema.
+Namun demikian, peningkatan aktivitas masyarakat di wilayah pesisir, termasuk
+pemanfaatan sumber daya perikanan dan pengembangan wisata bahari, berpotensi
+meningkatkan tekanan terhadap ekosistem terumbu karang apabila tidak diikuti dengan
+pengelolaan yang tepat. Aktivitas pembangunan pesisir, eksploitasi sumber daya, dan
+intensitas pemanfaatan kawasan yang tidak terkendali dapat menyebabkan degradasi
+habitat terumbu karang dan menurunkan kualitas lingkungan perairan (Tuhumena et al., 2022;
+Hirliana & Ariati, 2025). Kerusakan ekosistem terumbu karang tidak hanya berdampak
+terhadap keberlanjutan biodiversitas laut, tetapi juga dapat memengaruhi keberlanjutan
+sumber daya ikan karang yang menjadi target perikanan masyarakat pesisir.
+Dalam konteks pengelolaan sumber daya pesisir, konsep daya dukung kawasan
+menjadi salah satu pendekatan penting untuk menjaga keseimbangan antara pemanfaatan
+dan konservasi sumber daya alam. Daya dukung kawasan merupakan kemampuan
+lingkungan dalam mendukung aktivitas pemanfaatan tanpa menimbulkan kerusakan
+ekologis yang melebihi kapasitas lingkungan (Yulianda & Atmadiopera, 2020; Prajawati et al.,
+2021). Pendekatan ini tidak hanya relevan dalam pengembangan ekowisata bahari, tetapi
+juga penting dalam mendukung pengelolaan perikanan berkelanjutan, terutama pada
+kawasan ekosistem terumbu karang yang rentan terhadap tekanan antropogenik.
+Beberapa penelitian mengenai kesesuaian kawasan dan daya dukung ekowisata
+berbasis ekosistem terumbu karang telah dilakukan di berbagai wilayah Indonesia, seperti di
+Pulau Kelapan, Kabupaten Bangka Selatan (Jayanti et al., 2021), Pulau Sibu, Maluku Utara
+(Tahir et al., 2022), Pulau Larea-Rea, Kabupaten Sinjai (Wahyudi et al., 2021), Pantai Jemeluk,
+Karangasem, Bali (Hadiyanti et al., 2021), dan Pulau Isau Negeri Pasanea, Kabupaten Maluku
+Tengah (Mualo et al., 2025). Hasil penelitian tersebut menunjukkan bahwa pendekatan
+kesesuaian kawasan dan daya dukung lingkungan dapat digunakan sebagai dasar
+pengelolaan kawasan pesisir secara berkelanjutan melalui pembatasan intensitas
+pemanfaatan kawasan.
+Meskipun demikian, kajian mengenai kesesuaian kawasan dan daya dukung ekosistem
+terumbu karang di Perairan Wambitema masih sangat terbatas, khususnya yang mengaitkan
+potensi ikan karang, ekowisata bahari, pengelolaan perikanan, dan pendekatan konservasi
+berbasis kearifan lokal. Padahal, kawasan ini memiliki karakteristik ekologis dan sosial yang
+penting dalam mendukung pengelolaan sumber daya pesisir secara terpadu dan
+berkelanjutan.
+Pengelolaan wilayah pesisir berbasis daya dukung lingkungan diharapkan dapat
+mendukung pembangunan sektor kelautan, perikanan, dan pariwisata secara berkelanjutan
+(Viana et al., 2024; Tranter et al., 2022). Selain mendukung kegiatan ekowisata bahari,
+pengelolaan kawasan terumbu karang yang baik juga berperan dalam menjaga
+keberlanjutan stok ikan karang dan habitat perikanan pesisir. Dengan demikian,
+102
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+keseimbangan antara pemanfaatan sumber daya, konservasi ekosistem, dan keberlanjutan
+perikanan dapat tercapai secara optimal.
+Berdasarkan kondisi tersebut, penelitian ini bertujuan untuk menganalisis kesesuaian dan
+daya dukung ekosistem terumbu karang guna mendukung pengelolaan perikanan dan
+ekowisata bahari berkelanjutan di Perairan Wambitema, Teluk Tanah Merah, Kabupaten
+Jayapura.
+MATERI DAN METODE
+Penelitian ini dilakukan pada kawasan ekosistem terumbu karang di Perairan
+Wambitema, Teluk Tanah Merah, Kabupaten Jayapura (Gambar 1). Penelitian dilaksanakan
+pada tahun 2025 pada tiga stasiun pengamatan yang ditentukan secara purposive
+berdasarkan kondisi tutupan terumbu karang, aktivitas pemanfaatan kawasan, dan
+keterwakilan kondisi ekologis perairan. Perairan Wambitema yang memiliki luas kawasan
+sekitar 25,31 ha dipilih sebagai lokasi penelitian karena merupakan kawasan pesisir berbasis
+konservasi adat (Tiyatiki) yang memiliki potensi sumber daya ikan karang dan ekowisata
+bahari sehingga perlu dilakukan analisis kesesuaian kawasan dan daya dukung lingkungan
+untuk mendukung pengelolaan berkelanjutan.
+Gambar 1. Lokasi Penelitian
+Analisis data yang digunakan dalam penelitian ini adalah sebagai berikut:
+Kelimpahan Ikan Karang
+Pengambilan data ikan karang dilakukan menggunakan metode Underwater Visual
+Census (UVC) mengacu pada English et al. (1997). Pengamatan dilakukan oleh penyelam
+SCUBA pada tiga stasiun pengamatan terumbu karang. Setiap stasiun menggunakan transek
+garis sepanjang 50 m dengan lebar pengamatan 5 m (2,5 m di sisi kiri dan kanan transek),
+sehingga luas area pengamatan sebesar 250 m² per transek. Seluruh spesies ikan karang yang
+ditemukan di sepanjang transek dicatat dan diidentifikasi berdasarkan famili, genus, dan
+spesies. Pengamatan dilakukan pada kedalaman 3–10 meter dengan waktu pengamatan
+±30 menit pada setiap stasiun. Kelimpahan ikan karang dihitung berdasarkan jumlah individu
+yang ditemukan per satuan luas pengamatan menggunakan rumus:Perhitungan kelimpahan
+103
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+ikan karang yang berada di terumbu karang alami dan terumbu karang transplantasi dihitung
+dengan menggunakan rumus sebagai berikut:
+𝑿𝒊
+𝑿= (1)
+𝒏
+Keterangan:
+X = kelimpahan ikan karang (ind/m²)
+Xi = jumlah individu ikan karang yang ditemukan
+n = luas area pengamatan transek (m²)
+Analisis Kesesuaian dan Daya Dukung Lingkungan
+Analisis kesesuaian kawasan pada ekosistem terumbu karang dilakukan melalui
+pendekatan pengukuran parameter biofisik perairan dan kondisi ekosistem terumbu karang
+sebagai dasar penilaian kesesuaian pemanfaatan kawasan untuk mendukung pengelolaan
+perikanan dan ekowisata bahari berkelanjutan. Penilaian kesesuaian dilakukan
+menggunakan Indeks Kesesuaian Wisata (IKW) berdasarkan parameter kecerahan perairan,
+tutupan karang, jenis life form karang, kelimpahan ikan karang, kecepatan arus, kedalaman
+perairan, suhu perairan, dan lebar hamparan karang mengacu pada Yulianda (2019).
+IKW = ∑𝒏 (𝑩𝒊𝒙𝑺𝒊) (2)
+𝒊= 𝟏
+Keterangan:
+IKW = Indeks Kesesuaian Wisata
+Bi = bobot parameter ke-i
+Si = skor parameter ke-i
+n = jumlah parameter kesesuaian
+Parameter lingkungan yang diukur meliputi kecerahan perairan, tutupan karang
+hidup, jenis life form karang, kelimpahan ikan karang, kedalaman perairan, suhu, dan
+kecepatan arus. Kecerahan perairan diukur menggunakan Secchi disk, suhu perairan diukur
+menggunakan thermometer digital bawah air, kedalaman menggunakan dive
+computer/depth gauge, dan kecepatan arus diukur menggunakan current meter.
+Pengamatan tutupan karang dan life form karang dilakukan menggunakan metode Line
+Intercept Transect (LIT) sepanjang 50 m mengacu pada English et al., (1997).
+Tabel 1. Matriks Kesesuaian Kawasan Ekowisata Bahari untuk kategori Diving
+No Parameter Bobot Kategori Skor
+>75 3
+Tutupan komunitas >50-75 2
+1 0,375
+karang (%) 25-50 1
+<25 0
+>80 3
+Kecerahan 50-80 2
+2 0,150
+perairan (%) 20-<50 1
+<20 0
+6-15 3
+Kedalaman
+>15-20;3-<6 2
+3 terumbu karang 0,150
+>20-30 1
+(m)
+>30; <3 0
+4 Jenis life form 0,135 >12 3
+104
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+No Parameter Bobot Kategori Skor
+<7-12 2
+4-7 1
+<4 0
+>100 3
+50-100 2
+5 Jenis ikan karang 0,120
+20-<50 1
+<20 0
+0-15 3
+Kecepatan arus >15-30 2
+6 0,070
+(cm/detik) >30-50 1
+>50 0
+Tabel 2. Matriks Kesesuaian Kawasan Ekowisata Bahari untuk kategori Snorkeling
+No Parameter Bobot Kategori Skor
+>75 3
+Tutupan komunitas >50-75 2
+1 0,375
+karang (%) 25-50 1
+<25 0
+>12 3
+<7-12 2
+2 Jenis life form 0,145
+4-7 1
+<4 0
+>50 3
+30-50 2
+3 Jenis ikan karang 0,140
+10-<30 1
+<10 0
+100 3
+80-<100 2
+4 Kecerahan perairan (%) 0,100 20-<80 1
+<20 0
+1-3 3
+Kedalaman terumbu >3-6 2
+5 0,100
+karang (m) >6-10 1
+>10; <1 0
+0-15 3
+Kecepatan arus >15-30 2
+6 0,070
+(cm/detik) >30-50 1
+>50 0
+>500 3
+Lembar hamparan >100-500 2
+7 0,070
+datar karang (m) 20-100 1
+<20 0
+Untuk menentukan daya dukung lingkungan bagi pengelolaan wilayah perairan
+Wambitema Teluk Tanah Merah berbasis konservasi kategori Wisata Snorkeling, dan Diving
+menggunakan rumus ;
+(3)
+Keterangan :
+DDK = Daya dukung kawasan (lokasi)
+K = Potensi ekologis wisatawan per satuan unit area
+105
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Lp = Luas atau panjang kawasan/lokasi yang dapat dimanfaatkan
+Lt = Unit area untuk kategori tertentu
+Wt = Waktu yang disediakan lokasi bagi kegiatan wisata 1 ha
+Wp = Waktu yang dihabiskan wisatawan untuk kegiatan wisata tertentu
+Daya dukung kawasan (DDK) dihitung untuk mengetahui jumlah maksimum
+pengunjung yang dapat ditampung kawasan per hari tanpa menimbulkan tekanan ekologis
+berlebih. Sementara itu, daya dukung pemanfaatan (DDP) dihitung sebesar 10% dari nilai DDK
+sebagai batas pemanfaatan efektif yang direkomendasikan untuk mendukung prinsip
+konservasi dan pengelolaan berkelanjutan kawasan (Yulianda & Atmadiopera, 2020;
+Yulianda, 2019).
+HASIL DAN PEMBAHASAN
+Sumber Daya Ikan Karang Sekitar Ekosistem Terumbu Karang Perairan Wambitema
+Hasil penelitian mengenai komposisi taksa ikan karang di perairan Wambitema
+menunjukkan tingginya keanekaragaman spesies yang ditemukan di tiga stasiun
+pengamatan. Secara keseluruhan, tercatat sebanyak 415 spesies ikan karang yang termasuk
+dalam 36 famili. Jumlah ini menunjukkan bahwa perairan Wambitema memiliki kondisi
+ekosistem terumbu karang yang masih relatif baik dan mampu mendukung berbagai
+kelompok ikan karang dengan fungsi ekologis yang beragam. Jika dilihat dari total spesies per
+famili, enam famili utama yang mendominasi komunitas ikan karang di lokasi penelitian
+adalah Labridae (60 spesies), Pomacentridae (60 spesies), Acanthuridae (33 spesies),
+Lutjanidae (24 spesies), Serranidae (24 spesies), dan Chaetodontidae (23 spesies). Keenam
+famili ini merupakan kelompok ikan yang paling umum dijumpai di ekosistem terumbu karang
+tropis, terutama di kawasan Indo-Pasifik seperti Indonesia. Famili-famili tersebut termasuk
+dalam kelompok ikan indikator dan target penting dalam kajian ekologi terumbu karang,
+karena distribusi dan kelimpahannya sangat dipengaruhi oleh kondisi substrat, kompleksitas
+habitat, serta tekanan antropogenik (17). Keberadaan mereka dapat dijadikan tolok ukur
+untuk menilai kesehatan dan stabilitas suatu ekosistem terumbu.
+Jumlah Spesies Ikan Karang
+70
+60 60
+60
+50
+40
+33
+30 24 24 23
+20
+10
+0
+Gambar 2. Famili Ikan karang dengan jumlah spesies terbanyak
+106
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Secara keseluruhan, komposisi ikan karang di perairan Kampung Wambitema
+memperlihatkan struktur komunitas yang seimbang antara ikan target (misalnya Lutjanidae,
+Serranidae), ikan mayor (Pomacentridae, Labridae), dan ikan indikator (Chaetodontidae,
+Acanthuridae). Keseimbangan ini menandakan bahwa ekosistem karang di wilayah tersebut
+masih tergolong sehat dan produktif, meskipun beberapa famili seperti Diodontidae,
+Muraenidae, dan Ostraciidae hanya memiliki sedikit spesies, yang merupakan hal wajar
+mengingat kelompok tersebut memang memiliki distribusi yang lebih terbatas. Kondisi
+keanekaragaman yang tinggi ini juga sejalan dengan karakteristik umum wilayah timur
+Indonesia, khususnya Kawasan Wallacea dan Papua, yang dikenal sebagai pusat
+keanekaragaman hayati laut dunia (The Coral Triangle). Wilayah dengan lebih dari 400 spesies
+ikan karang dapat dikategorikan sebagai terumbu karang dengan keanekaragaman sangat
+tinggi (Indrawati et al., 2020).
+Tabel 3. Kekayaan taksa ikan karang terumbu karang perairan pesisir Perairan Wambitema
+Perairan
+Komposisi Taksa Ikan Stasiun Pengamatan
+Wambitema
+Karang
+1 2 3 Total
+Spesies 309 355 291 415
+Target 83 98 76 112
+Major 104 70 57 272
+Indikator 27 31 23 31
+Genus 123 129 119 142
+Famili 34 36 34 36
+Berdasarkan hasil pengamatan di tiga stasiun terumbu karang di Kampung
+Wambitema, tercatat 415 spesies ikan karang yang terbagi dalam 142 genus, dan 36 famili.
+Analisis taksa menunjukkan bahwa ikan mayor mendominasi jumlah spesies dibandingkan
+dengan ikan target dan indikator, yang sesuai dengan temuan peneliti terdahulu bahwa
+dominasi ikan mayor adalah hal umum di ekosistem terumbu karang tropis. Stasiun 1 memiliki
+jumlah spesies mayor tertinggi, yaitu 104 spesies, diikuti Stasiun 2 dengan 70 spesies, dan Stasiun
+3 dengan 57 spesies, menunjukkan bahwa Stasiun 1 memiliki ekosistem yang lebih mendukung
+kehidupan ikan mayor, terutama di daerah dengan tutupan karang hidup yang tinggi (Ferizal
+et al., 2023). Mencatat bahwa wilayah Papua dan Maluku memiliki beberapa hotspot
+keanekaragaman ikan karang, yang didorong oleh kondisi geografis, arus laut, dan
+heterogenitas terumbu.
+Ikan target, yang memiliki nilai ekonomi tinggi bagi masyarakat, tercatat 112 spesies
+total, dengan kelimpahan tertinggi di stasiun 2 (98 spesies), diikuti stasiun 1 (83 spesies) dan
+stasiun 3 (76 spesies). Famili yang mendominasi kelompok ini antara lain Serranidae
+(Cephalopholis, Epinephelus, Plectropomus), Lutjanidae (Lutjanus, Aprion, Aphareus),
+Lethrinidae (Lethrinus, Bodianus), Carangidae (Caranx, Alectis), dan Haemulidae
+(Plectorhinchus).
+Dalam hal indikator ekosistem, tercatat 31 spesies yang berperan sebagai penanda
+kesehatan terumbu karang, termasuk genus Chaetodon dan Heniochus (famili
+Chaetodontidae), serta Zanclus (famili Zanclidae). Kelimpahan spesies indikator relatif stabil di
+ketiga stasiun, menandakan kondisi karang yang mendukung kehidupan spesies sensitif.
+Keberadaan butterflyfish dari Chaetodontidae berkorelasi dengan ketersediaan karang
+hidup bercabang, sehingga penting sebagai parameter kesehatan ekosistem (Amrullah &
+Rahmat, 2024).
+Analisis genus dan famili menunjukkan dominasi beberapa kelompok seperti
+Pomacentridae (Chromis, Abudefduf, Pomacentrus) dan Labridae (Halichoeres, Cirrhilabrus,
+Coris), mencerminkan adaptasi spesifik terhadap kondisi lokal. Stasiun 2 memiliki jumlah genus
+terbanyak (129), sementara Stasiun 1 memiliki spesies mayor terbanyak (104), menandakan
+kualitas habitat yang bervariasi antar stasiun. Secara keseluruhan, komposisi taksa ikan karang
+di Kampung Wambitema menunjukkan hubungan erat antara struktur komunitas ikan,
+kelimpahan spesies target, dan kesehatan ekosistem terumbu karang, sehingga pemantauan
+berkala dan konservasi menjadi penting untuk menjaga keberlanjutan sumber daya
+perikanan dan biodiversitas di wilayah ini.
+107
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Kesesuaian Lahan Ekosistem Terumbu Karang di Perairan Wambitema Teluk Tanah Merah
+Kabupaten Jayapura
+Setiap kegiatan wisata maupun penangkapan ikan sekitar ekosistem terumbu karang
+mempunyai persyaratan sumber daya dan lingkungan yang sesuai. Masing-masing parameter
+dalam matriks kesesuaian ini memiliki skor dan bobot yang berbeda berdasarkan tingkat
+kepentingan terhadap pariwisata bahari (Haryanto et al., 2025).
+a. Nilai kesesuaian Wisata Snorkeling dan Diving
+Berdasarkan matriks kesesuaian, kesesuaian ekosistem terumbu karang sedikit diubah
+untuk mendukung kegiatan ini (Yulianda, 2019). Matriks kesesuaian yang dibuat ini terdiri dari
+kecerahan perairan, tutupan karang, jenis life form karang, kelimpahan ikan karang, suhu
+perairan, kedalaman air dan kecepatan arus, yang dapat dilihat pada Tabel 4 dan 5.
+Tabel 4. Penilaian kesesuaian sekitar kawasan Ekosistem Terumbu Karang
+untuk diving (selam).
+Kategori
+No Parameter Bobot
+Skor Bobot x Skor
+
+================================================================================
+
+=== DOCUMENT 10 ===
+Source: document (10).pdf
+Abstract:
+Recived : 20 April 2026
+Accepted : 27 Mei 2026
+Online : 30 Mei 2026 This study aims to examine the household economic dynamics and
+adaptation strategies employed by hand line fishers in response to seasonal
+ Article type changes affecting pelagic fish catches in Donggala Regency, Central
+Review Article Sulawesi. A total of 30 fishers operating from the Boneoge and Labuan Bajo
+Commin Serv. Articel
+landing sites were involved as respondents using a survey method with
+✓ Research Article
+descriptive quantitative and qualitative approaches. The quantitative
+approach was applied to analyze differences in household income between
+ Keyword :
+Adaptation strategies, Fisheries the fishing season and the lean season using a paired-sample t-test.
+Resource management, Fishing Meanwhile, the qualitative approach sought to explore in depth the various
+season, Handline fishermen, forms of socio-economic adaptation implemented by fishers due to seasonal
+Household economy changes in their fishing activities. Qualitative data were collected through in-
+depth interviews and field observations to understand household adaptation
+ Corresponding Author :
+mechanisms, social networking practices, and the utilization of local
+Ahsan Mardjudo
+institutions. The findings reveal that the average monthly household income
+Program Studi Agrobisnis, Fakultas
+Perikanan, Universitas Alkhairaat of fishers declined sharply from IDR 5,790,000 during the fishing season to IDR
+2,890,000 during the lean season, with a statistically significant difference (p
+Email: < 0.05). This income reduction prompted fishers to adopt various adaptive
+ahsan.mardjudo@gmail.com strategies, including livelihood diversification, household financial
+management, and the strengthening of social ties among fishers. Household
+economic resilience was further supported by social adaptation practices
+based on mutual cooperation (gotong royong) and the use of local
+institutions. These results underscore that strengthening adaptive fisheries
+policies and socio-economically based management of pelagic fish
+resources is essential to enhance the adaptive capacity and livelihood
+sustainability of coastal communities.
+Copyright © 2026, Ahsan Mardjudo, Hartina, Rusli, Sri Sudewi
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+PENDAHULUAN
+Sektor kelautan dan perikanan memegang peranan penting dalam perekonomian
+nasional Indonesia, khususnya melalui penyediaan lapangan kerja, jaminan pangan, serta
+peningkatan taraf hidup komunitas pesisir. Sekitar 60% lebih penduduk di wilayah pesisir
+menggantungkan hidupnya pada usaha penangkapan ikan, terutama yang berskala
+tradisional dan kecil (Mardyani et al., 2020). Kabupaten Donggala di Sulawesi Tengah
+termasuk salah satu daerah di Indonesia di mana perikanan tangkap skala kecil menjadi
+tulang punggung perekonomian masyarakat setempat. Sayangnya, kelangsungan hidup
+nelayan skala kecil sangat mudah terpengaruh oleh ketidakpastian musim tangkap,
+perubahan parameter oseanografi, serta naik-turunnya ketersediaan ikan pelagis. Akibatnya,
+stabilitas pendapatan rumah tangga nelayan menjadi terganggu, terutama bagi pengguna
+pancing ulur (hand line) yang masih mengandalkan peralatan sederhana, tenaga kerja
+keluarga, serta pengetahuan lokal dalam menentukan jadwal dan lokasi melaut (Lukum et
+al., 2023; Amanda et al., 2025). Dari sisi teknologi penangkapan, hand line merupakan alat
+tangkap sederhana, selektif, dan relatif ramah lingkungan, tetapi memiliki keterbatasan
+dalam jangkauan operasi, kapasitas tangkap, dan ketergantungan terhadap kondisi cuaca
+serta pengalaman nelayan. Keterbatasan teknologi ini menyebabkan nelayan pancing ulur
+lebih rentan terhadap perubahan musim dibandingkan nelayan dengan armada atau alat
+tangkap yang lebih besar (Choirunnisa et al., 2022; Kasri et al., 2024).
+Salah satu pusat perikanan tangkap yang terpenting di Kawasan Teluk Tomini berada di
+Kabupaten Donggala Provinsi Sulawesi Tengah. Kedua lokasi ini menjadi pusat aktivitas
+penangkapan, pendaratan hasil tangkapan, distribusi ikan, dan interaksi sosial-ekonomi
+nelayan. Perbedaan akses terhadap daerah penangkapan, kondisi musim, jaringan
+pemasaran, serta dukungan kelembagaan lokal menjadikan kedua lokasi tersebut relevan
+untuk memahami variasi strategi adaptasi nelayan dalam menghadapi ketidakpastian musim
+penangkapan ikan pelagis. Di wilayah tersebut banyak ditemukan ikan pelagis kecil dan
+besar seperti tuna, cakalang, dan tongkol yang memiliki potensi ekonomi untuk
+dikembangkan (Mardjudo & Yasin, 2017). Proses penangkapan ikan oleh sebagian besar
+nelayan di daerah ini masih menggunakan alat seperti pancing ulur atau tangkap tangan,
+yang ramah lingkungan dan cocok untuk perikanan skala kecil. Namun demikian, perubahan
+yang terjadi selama musim timur dan barat memengaruhi distribusi dan ketersediaan ikan,
+yang memengaruhi upaya penangkapan ikan pelagis di Kabupaten tersebut. Selama musim
+timur (Mei hingga Desember), suhu permukaan laut dan kondisi perairan relatif tenang
+mendukung penangkapan. (Prasita et al. (2021) melaporkan bahwa pada musim barat
+(Januari hingga April), ombak dan angin kencang membuat melaut menjadi sulit. Produksi
+tangkapan ikan dan pendapatan nelayan dipengaruhi langsung oleh perubahan kondisi
+oseanografi (Siswantoputri et al., 2024; Pratama et al., 2022).
+Nelayan harus menyesuaikan diri dengan fluktuasi pendapatan dalam konteks sosial-
+ekonomi. Menurut Wulandari et al. (2022), salah satu strategi penting yang digunakan
+masyarakat pesisir untuk mempertahankan penghidupan di tengah ketidakpastian ekonomi
+dan lingkungan adalah strategi adaptasi. Pengembangan bisnis sampingan di luar sektor
+perikanan, diversifikasi pekerjaan, dan pengelolaan keuangan keluarga adalah beberapa
+contoh strategi adaptasi nelayan. Banyak nelayan tangkap pancing tangan (hand line) di
+Donggala yang beralih menjadi petani, sopir ojek, atau buruh bangunan saat musim paceklik.
+Metode ini mendukung keberlanjutan rumah tangga nelayan melalui adaptasi sosial dan
+ekonomi (Liando et al., 2020).
+Sejumlah penelitian sebelumnya telah membahas kerentanan ekonomi nelayan kecil,
+perubahan musim penangkapan, dan strategi adaptasi rumah tangga pesisir. Namun, kajian
+yang secara spesifik menghubungkan dinamika musim penangkapan, perubahan
+pendapatan, karakteristik teknologi hand line, dan strategi adaptasi nelayan pancing ulur di
+Kabupaten Donggala masih terbatas. Selain itu, sebagian besar studi lebih banyak menyoroti
+nelayan secara umum tanpa membedakan karakteristik alat tangkap, lokasi pendaratan,
+serta pola adaptasi sosial-ekonomi yang berkembang pada komunitas nelayan hand line.
+Selain itu, pengelolaan sumber daya perikanan juga dipengaruhi oleh dinamika ekonomi
+116
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+rumah tangga nelayan. Intensitas penangkapan ikan pelagis cenderung meningkat selama
+musim tangkap yang melimpah. Kondisi ini dapat menyebabkan sumber daya ikan
+mengalami tekanan yang berlebihan (Shahzad, 2024). Akibatnya, kebijakan pengelolaan
+sumber daya ikan harus mempertimbangkan aspek sosial dan ekonomi masyarakat pesisir.
+Indriyani et al. (2025) mengungkapkan bahwa strategi pengelolaan berbasis ekosistem dan
+meningkatkan kemampuan masyarakat untuk beradaptasi dapat mengurangi kerentanan
+nelayan terhadap perubahan lingkungan dan sekaligus menjaga kelestarian stok ikan.
+Undang-Undang Nomor 7 Tahun 2016 tentang Perlindungan dan Pemberdayaan
+Nelayan telah ditetapkan oleh pemerintah untuk melindungi nelayan, namun implementasi
+di tingkat lokal masih menghadapi berbagai masalah terutama dalam penyediaan data
+sosial-ekonomi, kelembagaan lokal yang kuat, serta sistem informasi musim yang akurat (Azhar
+et al., 2023). Studi empiris seperti ini sangat penting untuk memberikan dasar bagi kebijakan
+berbasis bukti yang berkaitan dengan perubahan yang dilakukan nelayan terhadap musim
+penangkapan ikan pelagis.
+Kebijakan pengelolaan perikanan tangkap dapat diarahkan untuk meningkatkan
+produksi dan meningkatkan ketahanan sosial-ekonomi masyarakat pesisir dengan
+memahami dinamika pendapatan dan strategi adaptasi rumah tangga nelayan (Suhana et
+al., 2025). Metode ini sejalan dengan Tujuan Pembangunan Berkelanjutan (SDG 14) tentang
+kehidupan bawah laut (Life Below Water) dan SDG 1. Berdasarkan latar belakang tersebut,
+penelitian ini memiliki dua sasaran utama: (1) menganalisis perubahan kondisi ekonomi rumah
+tangga nelayan hand line pada periode musim penangkapan ikan pelagis, serta (2)
+mengidentifikasi beragam metode adaptasi yang dilakukan nelayan guna mempertahankan
+ketahanan ekonomi sekaligus menjaga kelestarian sumber daya perikanan di wilayah
+Kabupaten Donggala, Sulawesi Tengah.
+Pembagian musim penangkapan dalam penelitian ini tidak hanya didasarkan pada
+klasifikasi umum musim timur dan musim barat, tetapi juga mempertimbangkan kalender
+musim nelayan lokal, perubahan intensitas angin dan gelombang, serta pola produksi
+bulanan yang memengaruhi aktivitas penangkapan ikan pelagis. Oleh karena itu, penelitian
+ini penting dilakukan untuk menganalisis perubahan pendapatan rumah tangga nelayan dan
+strategi adaptasi yang dikembangkan nelayan pancing ulur dalam menghadapi
+ketidakpastian musim penangkapan di Kabupaten Donggala.
+MATERI DAN METODE
+Lokasi penelitian ini ditetapkan di dua tempat pendaratan ikan, yakni Kelurahan
+Boneoge dan Labuan Bajo, Kabupaten Donggala, Sulawesi Tengah. Waktu pelaksanaan
+disesuaikan dengan periode musim tangkap dan musim paceklik nelayan pancing ulur, yaitu
+Januari–April 2025 untuk musim penangkapan dan Mei–Agustus 2025 untuk musim paceklik.
+Pemilihan kedua lokasi tersebut dilakukan secara purposif dengan pertimbangan bahwa
+Boneoge dan Labuan Bajo merupakan pangkalan utama bagi aktivitas nelayan hand line
+yang menangkap ikan pelagis di pesisir Donggala. ... Populasi penelitian mencakup 300 orang
+nelayan pancing ulur yang aktif di kedua pangkalan tersebut. Sampel diambil sebesar 10%
+dari populasi, yaitu sebanyak 30 responden. Teknik purposive sampling diterapkan dengan
+kriteria: nelayan masih aktif menggunakan pancing ulur, sudah melaut minimal tiga tahun,
+beroperasi di Boneoge atau Labuan Bajo, dan bersedia menjadi narasumber mengenai
+aktivitas penangkapan dan pendapatan rumah tangga.
+Data primer dikumpulkan melalui survei, wawancara mendalam, dan observasi
+lapangan. Survei digunakan untuk memperoleh data pendapatan, biaya operasional, hasil
+tangkapan, dan jumlah trip penangkapan pada musim penangkapan dan musim paceklik.
+Wawancara mendalam digunakan untuk menggali strategi adaptasi nelayan, seperti
+diversifikasi pekerjaan, pengelolaan keuangan rumah tangga, pemanfaatan jaringan sosial,
+serta dukungan kelembagaan lokal. Observasi lapangan dilakukan untuk mengamati
+aktivitas pendaratan ikan, kondisi alat tangkap, interaksi antar-nelayan, dan aktivitas ekonomi
+di sekitar pangkalan pendaratan.
+Data kuantitatif dianalisis secara deskriptif dan inferensial. Analisis deskriptif digunakan
+untuk menghitung rata-rata pendapatan, biaya operasional, penerimaan, jumlah trip, dan
+perubahan pendapatan antar-musim. Data kuantitatif dianalisis secara deskriptif dan
+117
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+inferensial. Analisis deskriptif digunakan untuk menghitung rata-rata pendapatan, biaya
+operasional, penerimaan, jumlah trip, dan perubahan pendapatan antar-musim. Analisis data
+dilakukan secara kuantitatif menggunakan metode analisis deskriptif digunakan untuk
+mengetahui waktu penangkapan ikan oleh nelayan dalam 1 (satu) tahun berdasarkan musim
+penangkapan ikan dan analisis pendapatan rumahtangga nelayan dari kegiatan perikanan
+maupun non perikanan (Mardjudo,A dan Muhammad Y, 2017). Pendapatan rumah tangga
+nelayan dari kegiatan perikanan dihitung dengan rumus :
+𝑃𝐷𝑝 =𝑇𝑅−𝑇𝐶
+𝑇𝐶 =𝑉𝐶+𝐹𝐶
+𝑇𝑅 =𝐻𝑇−𝐻𝑖𝑘𝑛
+Keterangan:
+𝑃𝐷𝑝 = pendapatan perikanan (Rp);
+𝑇𝑅 = penerimaan perikanan (Rp);
+𝑇𝐶 = total biaya melaut (Rp);
+𝑉𝐶 = biaya variabel melaut (Rp);
+𝐹𝐶 = biaya tetap melaut (Rp);
+𝐻𝑇 = hasil tangkapan (kg);
+𝐻 = harga ikan (Rp).
+𝑖𝑘𝑛
+a). Pendapatan Rumahtangga dari Kegiatan Perikanan
+PDp = TR – TC
+TC = VC + FC
+TR = HT.HIkn
+Dimana :
+PDp = pendapatan perikanan (Rp)
+TR = penerimaan perikanan (Rp)
+TC = total biaya melaut (Rp)
+VC = biaya variable melaut(Rp)
+FC = biaya tetap melaut (Rp)
+HT = hasil tangkapan (Kg)
+HIkn = harga ikan (Rp)
+b). Pendapatan Rumahtangga Dari Luar Kegiatan Perikanan
+PDnp = (CTKsmnp . UTKsmnp) + (CTKisnp . UTKinp) + (CTanp . UTKanp)
+Dimana :
+PDnp = Pendapatan Non Perikanan (Rp)
+CTKsmnp = Curahan Tenaga Kerja Suami Non Perikanan (HOK)
+UTKsmnp = Upah Tenaga Kerja Suami Non Perikanan (Rp)
+CTKisnp = Curahan Tenaga Kerja Istri Non Perikanan (HOK)
+UTKinp = Upah Tenaga Kerja Istri Non Perikanan (Rp)
+CTanp = Curahan Tenaga Kerja Anak Non Perikanan (HOK)
+UTKanp = Upah Tenaga Kerja Anak Non Perikanan (Rp)
+c). Pendapatan Total Rumahtangga
+PDRT = PDp + PDnp
+Dimana :
+PDRT = Pendapatan Rumahtangga
+PDp = Pendapatan Perikanan
+PDnp = Pendapatan Nonperikanan
+118
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+HASIL DAN PEMBAHASAN
+Analisis Ekonomi Rumah Tangga Nelayan Hand Line
+
+================================================================================
+
+=== DOCUMENT 11 ===
+Source: document (11).pdf
+Abstract:
+Recived : 09 April 2026
+Accepted : 02 Mei 2026
+Online : 31 Mei 2026 This study aims to determine the species composition of gillnet catches, both
+with and without the use of a light fishing aid; to prove that the use of light
+ Article type fishing on gillnets increases the catch weight; and to determine the net
+Review Article position relative to the light source that produces the highest catch weight.
+Commin Serv. Articel
+The type of light fishing used in this study for gillnet fishing was an underwater
+✓ Research Article
+submersible lamp (LACUBA). This research employed the Experimental Fishing
+method, with four setting operation conducted, while hauling and sorting
+ Keyword :
+Desa Danar, Gillnet, Hasil were carried out after a soaking time of approximately ± 8 hours. The results
+tangkapan, Light fishing showed that the fish caught during gillnet operations were divided into two
+groups: the Main Catch (HTU) and Bycatch (HTS). The HTU group consisted of
+ Corresponding Author : 2 species of large pelagic fish with a total weight of 169,653 kg. The HTS group
+Erwin Tanjaya
+consisted of 5 species with a total weight of 59,466 kg. Statistical analysis
+Program Studi Teknologi
+proved that catches obtained using nets with lights (JDL) were heavier than
+Penangkapan Ikan Jurusan
+those obtained using nets without lights (JTL), meaning that the use of light
+Rekayasa Perikanan dan Kelautan
+Politeknik Perikanan Negeri Tual fishing on gillnets significantly increased the catch weight. Statistical testing
+also demonstrated a significant difference in catch results based on the net
+Email: position relative to the light source. Fish catches from JDL during the study
+erwin.tanjaya@polikant.ac.id were distributed across all net panels. The non-parametric Kruskal–Wallis test
+showed that the distance between the light and the net affected gillnet
+catches, with an asymp. sig value of 0.002 ≤ 0.05.
+Copyright © 2026, Erwin Tanjaya, Fatmawati Marasabessy, Nabila C. Marasabessy
+PENDAHULUAN
+Alat tangkap gillnet merupakan salah satu alat tangkap yang banyak digunakan dalam
+perikanan skala kecil karena memiliki tingkat selektivitas yang relatif baik serta dampak yang
+lebih rendah terhadap habitat perairan dibandingkan beberapa alat tangkap lainnya.
+Secara umum, gillnet dibuat dari bahan nilon multifilamen atau monofilamen yang memiliki
+sifat transparan dan fleksibel sehingga mampu beroperasi secara efektif di dalam kolom
+perairan tanpa menyebabkan kerusakan yang berarti terhadap organisme maupun
+lingkungan sekitarnya (Grimaldo et al., 2019; Rall et al., 2019). Mekanisme penangkapannya
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+dilakukan dengan menghadang lintasan renang ikan, baik pada siang maupun malam hari,
+sehingga ikan yang melintas akan terjerat atau terpuntal pada mata jaring (Sari et al., 2024).
+Oleh karena itu, keberhasilan operasi gillnet sangat ditentukan oleh tingkat pertemuan antara
+ikan dan alat tangkap yang dipasang di daerah penangkapan (Surahman & Kuswoyo, 2016).
+Karakteristik pengoperasian tersebut juga diterapkan oleh nelayan di Desa Danar, Kabupaten
+Maluku Tenggara.
+Meskipun gillnet telah lama digunakan oleh nelayan setempat, produktivitas
+penangkapannya masih menunjukkan fluktuasi yang cukup tingg
+
+================================================================================
+

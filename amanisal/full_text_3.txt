@@ -1,0 +1,583 @@
+Vol. 15 | No. 1: 17 - 32
+Mei, 2026
+Peer-Reviewed ☑
+https://doi.org/10.30598/amanisal.v15i1.25410
+Variabilitas Klorofil-A Dan Suhu Permukaan Laut Berbasis Citra Satelit Himawari-
+8 Secara Spasial Dan Temporal Di Wilayah Perairan Utara Jawa Tengah
+(Spatial and Temporal Variability of Chlorophyll-a and Sea Surface Temperature
+Based on Himawari-8 Satellite Imagery in the Northern Coastal Waters of Central Java)
+Sharina1, Kusnandar2, Heru K. Alamsyah2
+1 Program Studi Pemanfaatan Sumberdaya Perikanan, Fakultas Perikanan dan Ilmu
+Kelautan, Universitas Pancasakti Tegal, Kampus I Jl. Halmahera Km.1, Kota Tegal,
+Jawa Tengah, Indonesia
+2Jurusan Pemanfaatan Sumberdaya Perikanan, Fakultas Perikanan dan Ilmu
+Kelautan Universitas Pancasakti Tegal, Kampus I Jl. Halmahera Km.1, Kota Tegal,
+Jawa Tengah, Indonesia
+Email: sharinaa2103@gmail.com, kusnandar@upstegal.ac.id, herukurniawan@upstegal.ac.id.
+☑ Article Info : Abstract
+Recived : 14 April 2026
+Accepted : 10 Mei 2026
+Online : 24 Mei 2026 The waters off the northern coast of Central Java are part of Fisheries
+Management Area (FMA) 712, which is characterized by high levels of fishing
+ Article type activity and complex oceanographic dynamics. Variations in Sea Surface
+Review Article Temperature (SST) and chlorophyll-a play a crucial role in determining
+Commin Serv. Articel
+primary productivity and potential fishing grounds. This current study seeks to
+✓ Research Article
+investigate the spatial and temporal variability of SST and Chlorophyll-a,
+along with investigating the correlation between both parameters using
+ Keyword :
+Central Java Coastal Waters, Himawari-8 satellite imagery. The research method employed is quantitative
+Chlorophyll-a, Himawari-8, Sea descriptive, utilizing secondary satellite imagery data from the 2023–2025
+Surface Temperature period. Data analysis is conducted thru digital image processing, which
+includes the stages of pixel value extraction, data cleaning from cloud cover,
+ Corresponding Author :
+and the calculation of monthly average values to represent seasonal
+Sharina
+changes. The Spearman rho correlation statistical test is applied to determine
+Program Studi Pemanfaatan
+the strength and direction of the relationship between SPL and chlorophyll-a
+Sumberdaya Perikanan, Fakultas
+Perikanan dan Ilmu Kelautan, over time. The results indicate that SST and Chlorophyll-a at the study site
+Universitas Pancasakti Tegal fluctuate following seasonal patterns. Spatially, chlorophyll-a concentrations
+tend to be higher in coastal areas than in offshore areas. Correlation analysis
+Email: sharinaa2103@gmail.com indicates a strong negative conection between SST and chlorophyll-a, with a
+correlation coefficient of -0.713, suggesting that an increase in sea surface
+temperature is typically followed by a decrease in chlorophyll-a
+concentrations in the waters off northern Central Java.
+Copyright © 2026, Sharina, Kusnandar, Heru K. Alamsyah
+PENDAHULUAN
+Perairan pesisir merupakan wilayah yang sangat dinamis karena dipengaruhi oleh
+interaksi berbagai proses fisik, kimia, dan biologis. Salah satu indikator oseanografi yang
+memegang peranan krusial dalam mengontrol dinamika ekosistem laut adalah suhu
+permukaan laut (SPL). Variasi SPL memengaruhi stabilitas kolom air, proses pencampuran
+massa air, serta distribusi nutrien yang berperan langsung terhadap produktivitas primer
+perairan laut (Wirasatria et al, 2017). Satu dekade terakhir, perubahan SPL semakin intensif
+terjadi akibat pengaruh variabilitas iklim regional dan global. Peningkatan SPL cenderung
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+memperkuat stratifikasi kolom air sehingga menghambat pencampuran vertikal dan
+membatasi suplai nutrien dari lapisan bawah ke lapisan permukaan (Kunarso et al, 2019).
+Keadaan tersebut berdampak pada penurunan kesuburan perairan, terutama di wilayah
+perairan tropis dan pesisir.
+Konsentrasi klorofil-a dapat merepresentasikan produktivitas primer perairan laut, di
+mana merupakan pigmen fotosintetik utama yang terkandung dalam fitoplankton.
+Konsentrasi klorofil-a banyak digunakan sebagai indikator biomassa fitoplankton dan tingkat
+kesuburan perairan (Latifah et al, 2024). Variabilitas klorofil-a dipengaruhi oleh kondisi
+oseanografi, terutama suhu permukaan laut, ketersediaan nutrien, serta dinamika arus dan
+angin (Rifai et al, 2020 ).
+Hubungan antara SPL dan klorofil-a pada umumnya menunjukkan pola negatif di
+wilayah perairan tropis. Pada kondisi SPL yang tinggi, stabilitas kolom air meningkat sehingga
+distribusi nutrien ke lapisan eufotik menjadi terbatas dan pertumbuhan fitoplankton menurun.
+Sebaliknya, pada kondisi SPL yang lebih rendah, pencampuran massa air lebih intensif
+sehingga mendukung peningkatan konsentrasi klorofil-a (Wirasatria et al, 2017).
+Satu di antara bagian dari Wilayah Pengelolaan Perikanan (WPP) 712 yang memiliki
+aktivitas perikanan yang tinggi adalah perairan pantai Jawa Tengah. Wilayah ini dipengaruhi
+oleh sistem monsun, arus Laut Jawa, serta masukan nutrien dari daratan, sehingga
+menyebabkan terjadinya variasi spasial dan temporal parameter oseanografi (Ramadhan,
+2022). Kombinasi SIG telah digunakan untuk memetakan parameter lingkungan laut secara
+spasial-temporal. Penerapan Sistem Informasi Geografis (SIG) telah terbukti efektif dalam
+memetakan parameter laut, sebagaimana ditunjukkan oleh Alamsyah (Alamsyah, 2022)
+dalam penelitiannya di perairan Karang Jeruk, Kabupaten Tegal mengenai teknik pemetaan
+sebaran klorofil-a serta Sea Surface Temperature (SST) yang mengonfirmasi bahwa metode
+penginderaan jauh sangat layak dan aplikatif untuk wilayah pesisir Jawa.
+Sebagian besar penelitian terdahulu masih mengandalkan data satelit dengan resolusi
+temporal yang relatif rendah, sehingga kurang mampu menangkap dinamika musiman dan
+variabilitas jangka pendek secara detail, khususnya di wilayah pesisir yang sangat dinamis.
+Perkembangan teknologi satelit terbaru, seperti Himawari-8, memungkinkan pengamatan
+oseanografi dengan resolusi temporal tinggi yang lebih representatif untuk analisis variabilitas
+harian hingga musiman (Sambah et al, 2021).
+Kebaruan (novelty) penelitian ini terletak pada pemanfaatan data satelit Himawari-8
+beresolusi temporal tinggi untuk menganalisis variabilitas spasial serta temporal SPL sekaligus
+klorofil-a di perairan pantai Jawa Tengah. Berbeda dengan penelitian terdahulu di lokasi yang
+sama yang umumnya menggunakan satelit beresolusi temporal rendah (seperti MODIS atau
+Aqua) yang sering terkendala tutupan awan, penggunaan Himawari-8 dalam penelitian ini
+memberikan keunggulan dalam menangkap dinamika harian secara lebih presisi.
+Pendekatan ini memungkinkan pengamatan dinamika musiman yang lebih kontinu serta
+memberikan pemahaman yang lebih baik terhadap keterkaitan antara dinamika oseanografi
+dan produktivitas perairan pesisir. Hal ini menjadi posisi penting dalam menyediakan data
+yang lebih akurat dan relevan untuk manajemen sumber daya perikanan yang kontinu di
+daerah ini.
+Mengacu dari uraian latar belakang di atas, tujuan diselenggarakannya studi ini yaitu:
+(1) menganalisis variabilitas spasial dan temporal suhu permukaan laut serta klorofil-a di
+perairan pantai Jawa Tengah, serta (2) mengkaji hubungan antara suhu permukaan laut dan
+klorofil-a serta implikasinya terhadap pengelolaan perikanan dan penentuan daerah
+potensial penangkapan ikan. Harapannya temuan ini dapat memberi sumbangsih ilmiah
+guna menambah pemahaman mengenai dinamika produktivitas perairan pesisir serta
+menjadi dasar dalam mengelola sumber daya perikanan serta lingkungan laut yang
+berkesinambungan.
+MATERI DAN METODE
+Penelitian ini memanfaatkan data sekunder yang diselenggarakan dengan
+pendekatan deskriptif kuantitatif. Lokasi kajian penelitian berada di perairan Pantai Utara
+Jawa Tengah yang berada pada koordinat 6° 54' LS – 6° 36' LS serta 108° 58' BT – 109° 34' BT,
+18
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+mencakup wilayah perairan Kabupaten Brebes hingga Kabupaten Batang. Adapun pada
+Gambar 1 berikut tersaji penampakan dari lokasi penelitiannya.
+Gambar 1. Peta lokasi penelitian di Pantai Utara Jawa Tengah
+Pendekatan deskriptif kuantitatif digunakan untuk menggambarkan pola sebaran
+parameter oseanografi serta menganalisis hubungan antar variabel secara statistic (Sugiyono,
+2017). Studi ini memanfaatkan data citra satelit Himawari-8 periode tahun 2023–2025 yang
+meliputi parameter konsentrasi klorofil-a serta suhu permukaan laut (SPL). Data didapat dari
+Platform JAXA Himawari Monitor (P-Tree System) yang dikelola oleh Japan Aerospace
+Exploration Agency (JAXA). Produk data yang digunakan adalah Himawari-8 Standard
+Product Level 3 (L3) yang sudah dikoreksi secara radiometrik serta geometrik. Parameter SPL
+dan klorofil-a dalam penelitian ini merupakan produk siap pakai (ready-to-use) yang telah
+divalidasi oleh JAXA menggunakan algoritma standar laut tropis. Penggunaan data Level 3
+ini memastikan akurasi yang lebih tinggi karena proses pra-pengolahan atmosferik telah
+dilakukan oleh penyedia data. Data Himawari-8 dipilih karena memiliki resolusi temporal tinggi
+(10 menit) dan resolusi spasial hingga 2 km, sehingga memungkinkan pemantauan dinamika
+laut secara real-time di kawasan tropis serta menggambarkan dinamika oseanografi secara
+lebih detail dan kontinu. Data tersebut selanjutnya dapat dikompositkan untuk meminimalkan
+gap akibat tutupan awan (He et al, 2024). Satu di antara satelit geostasioner yang mempunyai
+kemampuan pengamatan dengan resolusi temporal tinggi sehingga efektif digunakan dalam
+pemantauan kondisi oseanografi secara kontinu adalah satelit Himawari-8 (Sambah et al,
+2021). Data tersebut digunakan untuk mengidentifikasi pola distribusi spasial serta temporal
+SPL serta klorofil-a di wilayah ini.
+Alur analisis yang diterapkan pada studi ini meliputi tahapan penginputan, pemrosesan,
+serta output. Parameter suhu permukaan laut (SPL) serta klorofil-a dari data citra satelit
+Himawari-8 dipakai dalam tahap penginputan. Tahap pemrosesan meliputi pengambilan
+data dan pengolahan (geoprocessing) citra satelit menggunakan perangkat lunak ArcGIS
+Pro, yang mencakup tahapan pra-pengolahan data, pengolahan raster, serta penyusunan
+peta tematik. Selanjutnya, pada tahap output dihasilkan data sebaran spasial dan temporal
+SPL serta klorofil-a yang dianalisis secara spasial, temporal, dan statistik melalui uji korelasi
+antara SPL dan klorofil-a.
+19
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Gambar 2. Diagram Alur penelitian analisis suhu permukaan laut dan klorofil-a
+berbasis citra satelit Himawari-8
+Data Himawari-8 yang digunakan telah melalui proses kalibrasi standar dan telah
+banyak dimanfaatkan dalam kajian oseanografi regional, sehingga dianggap representatif
+untuk analisis skala wilayah pesisir. Analisis hubungan antara suhu permukaan laut serta klorofil-
+a diselenggrakan dengan berbantuan program, SPSS melalui pengujian korelasi Spearman
+guna mengidentifikasi kekuatan dan arah hubungan antar dua variabel kuantitatif yang tidak
+sepenuhnya berdistribusi normal (Ghozali, 2018). Hasil analisis diharapkan mampu
+memberikan gambaran keterkaitan antara SPL dan klorofil-a serta implikasinya terhadap
+kondisi produktivitas perairan di wilayah Pantai Utara Jawa Tengah.
+HASIL DAN PEMBAHASAN
+Variabilitas Spasial Klorofil-a
+Variabilitas spasial klorofil-a dianalisis untuk mengetahui pola distribusi produktivitas
+primer di perairan pantai Jawa Tengah serta keterkaitannya dengan karakteristik lingkungan
+perairan. Melalui pengolahan citra satelit Himawari-8 periode 2023–2025, pemetaan ini
+dilakukan untuk mengidentifikasi area-area dengan konsentrasi pigmen fitoplankton yang
+signifikan guna memahami dinamika ekosistem laut di Wilayah Pengelolaan Perikanan (WPP)
+712. Berikut Gambar 3 yang menyajikan sebaran spasial klorofil-a di perairan pantai Jawa
+Tengah.
+.
+20
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+21
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Gambar 3. Sebaran spasial klorofil-a di perairan pantai Jawa Tengah
+Variabilitas spasial klorofil-a dianalisis guna memperoleh informasi terkait pola distribusi
+produktivitas primer di perairan pantai Jawa Tengah serta keterkaitannya dengan karakteristik
+lingkungan perairan. Berdasarkan hasil pengolahan citra satelit Himawari-8 periode 2023–
+2025, secara umum konsentrasi klorofil-a menunjukkan nilai yang relatif lebih kecil di perairan
+lepas pantai dibanding daerah pesisir, dengan nilai konsentrasi tertinggi hingga 13,104 mg/m³.
+Nilai maksimal tersebut secara spasial konsisten ditemukan di wilayah pesisir pantai Jawa
+Tengah yang direpresentasikan oleh gradasi warna hijau paling gelap pada peta sebaran.
+Secara kuantitatif, di wilayah pesisir konsentrasi klorofil-a didominasi oleh rentang 6,375 – 13,104
+mg/m³, sedangkan pada perairan lepas pantai nilai konsentrasi jauh lebih rendah dengan
+rentang minimum mencapai 0,341 mg/m³. Pola ini mengindikasikan bahwa perairan pesisir
+pantai Jawa Tengah memiliki tingkat kesuburan yang relatif tinggi, yang didukung oleh
+melimpahnya ketersediaan nutrien dari aliran sungai dan limpasan permukaan serta intensitas
+pencampuran perairan yang mendorong aktivitas biologis secara intensif (Nuzapril et al,
+2017).
+Masukan nutrien dari darat lewat aliran sungai serta limpasan permukaan berkaitan erat
+dengan konsentrasi klorofil-a yang tinggi pada daerah pesisir. Wilayah pantai Jawa Tengah
+memiliki banyak muara sungai yang membawa nutrien hasil aktivitas daratan, seperti
+pertanian dan permukiman. Masuknya air sungai secara intens, terutama saat peningkatan
+curah hujan, berkontribusi terhadap tingginya konsentrasi klorofil-a melalui suplai nutrien
+penting seperti nitrat dan fosfat yang merupakan faktor pembatas utama pertumbuhan
+fitoplankton. Sebaliknya, pada periode ketika curah hujan menurun, debit aliran sungai yang
+mengecil menyebabkan masukan air tawar dan nutrien ke perairan pesisir berkurang. Kondisi
+tersebut memicu peningkatan klorofil-a yang lebih rendah dibandingkan periode hujan tinggi,
+yang mencerminkan penurunan tingkat produktivitas primer di perairan pesisir (Song et al,
+2021).
+22
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Perairan lepas umumnya menunjukkan konsentrasi klorofil-a yang relatif lebih rendah
+akibat terbatasnya masukan nutrien serta tingginya stabilitas kolom air. Kondisi ini
+menyebabkan terbentuknya stratifikasi kolom air yang kuat, sehingga proses pencampuran
+vertikal terhambat dan suplai nutrien ke lapisan permukaan menjadi terbatas. Akibatnya,
+ketersediaan nutrien bagi fitoplankton menurun dan berdampak pada rendahnya
+produktivitas primer. Sebaliknya, ketika terjadi peningkatan masukan nutrien ke lapisan
+permukaan, pertumbuhan fitoplankton dapat berlangsung dengan cepat dan
+menyebabkan peningkatan konsentrasi klorofil-a. Kondisi tersebut berpotensi mengubah
+struktur ekosistem perairan serta menurunkan kualitas air apabila terjadi secara berlebihan.
+Oleh karena itu, klorofil-a sering digunakan sebagai parameter biofisik untuk menilai tingkat
+eutrofikasi dan kesehatan lingkungan perairan (Ikhsan et al, 2019).
+Tingkat kesuburan ekosistem laut berbanding lurus dengan konsentrasi klorofil-a, di
+mana nilai klorofil-a yang tinggi menunjukkan kelimpahan fitoplankton yang berperan
+sebagai produsen primer dalam rantai makanan laut. Secara keseluruhan, variabilitas spasial
+klorofil-a di perairan pantai Jawa Tengah mencerminkan pengaruh kuat interaksi darat–laut
+serta dinamika fisik perairan pesisir, seperti suplai nutrien dan proses pencampuran massa air.
+Pola sebaran ini menegaskan bahwa wilayah pesisir memiliki peran penting sebagai zona
+dengan tingkat produktivitas yang relatif tinggi, sehingga menjadi dasar yang kuat dalam
+penentuan daerah potensial perikanan di wilayah penelitian (Santoso et al, 2021).
+Variabilitas Spasial Suhu Permukaan Laut
+Analisis variabilitas spasial SPL dilakukan untuk mengidentifikasi pola distribusi panas
+permukaan laut di perairan pantai Jawa Tengah. Berdasarkan hasil pengolahan citra satelit
+Himawari-8 periode 2023–2025, pemetaan ini bertujuan untuk memahami dinamika termal
+yang memengaruhi kondisi oseanografi dan potensi produktivitas hayati di wilayah tersebut.
+Pendistribusian SPL pada wilayah penelitian ditunjukkan pada Gambar 4.
+23
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Gambar 4. Sebaran spasial Suhu Permukaan Laut di perairan pantai Jawa Tengah
+24
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Variabilitas spasial SPL di perairan pantai Jawa Tengah menunjukkan pola distribusi yang
+relatif lebih besar di daerah pesisir dibanding perairan lepas. Berdasarkan hasil pengolahan
+citra satelit Himawari-8 periode 2023–2025, SPL di zona pesisir umumnya lebih tinggi dengan
+nilai maksimal mencapai 30,45°C, yang ditandai dengan dominasi warna merah pada peta
+sebaran. Sebaliknya, nilai yang lebih rendah cenderung ditemukan di perairan yang lebih
+jauh dari garis pantai dengan nilai minimum berada pada rentang 27,52 – 28,715°C yang
+direpresentasikan oleh warna kuning. Secara kuantitatif, suhu di wilayah pesisir terpantau
+berada pada kisaran 29,44°C hingga 30,45°C, mencerminkan karakteristik termal khas
+perairan pesisir dangkal di wilayah tropis yang lebih cepat menyerap panas dibandingkan
+perairan dalam di lepas Pantai (Kunarso et al, 2019).
+Tingginya SPL di wilayah pesisir berkaitan erat dengan kedalaman perairan yang relatif
+dangkal. Perairan dangkal memungkinkan radiasi matahari memanaskan seluruh kolom air
+secara lebih efisien, sehingga suhu permukaan laut cepat meningkat. Rendahnya volume air
+menyebabkan kapasitas panas relatif kecil, sehingga fluktuasi suhu di wilayah pesisir
+cenderung lebih besar dibandingkan perairan lepas (Ramadani et al, 2022), (Suryaningtias et
+al, 2025)
+Faktor kedalaman, pengaruh daratan juga berperan penting dalam meningkatkan SPL
+di wilayah pesisir pantai Jawa Tengah. Masukan air tawar dari sungai yang bermuara di pesisir
+umumnya memiliki suhu yang relatif lebih hangat, terutama pada musim kemarau dan
+peralihan. Aktivitas antropogenik di wilayah pesisir, seperti permukiman dan kawasan industri,
+turut berkontribusi terhadap peningkatan suhu perairan pesisir melalui limpasan panas dari
+daratan (Ramadani et al, 2022).
+Perairan lepas menunjukkan nilai SPL yang relatif lebih rendah dan stabil. Kondisi ini
+disebabkan oleh kedalaman perairan yang lebih besar serta intensitas pencampuran vertikal
+yang lebih kuat akibat pengaruh angin dan arus laut. Proses pencampuran ini membantu
+mendistribusikan panas ke lapisan yang lebih dalam sehingga mencegah akumulasi panas
+berlebih di permukaan laut (Suryaningtias et al, 2025). Pola variabilitas spasial SPL di perairan
+pantai Jawa Tengah menunjukkan bahwa wilayah pesisir cenderung memiliki suhu
+permukaan laut yang lebih besar dibanding perairan lepas. Keadaan tersebut berimplikasi
+terhadap stabilitas kolom air dan secara tidak langsung memengaruhi distribusi nutrien serta
+dinamika produktivitas primer di wilayah penelitian.
+Variabilitas Temporal Suhu Permukaan Laut (SPL) dan Klorofil-a
+Variabilitas temporal SPL serta klorofil-a dianalisis untuk mengetahui perubahan bulanan
+serta keterkaitannya dengan dinamika musiman di perairan pantai Jawa Tengah. Rata-rata
+bulanan menunjukkan bahwa SPL kerap meningkat di musim peralihan serta musim timur,
+sementara konsentrasi klorofil-a di musim timur menunjukkan nilai yang relatif lebih tinggi,
+dengan puncak tertinggi pada bulan September 2024 mencapai 2,98 mg/m³. Fenomena ini
+berlawanan dengan musim barat, di mana konsentrasi klorofil-a cenderung mengalami
+penurunan signifikan, seperti yang terlihat pada bulan Mei 2024 dengan nilai terendah sebesar
+0,28 mg/m³. Pola variabilitas temporal suhu permukaan laut dan klorofil-a secara visual
+ditunjukkan pada Gambar 5.
+25
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Variabilitas Temporal Suhu Permukaan Laut
+dan Klorofil-a
+30,50 3,5
+30,12
+30,12 30,12 30,20
+30,00 30,00
+2,98 3
+2,88
+29,71
+29,50 29,6129,61 29,61 29,61 29,50 2,68 29,50 2,75 29,51
+29,30 2,52 29,30 29,30 29 2 ,4 9 0 ,3429 2 ,3 9 5 ,41 29,41 2,4 2,5 )
+29,10 29,11 ³ m
+29,00 28,93 28,93 29,00 2,15 28,93 /
+) 2,05 2,02 28,80 2 g
+C 1,88 1,9 m
+(
+L
+° 28,50 28,50 1,7
+2
+5
+8,40
+(
+A
+P S 28,00 1,3 282,182,12 1,48 1,3828 2 ,1 8 2 ,00 1,58 1,25 28,30 28,20 1,35 1,5 lif o ro -
+1,15 1,08 1,15 1,1 lK
+0,98 1
+27,50 0,82 0,88 0,92 0,85
+0,76 0,72
+0,62
+0,52 0,5
+27,00 0,44
+0,32 0,3 0 6 ,28 0,38
+26,50 0
+Bulan/Tahun
+Rata-Rata SST/SPL (°C) Klorofil-A (mg/m3)
+Gambar 5. Variabilitas Temporal SPL serta Klorofil-a
+Penelitian pada Laut Jawa serta perairan pesisir di sekitarnya melaporkan adanya
+hubungan inverse atau musiman antara SPL dengan konsentrasi klorofil-a di masa upwelling
+atau fase dingin lokal, muncul peningkatan klorofil-a akibat pasokan nutrien ke permukaan
+sebaliknya, selama periode suhu permukaan tinggi, konsentrasi klorofil-a cenderung menurun
+kecuali jika ada faktor lain seperti pasokan nutrien darat. Hubungan ini penting untuk
+memahami hotspot perikanan karena produktivitas primer mempengaruhi makanan yang
+tersedia untuk ikan pelagis (Ramadhan, 2022).
+Fluktuasi bulanan yang mengikuti pola musiman tahunan ditunjukkan oleh variabilitas
+temporal SPL serta konsentrasi klorofil-a di perairan pantai Jawa Tengah. Mengacu dari hasil
+olah data citra satelit bulan Januari hingga Desember, perubahan SPL dan klorofil-a
+memperlihatkan kecenderungan yang teratur dan tidak bersifat acak. Pola ini mencerminkan
+respons perairan terhadap perubahan kondisi lingkungan musiman yang terjadi secara alami
+di wilayah perairan Indonesia. Dinamika tersebut umumnya dipengaruhi oleh sistem angin
+monsun yang mengatur sirkulasi massa air serta proses pencampuran nutrien di lapisan
+permukaan. Selain faktor oseanografi tersebut, debit sungai juga berperan penting dalam
+meningkatkan masukan nutrien ke perairan pesisir, yang selanjutnya berpengaruh terhadap
+peningkatan biomassa fitoplankton dan konsentrasi klorofil-a (Masotti et al, 2018).
+Keberadaan Indonesia pada garis khatulistiwa yang termasuk lintasan pergerakan
+semua matahari menyebabkan terjadinya sirkulasi udara di daerah ini karena tekanan udara
+(Dida et al, 2016). Posisi geografis tersebut juga mengakibatkan Indonesia memiliki dua musim
+dengan karakteristik suhu yang cenderung hangat sepanjang tahun. Bukan hanya itu, pola
+curah hujan mengalami pergantian dalam dua periode utama, yakni April sampai September
+yang dikenal sebagai monsun timur serta Oktober sampai Maret yang disebut monsun barat
+(Haryanto et al, 2021).
+26
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Musim barat yang terjadi selama bulan Desember sampai Februari umumnya ditandai
+oleh meningkatnya curah hujan. Pada periode ini, konsentrasi klorofil-a cenderung lebih besar
+dibanding saat di bulan yang lain. Peningkatan tersebut berkaitan dengan bertambahnya
+nutrien yang masuk dari darat lewat aliran sungai ke wilayah pesisir, yang mendukung
+pertumbuhan fitoplankton. Sementara itu, SPL pada musim barat cenderung lebih rendah
+atau berfluktuasi akibat berkurangnya intensitas radiasi matahari yang mencapai permukaan
+laut (Wirasatriya et al, 2021).
+Memasuki musim peralihan I (Maret–Mei), SPL menunjukkan kecenderungan meningkat
+secara bertahap seiring meningkatnya intensitas penyinaran matahari. Pada fase ini,
+konsentrasi klorofil-a mulai mengalami penurunan karena masukan nutrien dari daratan
+berkurang dibandingkan musim barat. Kondisi tersebut menyebabkan produktivitas primer di
+perairan pesisir mulai menurun meskipun suhu permukaan laut meningkat (Octavianna et al,
+2025).
+Musim timur yang berlangsung dari bulan Juni hingga Agustus menunjukkan karakteristik
+SPL yang relatif lebih tinggi dibandingkan musim lainnya. Tingginya SPL pada periode ini
+berkaitan dengan kondisi cuaca yang lebih kering dan intensitas radiasi matahari yang
+maksimum. Namun, konsentrasi klorofil-a cenderung lebih rendah karena keterbatasan
+pasokan nutrien di lapisan permukaan laut, sehingga peningkatan suhu tidak diikuti oleh
+peningkatan produktivitas (Kunarso et al, 2019), (Ramadani et al, 2022)
+Musim peralihan II (September–November), SPL mulai menunjukkan penurunan secara
+bertahap, sementara konsentrasi klorofil-a kembali mengalami peningkatan. Kondisi ini
+menunjukkan mulai pulihnya keters ediaan nutrien di perairan pesisir. Secara keseluruhan,
+variasi temporal SPL dan klorofil-a di perairan pantai Jawa Tengah memperlihatkan
+keterkaitan erat dengan siklus musim tahunan, di mana perubahan SPL memengaruhi
+dinamika produktivitas primer perairan (Budiman et al, 2021).
+Hasil Uji Korelasi
+Keterkaitan antara SPL serta klorofil-a dianalisis untuk mengetahui keterkaitan antara
+dinamika fisik perairan dan respon biologis fitoplankton di perairan pantai Jawa Tengah. Hasil
+pengujian korelasi memperlihatkan terdapatnya hubungan negatif yang bermakna, yang
+mengindikasikan bahwa SPL yang meningkat cenderung diikuti oleh berkurangnya
+konsentrasi klorofil-a. Hasil uji korelasi antara SPL dengan klorofil-a disajikan dalam Tabel 1.
+Tabel 1. Analisis korelasi menggunakan IBM SPSS Statistics.
+Correlations
+Klorofil-a
+SPL (°C)
+(mg/m³)
+Spearman's rho SPL (°C) Correlation 1.000 -.713**
+Coefficient
+Sig. (2-tailed) . .000
+N 36 36
+Klorofil-a Correlation -.713** 1.000
+(mg/m³) Coefficient
+Sig. (2-tailed) .000 .
+N 36 36
+**. Correlation is significant at the 0.01 level (2-tailed).
+Pengujian korelasi Spearman’s rho diselenggarakan guna mengidentifikasi hubungan
+antara SPL dengan konsentrasi klorofil-a. Dasar perhitungan dalam analisis ini menggunakan
+jumlah sampel N = 36. Angka tersebut merepresentasikan total pasangan data rata-rata
+bulanan yang dikumpulkan selama periode pengamatan tiga tahun, yakni mulai dari Januari
+27
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+2023 hingga Desember 2025. Hasil uji korelasi Spearman antara SPL dengan konsentrasi klorofil-
+a menunjukkan perolehan angka −0,713 sebagai nilai koefisien korelasi dengan tingkat sig. p
+< 0,001 pada jumlah data N = 36. Nilai signifikansi tersebut menunjukkan bahwasanya
+hubungan antar dua buah variabel mempunyai sifat yang sangat signifikan dengan derajat
+kepercayaan 99%. Perolehan tersebut mengindikasikan bahwasanya variasi SPL memiliki
+keterkaitan yang nyata dengan perubahan konsentrasi klorofil-a di perairan pantai Jawa
+Tengah, sebagaimana juga ditemukan dalam berbagai studi oseanografi pesisir berbasis
+data satelit (Wisetya et al, 2020).
+Nilai koefisien korelasi sebesar −0,713 termasuk dalam kategori hubungan negatif yang
+kuat, yang berarti peningkatan SPL diikuti oleh penurunan konsentrasi klorofil-a, dan
+sebaliknya. Hubungan negatif semacam ini umum dijumpai di perairan tropis dan subtropis, di
+mana suhu permukaan laut yang tinggi sering kali berkaitan dengan kondisi perairan yang
+kurang produktif secara biologis. Kuatnya nilai koefisien menunjukkan bahwa SPL merupakan
+faktor fisik yang berpengaruh signifikan terhadap dinamika klorofil-a di wilayah penelitian.
+Penggunaan korelasi Spearman dalam penelitian ini dianggap tepat mengingat data
+SPL dan klorofil-a tidak sepenuhnya berdistribusi normal. Metode Spearman tidak
+mensyaratkan distribusi normal dan mampu menangkap hubungan monoton antarvariabel
+lingkungan yang bersifat fluktuatif. Oleh karena itu, hasil korelasi yang diperoleh
+mencerminkan hubungan yang stabil dan reliabel antara SPL dan klorofil-a, sebagaimana
+direkomendasikan dalam analisis data oseanografi berbasis time series dan citra satelit
+(Primohadi et al, 2021).
+Hubungan negatif antara SPL dan klorofil-a Secara oseanografis dapat dijelaskan
+melalui mekanisme stratifikasi kolom air. Peningkatan SPL memperkuat stratifikasi termal yang
+menghambat pencampuran vertikal, sehingga suplai nutrien dari lapisan bawah menuju
+lapisan permukaan menjadi terbatas. Keadaan demikian menyebabkan penurunan
+pertumbuhan fitoplankton yang tercermin dari rendahnya konsentrasi klorofil-a (Azhari et al,
+2021).
+Hubungan ini juga konsisten dengan pola temporal musiman yang diamati, di mana
+klorofil-a cenderung meningkat pada periode SPL yang lebih rendah dan menurun pada
+periode SPL tinggi. Pola tersebut telah banyak dilaporkan pada perairan pesisir Indonesia,
+khususnya di wilayah dengan dominasi perairan dangkal dan masukan daratan yang
+signifikan, seperti pantai utara Jawa (Nababan et al, 2022).
+Hubungan negatif kuat dan signifikan yang terjalin antara SPL dengan klorofil-a yang
+diperlihatkan dari hasil korelasi Spearman dinilai secara langsung telah menjawab tujuan
+penelitian ini. Hasil tersebut menekankan bahwasanya SPL mempunyai peranan krusial dalam
+mengontrol dinamika produktivitas primer di perairan pantai Jawa Tengah. Temuan ini selaras
+dengan studi-studi terdahulu dan memperkuat pemahaman mengenai keterkaitan antara
+proses fisik dan biologis di ekosistem laut pesisir (Zhang et al, 2023).
+Implikasi Variabilitas Suhu Permukaan Laut dan Klorofil-a terhadap Pengelolaan Perikanan
+Pesisir
+Variabilitas suhu permukaan laut (SPL) serta klorofil-a menjadi faktor oseanografi yang
+berperan krusial sebagai penentu tingkat produktivitas perairan dan distribusi sumber daya
+ikan, khususnya di wilayah pesisir. Perameter biomassa fitoplankton yang mencerminkan
+tingkat kesuburan perairan dan ketersediaan pakan pada tingkat trofik dasar adalah klorofil-
+a. Parameter tersebut berpengaruh terhadap keberadaan dan kelimpahan sumber daya
+(Wirasatriya et al, 2017). Informasi spasial klorofil-a dapat menjadi indikator awal dalam
+menentukan wilayah penangkapan ikan yang potensial.
+Temuan memperlihatkan terdapatnya hubungan negatif antara SPL dan klorofil-a, yang
+mengindikasikan bahwa peningkatan SPL cenderung diikuti oleh penurunan konsentrasi
+klorofil-a. Pemanfaatan data SPL serta klorofil-a berbasis citra satelit memungkinkan identifikasi
+daerah potensial penangkapan ikan (fishing ground) secara spasial dan temporal. Beberapa
+penelitian menunjukkan bahwa wilayah yang mengandung tinggi konsentrasi klorofil-a dan
+mempunyai kondisi SPL yang cenderung sesuai terbukti dapat meningkatkan potensi hasil
+tangkapan ikan, khususnya ikan pelagis (Sambah et al, 2021).
+28
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Pemetaan spasial SPL dan klorofil-a melalui teknologi penginderaan jauh memberikan
+informasi krusial mengenai dinamika oseanografi di perairan Pantai Utara Jawa Tengah. Hasil
+penelitian ini menunjukkan bahwa pemantauan berbasis satelit dapat digunakan untuk
+memetakan distribusi produktivitas primer secara berkelanjutan, yang menjadi instrumen
+pendukung penting dalam mengidentifikasi kondisi lingkungan perairan. Informasi ini
+berpotensi menjadi dasar dalam penyusunan strategi pengelolaan wilayah perairan yang
+lebih adaptif dan berbasis informasi oseanografi guna memitigasi dampak perubahan
+lingkungan laut terhadap produktivitas perikanan.
+KESIMPULAN
+Penelitian ini menyimpulkan bahwa variabilitas Suhu Permukaan Laut (SPL) serta
+konsentrasi klorofil-a di perairan Utara Jawa Tengah menunjukkan pola fluktuasi musiman yang
+signifikan, di mana konsentrasi klorofil-a mencapai titik tertinggi saat Musim Timur dikarenakan
+pengaruh massa air yang lebih dingin dan berlimpah nutrisi. Secara spasial, klorofil-a
+menunjukkan gradien konsentrasi yang lebih tinggi di daerah pesisir dibandingkan lepas
+pantai, akibat masukan nutrien dari darat. Hasil dari penganalisisan korelasi Spearman
+menunjukkan bahwasanya antara kedua parameter tersebut terdapat hubungan negatif
+yang kuat (r = -0,713), yang mengindikasikan penurunan suhu permukaan laut secara
+konsisten diikuti oleh peningkatan produktivitas primer. Dinamika ini memberikan implikasi
+praktis yang penting bagi sektor perikanan di wilayah Tegal dan sekitarnya, terutama dalam
+meneta[kan wilayah penangkapan ikan yang lebih efektif dan berkelanjutan berdasarkan
+indikator oseanografi satelit.
+UCAPAN TERIMA KASIH
+Ucapan terima kasih disampaiakn pada Bapak Ir. Kusnandar, M.Si. dan Bapak Heru
+Kurniawan Alamsyah, S.Kel., M.Han. yang telah membimbing serta mengarahkan penulis dari
+awal hingga akhir penelitian, serta kepada Kantor Cabang Dinas Kelautan Wilayah Barat atas
+dukungan dan fasilitas data yang diberikan.
+29
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+DAFTAR PUSTAKA
+Alamsyah, H. K., Sharina, S., & Nugraha, F. W. (2025). Teknik Pemetaan Sebaran Klorofil-A Dan
+Sea Surface Temperature (SST) Pada Perairan Karang Jeruk Kab. Tegal Berbasis
+Geographic Information System (GIS). Jurnal sosial dan sains, 5(6), 1881-1893.
+DOI: https://doi.org/10.59188/jurnalsosains.v5i6.32332
+Budiman, A. S., Bengen, D. G., Nurjaya, I. W., Arifin, Z., & Ismail, M. F. A. (2021). The spatio-
+temporal variability of chlorophyll-A and its physical variables in the South Java Sea
+shelf. Journal of Hunan University Natural Sciences, 48(7).
+DATA, I. D. P. B., & KOTA, K. I. D. W. J. Akhdan Najla Malik Al’Abda. Eprints. Walisongo. Ac. Id.
+Dida, H. P., Suparman, S., & Widhiyanuriyawan, D. (2016). Pemetaan potensi energi angin di
+perairan Indonesia berdasarkan data satelit QuikScat dan WindSat. Jurnal Rekayasa
+Mesin, 7(2), 95-101.
+DOI: https://doi.org/10.21776/ub.jrm.2016.007.02.7
+Ghozali, I. (2013). BPFE. Jurnal Jom FEKON, 2(2), 1-15.
+Haryanto, Y. D., Riama, N. F., Purnama, D. R., Pradita, N., Ismah, S. F., Suryo, A. W., ... & Susanto,
+R. D. (2021). Effect of monsoon phenomenon on sea surface temperatures in
+Indonesian Throughflow region and southeast Indian Ocean. Journal of Southwest
+Jiaotong University, 56(6), 914-923.
+He, H., Fan, D., Wang, R., Lyu, X., Fu, B., Huang, Y., & Sheng, J. (2024). Estimation of daytime all-
+sky sea surface temperature from Himawari-8 based on multilayer stacking machine
+learning. International Journal of Applied Earth Observation and
+Geoinformation, 132, 104055.
+DOI: 10.1016/j.jag.2024.104055
+Julianinda, Y. A., Iranawati, F., Yona, D., & Sartimbul, A. (2025). Pengaruh Variasi Suhu
+Permukaan Laut (Spl) dan Klorofil-a Terhadap Tangkapan Ikan di Perairan Muncar,
+Banyuwangi, Jawa Timur dari Tahun 2018-2022: The Impact of Variation in Sea
+Surface Temperature (Sst) and Chlorophyll-a on Fish Catch in Muncar Waters,
+Banyuwangi, East Java from 2018 To 2022. JFMR (Journal of Fisheries and Marine
+Research), 9(2), 24-34.
+DOI: https://doi.org/10.21776/ub.jfmr.2025.009.02.3
+Kuantitatif, P. P. (2016). Metode penelitian kunatitatif kualitatif dan R&D. Alfabeta, Bandung.
+Kunarso, Wirasatriya, A., Irwani, Satriadi, A., Helmi, M., Prayogi, H., & Munandar, B. (2019, March).
+Impact of Climate Variability to Aquatic Productivity and Fisheries Resources in
+Jepara Waters. In IOP Conference Series: Earth and Environmental Science (Vol. 246,
+No. 1, p. 012021). IOP Publishing.
+DOI: 10.1088/1755-1315/246/1/012021
+Maslukah, L., Wirasatriya, A., Wijaya, Y. J., Ismunarti, D. H., Widiaratih, R., & Krisna, H. N. (2024).
+The assessment of chlorophyll-a retrieval algorithm and its spatial-temporal
+distribution using sentinel-2 MSI off the Banjir Kanal Timur River, Semarang,
+Indonesia. Regional Studies in Marine Science, 75, 103556.
+DOI: 10.1016/j.rsma.2024.103556
+Masotti, I., Aparicio-Rizzo, P., Yevenes, M. A., Garreaud, R., Belmar, L., & Farías, L. (2018). The
+influence of river discharge on nutrient export and phytoplankton biomass off the
+Central Chile coast (33–37 S): Seasonal cycle and interannual variability. Frontiers in
+Marine Science, 5, 423.
+DOI: https://doi.org/10.3389/fmars.2018.00423
+Nababan, B., Nirmawan, A. D., & Panjaitan, J. P. (2022). Variabilitas Suhu Permukaan Laut dan
+Konsentrasi Klorofil-A di Perairan Palabuhanratu dan Sekitarnya. Jurnal Teknologi
+Perikanan dan Kelautan, 13(2), 145-162.
+30
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Nuzapril, M., Susilo, S. B., & Panjaitan, J. P. (2017). Hubungan antara konsentrasi klorofil-a
+dengan tingkat produktivitas primer menggunakan citra satelit landsat-8. Jurnal
+Teknologi Perikanan dan Kelautan, 8(1), 105-114.
+Octavianna, P. D., Helmi, M., Maslukah, L., Atmodjo, W., & Handoyo, G. (2025). Analisis
+Hubungan antara Intensitas Curah Hujan dan Kandungan Klorofil-a serta Suhu
+Permukaan Laut di Perairan Utara Jawa. Indonesian Journal of Oceanography, 7(4),
+389-402.
+DOI: https://doi.org/10.14710/ijoce.v7i4.29043
+Ramadani, A., Suhana, M. P., & Febrianto, T. (2022). Karakteristik spasial suhu permukaan laut
+perairan Kota Tanjungpinang pada empat musim berbeda. Jurnal Kelautan:
+Indonesian Journal of Marine Science and Technology, 15(1), 39-59.
+DOI: https://doi.org/10.21107/jk.v15i1.10832
+Ramadhan, T. D. (2022). Variabilitas Suhu Permukaan Laut dan Klorofil-A 2019 Ddi Laut Jawa:
+2019 Variability of Sea Surface Temperature and Chlorophyl-A in The Java
+Sea. Jurnal Hidrografi Indonesia, 4(2), 73-78.
+DOI: https://doi.org/10.62703/jhi.v4i2.33
+Rifai, A., Rochaddi, B., Fadika, U., Marwoto, J., & Setiyono, H. (2020). Kajian pengaruh angin
+musim terhadap sebaran suhu permukaan laut (Studi Kasus: Perairan Pangandaran
+Jawa Barat). Indonesian Journal of Oceanography, 2(1), 98-104.
+DOI: https://doi.org/10.14710/ijoce.v2i1.7499
+Sambah, A. B., Muamanah, A., Harlyan, L. I., Lelono, T. D., Iranawati, F., & Sartimbul, A. (2021).
+Sea surface temperature and chlorophyll-a distribution from Himawari satellite and
+its relation to yellowfin tuna in the Indian Ocean. Aquaculture, Aquarium,
+Conservation & Legislation, 14(2), 897-909.
+Santoso, T. W., Kunarso, K., & Marwoto, J. (2021). Analisa spasial dan temporal suhu permukaan
+laut dan klorofil-a selama 2 dekade di perairan Indonesia. Indonesian Journal of
+Oceanography, 3(4), 370-381.
+DOI: https://doi.org/10.14710/ijoce.v3i4.12384
+Song, X., Gu, Y., Zhai, F., Li, P., Liu, P., Liu, Z., ... & He, J. (2021). Climatology and seasonal
+variability of satellite-derived chlorophyll a around the Shandong Peninsula. Journal
+of Oceanology and Limnology, 39(4), 1222-1244.
+Suryaningtias, A., Rosalia, A. A., & Widiyanto, K. (2025). Integrasi Klorofil-a, SST, Dan Kedalaman
+Untuk Pemetaan Daerah Penangkapan Ikan Pelagis Kecil di Laut Jawa (Studi Kasus:
+WPPNRI 712). Briliant: Jurnal Riset dan Konseptual, 10(3), 684-696.
+DOI: https://doi.org/10.28926/briliant.v10i3.2071
+Syahputra, B. P., & Mulya, A. (2022). Analisis korelasi rank spearman & regresi linear nilai indeks
+stabilitas atmosfer dan suhu puncak awan citra satelit himawari-8 ir (studi kasus banjir
+Pekanbaru 22 april 2021). Prosiding: Konferensi Nasional Matematika dan IPA
+Universitas PGRI Banyuwangi, 2(1), 293-300.
+Wirasatriya, A., Setiawan, R. Y., & Subardjo, P. (2017). The effect of ENSO on the variability of
+chlorophyll-a and sea surface temperature in the Maluku Sea. IEEE Journal of
+Selected Topics in Applied Earth Observations and Remote Sensing, 10(12), 5513-
+5518.
+DOI: 10.1109/JSTARS.2017.2745207
+Wirasatriya, A., Susanto, R. D., Setiawan, J. D., Ramdani, F., Iskandar, I., Jalil, A. R., ... & Maslukah,
+L. (2021). High chlorophyll-a areas along the western coast of south sulawesi-
+indonesia during the rainy season revealed by satellite data. Remote Sensing, 13(23),
+4833.
+DOI: https://doi.org/10.3390/rs13234833
+Wisetya Dewi, Y., Wirasatriya, A., Nugroho Sugianto, D., Helmi, M., Marwoto, J., & Maslukah, L.
+(2020, July). Effect of ENSO and IOD on the variability of sea surface temperature
+31
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+(SST) in java sea. In IOP Conference Series: Earth and Environmental Science (Vol.
+530, No. 1, p. 012007). IOP Publishing.
+DOI: 10.1088/1755-1315/530/1/012007
+Zhang, H., Beggs, H., Griffin, C., & Govekar, P. D. (2023). Validation of Himawari-8 sea surface
+temperature retrievals using infrared SST autonomous radiometer
+measurements. Remote Sensing, 15(11), 2841.
+DOI: https://doi.org/10.3390/rs15112841
+Zhao, Z., Oey, L. Y., Huang, B., Lu, W., & Jiang, Y. (2022). Off‐Coast Phytoplankton Bloom in the
+Taiwan Strait During the Northeasterly Monsoon Wind Relaxation Period. Journal of
+Geophysical Research: Oceans, 127(9), e2022JC018752.
+DOI: https://doi.org/10.1029/2022JC018752
+32

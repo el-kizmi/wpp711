@@ -1,0 +1,700 @@
+Vol. 15 | No. 1: 85 - 100
+Mei, 2026
+Peer-Reviewed ☑
+https://doi.org/10.30598/amanisal.v15i1.25358
+Pemetaan Sebaran Daerah Potensial Penangkapan Ikan Karang Berdasarkan
+Parameter Oseanografi Di Perairan Pulau Kerdau Kabupaten Natuna
+(Analysis Mapping Of The Distribution Of Potential Area For Coral Fishing Based On
+Oceanographic Parameters In The Waters Of Kerdau Island, Natuna Regency)
+Jeriyan1, Asep Ma’mun1, Esty Kurniawati1,
+1 Program Studi Ilmu Kelautan, Fakultas Ilmu Kelautan dan Perikanan, Universitas
+Maritim Raja Ali Haji, Tanjung Pinang, Kepulauan Riau, 29115, Indonesia
+Email: jeriyan422@gmail.com, asepmamun@umrah.ac.id, estykurniawati@umrah.ac.id.
+☑ Article Info : Abstract
+Recived : 10 April 2026
+Accepted : 24 Mei 2026
+Online : 30 Mei 2026 This study addresses the high fishery potential of Natuna waters, influenced
+by oceanographic dynamics, while localized mapping of reef fish fishing
+ Article type grounds remains limited. Previous studies have mainly focused on pelagic
+Review Article species and large-scale areas, with limited integration of oceanographic
+Commin Serv. Articel
+and habitat-based spatial analysis at the local level. This study aims to
+✓ Research Article
+analyze the relationship between oceanographic parameters and reef fish
+catch (CPUE) and to map potential fishing grounds around Kerdau Island
+ Keyword :
+Generalized Additive Model using spatial analysis and remote sensing. A descriptive survey approach was
+(GAM), Habitat Suitability Index applied, integrating primary and secondary data collected through
+(HSI), Oceanography, Reef Fish, observation, interviews, and documentation. Data were analyzed using the
+Potential Area Mapping Generalized Additive Model (GAM) and Geographic Information Systems
+(GIS) to develop a Habitat Suitability Index (HSI). The results show that
+ Corresponding Author :
+individual oceanographic parameters do not significantly influence CPUE;
+Jeriyan
+however, their combination explains up to 73,21% of its variation, with the best
+Program Studi Ilmu Kelautan,
+Fakultas Ilmu Kelautan dan model including temperature, salinity, current, chlorophyll-a, and sea level.
+Perikanan, Universitas Maritim Optimal fishing conditions were identified within specific parameter ranges.
+Raja Ali Haji HSI mapping indicates that 61,40% of fishing locations fall within suitable zones
+(HSI ≥ 0.5), with spatial and temporal variability. However, 38,60% of fishing
+Email: jeriyan422@gmail.com
+points remain in low-suitability areas, indicating limitations of the model in
+capturing all influencing factors. This study is limited by the exclusion of
+habitat complexity, fishing pressure, and socio-economic variables, as well as
+a short observation period. Future research should integrate broader
+ecological and anthropogenic factors to improve model accuracy and
+support sustainable fisheries management.
+Copyright © 2026, Jeriyan, Asep Ma’mun, Esty Kurniawati
+PENDAHULUAN
+Indonesia merupakan negara dengan potensi perikanan yang sangat besar, didukung
+oleh luas wilayah perairan mencapai sekitar 5,9 juta km², termasuk Zona Ekonomi Eksklusif (ZEE)
+seluas 2,8 juta km² (Kurnia, 2022). Potensi ini menjadikan sektor perikanan sebagai salah satu
+kontributor penting bagi perekonomian nasional, dengan kontribusi yang terus meningkat
+terhadap Produk Domestik Bruto (PDB) (Wibowo et al., 2021). Dalam pengelolaannya, wilayah
+perikanan Indonesia dibagi menjadi beberapa Wilayah Pengelolaan Perikanan (WPP), salah
+satunya adalah WPP 711 yang mencakup perairan Kabupaten Natuna. Wilayah ini memiliki
+potensi sumber daya ikan yang besar serta kondisi geografis yang strategis karena berbatasan
+dengan Laut Natuna Utara dan berada pada jalur pelayaran internasional.
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Perairan Natuna memiliki potensi sumber daya ikan yang tinggi, dengan estimasi hasil
+tangkapan ikan pelagis kecil mencapai 330,284 ton per tahun, pelagis besar 185.855 ton per
+tahun, dan ikan demersal sebesar 131,070 ton per tahun (Pemerintah Kabupaten Natuna,
+2021). Tingginya potensi ini tidak terlepas dari kondisi oseanografi perairan yang mendukung,
+seperti suhu permukaan laut, salinitas, arus, kedalaman, serta konsentrasi klorofil-a yang
+berperan dalam menentukan produktivitas perairan dan ketersediaan pakan alami bagi ikan
+(Hukubun & Tubalawony, 2024). Selain itu, keberadaan ekosistem terumbu karang juga
+menjadi faktor penting dalam mendukung keberadaan ikan demersal seperti kerapu dan
+kakap (Safruddin et al., 2020).
+Sejumlah penelitian terdahulu menunjukkan bahwa parameter oseanografi memiliki
+pengaruh signifikan terhadap distribusi dan hasil tangkapan ikan. Variasi suhu permukaan laut
+dan konsentrasi klorofil-a diketahui memengaruhi jumlah titik fishing ground serta distribusi ikan
+(Apriansyah & Utami, 2024; N. Fitriani, 2020). Penelitian lain juga menunjukkan adanya
+hubungan yang kuat antara suhu permukaan laut dengan hasil tangkapan ikan, serta
+pemanfaatan data penginderaan jauh dalam memetakan daerah potensial penangkapan
+ikan (W. Fitriani & Tadjuddah, 2025); (Pratama et al., 2023). Selain itu, pendekatan Generalized
+Additive Model (GAM) terbukti efektif dalam memodelkan hubungan nonlinear antara
+parameter lingkungan dan distribusi ikan (Siregar et al., 2018). Penelitian mengenai ikan
+demersal berbasis parameter oseanografi telah dilakukan di berbagai perairan Indonesia. Di
+Laut Arafura, suhu permukaan laut, klorofil-a, dan salinitas diketahui memengaruhi distribusi
+ikan demersal (Ningsih & Syah, 2020). Sementara itu, penelitian di Kepulauan Riau
+menunjukkan bahwa suhu permukaan laut, klorofil-a, kedalaman, dan salinitas berhubungan
+signifikan dengan hasil tangkapan ikan demersal (Sambah et al., 2021).
+Tingginya aktivitas penangkapan ikan di Natuna belum didukung informasi spasial yang
+memadai mengenai daerah penangkapan potensial. Akibatnya, efisiensi operasi menurun,
+biaya bahan bakar meningkat, dan hasil tangkapan menjadi tidak pasti. Selain itu, eksploitasi
+yang terpusat di wilayah tertentu berisiko menyebabkan overfishing dan kerusakan ekosistem.
+Karena itu, pemetaan daerah potensial penangkapan ikan penting untuk meningkatkan
+efisiensi usaha perikanan, kesejahteraan nelayan, dan keberlanjutan sumber daya perikanan.
+Berdasarkan kondisi tersebut, penelitian ini bertujuan menganalisis hubungan parameter
+oseanografi dengan sebaran daerah penangkapan ikan di perairan Pulau Kerdau,
+Kabupaten Natuna, serta memetakan daerah potensial penangkapan ikan menggunakan
+teknologi penginderaan jauh. Hasil penelitian diharapkan dapat mendukung
+pengembangan pemetaan fishing ground berbasis data oseanografi dan membantu
+pengelolaan perikanan yang lebih efektif dan berkelanjutan.
+MATERI DAN METODE
+Penelitian ini dilaksanakan di Desa Pulau Kerdau, Kecamatan Pulau Panjang,
+Kabupaten Natuna, Provinsi Kepulauan Riau pada Juli–Agustus 2025. Pulau Kerdau dipilih
+sebagai lokasi penelitian karena memiliki potensi sumber daya perikanan yang tinggi. Lokasi
+pengambilan sampel ditunjukkan pada Gambar 1.
+Gambar 1. Peta lokasi penelitian
+86
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Penelitian ini menggunakan metode survei deskriptif dengan subjek nelayan pengguna
+alat tangkap bubu yang dipilih secara purposive sampling. Jumlah kapal sampel berkisar
+antara 9–13 unit per trip pengamatan. Titik pengamatan ditentukan berdasarkan keterwakilan
+wilayah perairan, meliputi kawasan pesisir, sekitar terumbu karang, dan perairan terbuka.
+Pengambilan sampel parameter lingkungan menggunakan metode systematic random
+sampling dengan interval antar titik sekitar 3.973 m. Koordinat pengamatan dicatat
+menggunakan GPS Furuno GP-39 untuk analisis spasial. Data dikumpulkan melalui observasi,
+wawancara terstruktur, dan dokumentasi, yang terdiri atas data primer berupa parameter
+oseanografi (suhu permukaan laut, salinitas, dan kecepatan arus), hasil tangkapan ikan, serta
+data Daerah Penangkapan Ikan (DPI). Pengukuran parameter oseanografi dilakukan secara
+in situ mengikuti aktivitas penangkapan nelayan menggunakan AZ86031 Water Quality Meter
+untuk suhu dan salinitas serta metode drift buoy untuk pengukuran kecepatan arus. Arah arus
+ditentukan menggunakan kompas dengan mengikuti pergerakan drift buoy dan mencatat
+sudutnya dalam derajat, Kecepatan arus dihitung dengan rumus:
+𝑉 =
+𝑆
+(1)
+𝑡
+Dimana :
+V = kecepatan arus (m/s),
+S = jarak perpindahan (m),
+t = waktu tempuh (s).
+Data sekunder yang digunakan meliputi klorofil-a dari citra MODIS-Aqua Level 3, tinggi
+muka laut (SSH) dari Copernicus Marine Service, habitat bentik dari Allen Coral Atlas, serta
+citra Sentinel-2A sebagai peta dasar. Analisis data dilakukan melalui pendekatan statistik dan
+spasial. Produktivitas penangkapan dihitung menggunakan Catch per Unit Effort (CPUE)
+sebagai indikator kelimpahan ikan. Hubungan antara CPUE dan parameter lingkungan, yaitu
+suhu permukaan laut, klorofil-a, salinitas, kecepatan arus, dan tinggi muka laut dianalisis
+menggunakan Generalized Additive Model (GAM) pada perangkat lunak R dengan paket
+mgcv. Model terbaik dipilih berdasarkan nilai Akaike Information Criterion (AIC) terendah dan
+Contribution Deviance Explained (CDE) tertinggi. Hasil model GAM selanjutnya digunakan
+untuk menyusun Habitat Suitability Index (HSI) yang menggambarkan tingkat kesesuaian
+habitat ikan berdasarkan parameter lingkungan. Nilai HSI kemudian dipetakan secara spasial
+menggunakan ArcGIS 10.8 melalui proses interpolasi dan visualisasi peta daerah potensial
+penangkapan ikan.
+Analisis data dilakukan melalui pendekatan statistik dan spasial. Analisis statistik diawali
+dengan menghitung produktivitas hasil tangkapan menggunakan pendekatan Catch per
+Unit Effort (CPUE). Nilai CPUE digunakan sebagai indikator kelimpahan ikan (Fuadi et al., 2022).
+Perhitungan CPUE dilakukan dengan membandingkan total hasil tangkapan terhadap upaya
+penangkapan, yang dinyatakan dalam rumus sebagai berikut:
+𝐶𝑃𝑈𝐸 =
+𝐶𝑎𝑡𝑐ℎ𝑡
+(2)
+𝑡 𝐸𝑓𝑓𝑜𝑟𝑡𝑡
+Dimana :
+CPUE = hasil tangkapan per upaya pada trip ke-t (kg/kapal),
+t
+Catch = total hasil tangkapan pada trip ke-t (kg),
+t
+Effort = jumlah kapal yang beroperasi pada trip ke-t (kapal).
+t
+Selanjutnya, hubungan antara parameter oseanografi dan hasil tangkapan dianalisis
+menggunakan metode Generalized Additive Model (GAM), yang digunakan untuk
+memodelkan hubungan nonlinear antara variabel lingkungan (variabel bebas) dan CPUE
+(variabel respon). Model terbaik dipilih berdasarkan nilai Akaike Information Criterion (AIC)
+terendah dan Contribution Deviance Explained (CDE) tertinggi. Penggunaan metode ini
+didasarkan pada kemampuannya dalam mengakomodasi hubungan nonlinear antara
+variabel lingkungan dan hasil tangkapan ikan (Siregar et al., 2018). Rumus model GAM:
+g µi=α0 + S (SPL)+S (Chl−a)+𝑆 (𝑆𝑎𝑙𝑡)+𝑆 (𝐴𝑟𝑢𝑠 𝑙𝑎𝑢𝑡)+𝑆 (𝑇𝑀𝐿)+ ε (3)
+1 2 3 4 5
+87
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Dimana :
+µi = variabel respon berupa nilai CPUE pada pengamatan ke-i,
+g = merupakan fungsi link,
+α0 = konstanta,
+S n = fungsi smoothing (spline) dari masing-masing variabel prediktor, serta Ɛ adalah error.
+Hasil analisis kemudian digunakan untuk menyusun indeks kesesuaian habitat (Habitat
+Suitability Index, HSI) guna mengidentifikasi tingkat kesesuaian habitat perairan (Saputra et al.,
+2024). Nilai HSI yang mendekati 1 menunjukkan tingkat kesesuaian habitat yang tinggi,
+sedangkan nilai yang mendekati 0 menunjukkan habitat yang tidak sesuai (Akita et al., 2022).
+Perhitungan HSI dilakukan menggunakan rumus berikut (Sianturi et al., 2024):
+Y − Y
+HSI = min (4)
+Ymax − Y
+min
+Dimana :
+HSI = indeks kesesuaian habitat,
+Y = nilai prediksi CPUE pada suatu lokasi,
+Y = nilai prediksi CPUE minimum,
+min
+Y = nilai prediksi CPUE maksimum pada seluruh lokasi pengamatan.
+max
+Nilai HSI berkisar antara 0 hingga 1, di mana nilai yang mendekati 1 menunjukkan
+tingkat kesesuaian habitat yang tinggi dan kondisi lingkungan optimal bagi keberadaan ikan,
+sedangkan nilai yang mendekati 0 menunjukkan habitat yang tidak sesuai (Akita et al., 2022).
+Analisis spasial menggunakan teknik overlay pada Sistem Informasi Geografis (SIG)
+dengan mengaitan data oseanografi, hasil tangkapan ikan, dan habitat bentik. Sebelum
+proses overlay, seluruh data diekstraksi, diinterpolasi, dan dikonversi ke format shapefile untuk
+keseragaman data spasial. Hasil overlay digunakan untuk menganalisis hubungan antara
+kondisi lingkungan, lokasi penangkapan ikan, dan habitat bentik dalam menentukan zona
+potensial penangkapan ikan. Hasil analisis kemudian disajikan dalam bentuk peta Daerah
+Penangkapan Ikan (DPI). Alur penelitian secara keseluruhan disajikan pada Gambar 2.
+Persiapan
+Pelaksanaan Penelitian
+Pengumpulan Data
+Data Satelit Parameter Hasil DPI
+Lingkungan Tangkapan
+Tingg Kl i o M ro u f k il a -a L aut Sa S A l u in r h u it u s a s A C n P a U lis E i s
+Analisis
+Habitat Bentik GAM
+Analisis
+HSI
+Overlay Spasial (GIS)
+Layout
+Selesai
+Gambar 2. Alur (Prosedur) Penelitian
+88
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+HASIL DAN PEMBAHASAN
+Gambaran Umum Data Penelitian
+Penelitian ini menggunakan 57 data pengamatan yang mencakup nilai CPUE, jumlah
+kapal, serta parameter oseanografi berupa suhu permukaan laut, salinitas, arus, klorofil-a, dan
+tinggi muka laut. Nilai CPUE berkisar antara 70,10–269,50 kg/kapal dengan rata-rata 162,28
+kg/kapal, yang menunjukkan adanya variasi hasil tangkapan selama periode penelitian.
+Parameter oseanografi menunjukkan kondisi yang relatif stabil, dengan kisaran suhu 29,99–
+31,76°C, salinitas 29,41–29,71 psu, arus 0,55–0,90 m/s, klorofil-a 0,15–1,04 mg/m³, dan tinggi
+muka laut 1,01–1,86 m. Namun, variasi spasial dan temporal tetap ditemukan pada setiap titik
+dan trip pengamatan. Perbedaan kondisi oseanografi, terutama pada kecepatan arus dan
+konsentrasi klorofil-a, diduga memengaruhi distribusi ikan karang sehingga berkontribusi
+terhadap fluktuasi nilai CPUE yang diperoleh selama penelitian.
+Gambar 3. Nilai Deskriptif Data Penelitian
+Gambar 4. Grafik CPUE pada Setiap Trip Penelitian
+Hasil Analisis CPUE (Fluktuasi Hasil Tangkapan)
+Nilai CPUE menunjukkan fluktuasi antar trip penelitian. Trip 1 memiliki rata-rata CPUE
+terendah sebesar 141,49 kg/kapal, kemudian meningkat menjadi 181,01 kg/kapal pada Trip 2
+sebagai nilai tertinggi. Selanjutnya, CPUE menurun pada Trip 3 (163,23 kg/kapal) dan Trip 4
+(157,30 kg/kapal), lalu kembali meningkat pada Trip 5 menjadi 174,49 kg/kapal. Variasi ini
+menunjukkan bahwa produktivitas penangkapan tidak hanya dipengaruhi oleh jumlah titik
+penangkapan, tetapi juga oleh kondisi lingkungan perairan.
+89
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Hasil tangkapan selama penelitian didominasi oleh ikan dari famili Serranidae (kerapu),
+yang umumnya berasosiasi dengan ekosistem terumbu karang. Namun, perbedaan relung
+ekologis dan daerah jelajah antar spesies menyebabkan distribusi ikan tidak selalu berada
+tepat pada habitat bentik.
+Variasi Parameter Oseanografi
+Secara umum, kelima parameter oseanografi menunjukkan kondisi yang relatif stabil
+selama penelitian dengan variasi yang masih berada dalam kisaran toleransi bagi kehidupan
+ikan karang (lihat tabel 1 dan gambar 5 – 9).
+Tabel 1. Rangkuman Nilai Parameter Oseanografi
+Trip CPUE (kg) SPL (°C) Salinitas (psu) Arus (m/s) Klorofil-a (mg/m³) TML (m)
+1 228,4 31,63 29,72 0,74 0,38 1,04
+2 269,5 30,16 29,61 0,74 0,31 1,54
+3 231,3 30,98 29,54 0,69 0,29 1,41
+4 260,7 30,01 29,50 0,90 0,26 1,68
+5 228,1 30,50 29,46 0,76 0,44 1,27
+Jika ditelaah lebih lanjut, terdapat pola hubungan yang menarik antara parameter
+lingkungan dengan capaian CPUE tertinggi di setiap trip. CPUE tertinggi secara keseluruhan
+(269,5 kg pada Trip 2) dicapai pada kondisi suhu yang relatif lebih rendah (30,16°C) dan TML
+yang cukup tinggi (1,54 m), mengindikasikan bahwa kombinasi parameter tertentu, bukan
+nilai ekstrem suatu parameter, yang menciptakan kondisi optimal. Sebaliknya, pada Trip 1
+dengan suhu tertinggi (31,63°C) justru menghasilkan CPUE yang lebih rendah (228,4 kg)
+dibanding Trip 2 dan Trip 4. Hal ini menguatkan indikasi bahwa kombinasi parameter
+lingkungan lebih berperan dibandingkan nilai ekstrem tunggal.
+Secara ekologis, suhu memengaruhi metabolisme dan distribusi ikan, di mana
+peningkatan suhu mendekati batas atas dapat menurunkan aktivitas dan menyebabkan
+pergeseran habitat (Tangke et al., 2016). Klorofil-a sebagai indikator produktivitas perairan
+tidak berhubungan langsung dengan CPUE karena pengaruhnya terjadi melalui rantai trofik
+(Hestiningsih et al., 2017). Sementara itu, arus dan tinggi muka laut memengaruhi distribusi
+nutrien dan pergerakan ikan, sehingga meningkatkan peluang agregasi ikan pada kondisi
+tertentu (Hastuti et al., 2021).
+Namun, variasi CPUE juga dipengaruhi oleh faktor non-oseanografi seperti komposisi
+jenis ikan, perilaku ikan, serta aktivitas penangkapan (misalnya pemilihan lokasi dan strategi
+operasi). Oleh karena itu, hubungan yang diperoleh dalam penelitian ini mencerminkan
+interaksi kompleks antara faktor lingkungan dan operasional, sehingga diperlukan analisis
+lanjutan menggunakan GAM untuk mengidentifikasi hubungan nonlinear dan kisaran optimal
+masing-masing parameter terhadap CPUE.
+Gambar 5. Suhu Trip 1 – Trip 5 Gambar 6. Arus Trip 1 – Trip 5
+90
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Gambar 7. Salinitas Trip 1 – Trip 5 Gambar 8. Klorofil-a Trip 1 – Trip 5
+Gambar 9. Tinggi Muka Air Laut Trip 1 – Trip 5
+Sebaran Titik Penangkapan Terhadap Habitat Bentik
+Hasil pemetaan terdapat 57 titik penangkapan ikan karang di Perairan Pulau Kerdau
+(Gambar 10). Berdasarkan overlay dengan peta habitat dasar, hanya 8 titik (±14,03%) berada
+pada habitat bentik, sedangkan 49 titik (±85,97%) berada di luar habitat bentik.
+Gambar 10. Sebaran Titik Penangkapan Terhadap Habitat Bentik
+91
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Dominasi titik penangkapan di luar habitat bentik mengindikasikan bahwa ikan karang
+tidak hanya memanfaatkan habitat inti, tetapi juga perairan sekitarnya sebagai area mencari
+makan (feeding ground), seiring dengan mobilitasnya yang cukup tinggi. Kondisi oseanografi
+seperti arus turut memengaruhi distribusi pakan dan keberadaan ikan karang di perairan
+sekitar , sehingga habitat non-bentik berperan sebagai zona penunjang ekologis.
+Selain itu, pola sebaran ini juga dapat dipengaruhi oleh keterbatasan resolusi peta
+habitat bentik yang belum mampu merepresentasikan mikrohabitat secara detail (Ampou et
+al., 2018). Oleh karena itu, peningkatan akurasi pemetaan melalui penggunaan citra resolusi
+tinggi dan verifikasi lapangan diperlukan untuk mendukung analisis yang lebih akurat. Temuan
+ini menunjukkan bahwa pengelolaan perikanan ikan karang perlu menerapkan pendekatan
+berbasis ekosistem mencakup habitat bentik dan perairan sekitarnya (Link & Browman, 2017).
+Hasil Pemodelan Generalized Additive Model (GAM)
+Pemodelan hubungan antara parameter oseanografi dengan hasil tangkapan ikan
+karang dilakukan menggunakan Generalized Additive Model (GAM). Sebanyak 16 model
+diuji, mulai dari model tunggal hingga kombinasi lima variabel. Hasil lengkap uji statistik setiap
+model disajikan pada Tabel 2.
+Tabel 2. Hasil Pemodelan GAM
+No Model Variabel p-value AIC CDE (%)
+1 Suhu -Suhu 0.128 796,325 3,138
+2 Salinitas -Salinitas 0.130 796,350 3,106
+3 Arus -Arus 0.179 796,846 2,462
+4 Klorofil-a -Klorofil.a 0.151 796,585 2,802
+5 TML -TML 0.140 796,463 2,960
+6 Suhu + Salinitas -Suhu 0.615 798,084 3,448
+-Salinitas 0.632
+7 Suhu + Arus -Suhu <2e-16*** 726,833 7,379
+-Arus <2e-16***
+8 Suhu + Klorofil-a -Suhu <2e-16*** 748,974 52,286
+-Klorofil.a <2e-16***
+9 Salinitas + Arus -Salinitas <2e-16*** 719,265 74,663
+-Arus <2e-16***
+10 Salinitas + Klorofil-a -Salinitas <2e-16*** 723,923 70,400
+-Klorofil.a <2e-16***
+11 Arus + Klorofil-a -Arus <2e-16*** 723,837 73,646
+-Klorofil.a <2e-16***
+12 Suhu + Salinitas + Arus -Suhu <2e-16*** 718,921 67,433
+-Salinitas <2e-16***
+-Arus <2e-16***
+13 Suhu + Salinitas + Klorofil-a -Suhu <2e-16*** 716,383 68,977
+-Salinitas <2e-16***
+-Klorofil.a <2e-16***
+14 Salinitas + Arus + Klorofil-a -Salinitas <2e-16*** 711,670 70,724
+-Arus <2e-16***
+-Klorofil.a <2e-16***
+15 Suhu + Salinitas + Arus + Klorofil-a -Suhu <2e-16*** 711,954 70,593
+-Salinitas <2e-16***
+-Arus <2e-16***
+-Klorofil.a <2e-16***
+16 Suhu + Salinitas + Arus + Klorofil-a -Suhu 0.002** 709,943 73,208
++ TML -Salinitas <2e-16***
+-Arus <2e-16***
+-Klorofil.a <2e-16***
+-TML 0.070.
+Keterangan: CDE = Contribution Deviance Explained; AIC = Akaike Information Criterion;
+*** p < 0.001, ** p < 0.01, * p < 0.05, p < 0.1
+92
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Hasil pemodelan Generalized Additive Model (GAM) menunjukkan bahwa model
+terbaik diperoleh dari kombinasi lima parameter oseanografi (suhu, salinitas, arus, klorofil-a,
+dan tinggi muka laut/TML) dengan AIC terendah (709,943) dan CDE tertinggi (73,21%). Model
+ini mampu menjelaskan sebagian besar variasi CPUE ikan karang, sementara model tunggal
+tidak signifikan. Kombinasi parameter, khususnya yang melibatkan arus, meningkatkan kinerja
+model secara nyata. Seluruh variabel berkontribusi, meskipun TML bersifat marginal,
+menegaskan bahwa pendekatan multivariat lebih efektif.
+Klorofil-a sebagai indikator pakan berinteraksi dengan arus dalam membentuk pola
+sebaran (patchiness) yang memengaruhi agregasi ikan (Rosalina et al., 2024). Arus optimal
+(±0,7–0,9 m/s) mendukung distribusi nutrien dan produktivitas primer, sedangkan arus terlalu
+lemah (<0,5 m/s) atau terlalu kuat (>1,0 m/s) berdampak negatif terhadap efisiensi makan
+ikan. Hubungan parameter lingkungan dengan respons ikan bersifat nonlinear karena adanya
+ambang batas ekologis, di mana efek positif hanya terjadi pada kisaran optimal sebelum
+menimbulkan stres (Miranto, 2017; Pratama et al., 2023). Hal ini diperkuat oleh hasil GAM yang
+menunjukkan bahwa kombinasi multi-parameter lebih signifikan dibanding parameter
+tunggal. Meski performa model tinggi, potensi overfitting tetap perlu diperhatikan.
+Penggunaan AIC membantu menyeimbangkan akurasi dan kompleksitas model, namun
+validasi independen masih diperlukan.
+Hubungan Nonlinear Variabel Lingkungan
+Hasil kurva smoothing dari model GAM (Gambar 11–15) menunjukkan bahwa seluruh
+parameter oseanografi memiliki hubungan nonlinear dengan CPUE ikan karang. Setiap
+variabel menunjukkan kisaran optimal yang berbeda dalam mendukung produktivitas
+penangkapan. Secara umum, CPUE cenderung meningkat pada kisaran suhu 29,7–31,0°C,
+salinitas 29,4–29,7 psu, kecepatan arus 0,7–0,9 m/s, konsentrasi klorofil-a 0,2–0,6 mg/m³, serta
+tinggi muka laut 0,9–1,5 m. Di luar kisaran tersebut, respons CPUE cenderung menurun, yang
+menunjukkan adanya batas ekologis terhadap kondisi lingkungan. Temuan ini
+mengindikasikan bahwa keberhasilan penangkapan ikan karang tidak ditentukan oleh nilai
+ekstrem suatu parameter, melainkan oleh kombinasi kondisi oseanografi yang berada pada
+kisaran optimal tertentu (lihat tabel 3).
+Gambar 11. Kurva CPUE Gambar 12. Kurva CPUE Gambar 13. Kurva CPUE
+Suhu Salinitas Arus
+Gambar 14. Kurva CPUE Klorofil-a Gambar 15. Kurva CPUE TML
+Tabel 3. Nilai Optimal Parameter Oseanografi
+Parameter Kisaran Optimal Kisaran Suboptimal
+Suhu (°C) 29,7 – 31,0 31,5 – 32,5
+Salinitas (psu) 29,4 – 29,7 29,2 – 29,3; 29,8 – 29,9
+Arus (m/s) 0,7 – 0,9 1,0 – 1,3
+Klorofil-a (mg/m³) 0,2 – 0,6 > 1,0
+TML (m) 0,9 – 1,5 1,7 – 2,2
+93
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Daerah Prediksi Potensial Penangkapan Berdasarkan Analisis HSI
+Hasil pemodelan Habitat Suitability Index (HSI) menunjukkan sebaran spasial daerah
+potensial penangkapan ikan karang di perairan Pulau Kerdau. Nilai HSI berkisar antara 0
+hingga 1, dengan nilai mendekati 1 mengindikasikan kesesuaian habitat yang tinggi.
+Persentase titik penangkapan berdasarkan kelas HSI pada setiap trip disajikan pada Tabel 4.
+Tabel 4. Persentase Titik Penangkapan berdasarkan Kelas HSI
+HSI ≤ 0,5 HSI 0,5–0,6 HSI 0,6–0,9
+Trip Total Titik
+% n % n % n
+1 25,00 3 8,33 1 66,67 8 12
+2 33,33 3 11,11 1 55,56 5 9
+3 25,00 3 50,00 6 25,00 3 12
+4 30,77 4 15,38 2 53,85 7 13
+5 81,82 9 9,09 1 9,09 1 11
+Total 38,60 22 19,31 11 42,11 24 57
+Keterangan: % = Persentase; n = Jumlah Titik
+Hasil pemodelan Habitat Suitability Index (HSI) (Tabel 4) menunjukkan sebagian besar
+aktivitas penangkapan ikan karang terkonsentrasi pada wilayah dengan kesesuaian habitat
+sedang hingga tinggi (HSI ≥ 0,5). Dari total 57 titik penangkapan, kelas HSI 0,6–0,9 mendominasi
+dengan 24 titik, diikuti HSI ≤ 0,5 sebanyak 22 titik dan HSI 0,5–0,6 sebanyak 11 titik. Dominasi
+kelas HSI 0,6–0,9 terlihat pada Trip 1 (66,67%; 8 titik), Trip 2 (55,56%; 5 titik), dan Trip 4 (53,85%; 7
+titik), yang mengindikasikan nelayan cenderung beroperasi pada area secara ekologis
+mendukung keberadaan ikan. Namun, distribusi tersebut bervariasi antar trip, dimana Trip 3
+didominasi kelas HSI 0,5–0,6 (50,00%; 6 titik), sedangkan Trip 5 sebagian besar berada pada HSI
+≤ 0,5 (9 titik). Variasi ini menunjukkan perubahan distribusi daerah penangkapan antar trip
+(Gambar 16).
+Tidak ditemukannya titik penangkapan pada kelas HSI ≥ 0,9 menunjukkan bahwa
+habitat dengan tingkat kesesuaian sangat tinggi relatif jarang selama periode penelitian.
+Kondisi ini mengindikasikan area dengan HSI sedang hingga tinggi merupakan lokasi lebih
+realistis untuk aktivitas penangkapan. Di sisi lain, keberadaan titik penangkapan pada HSI <
+0,5 menunjukkan bahwa aktivitas nelayan tidak hanya dipengaruhi oleh kesesuaian habitat,
+tetapi juga faktor lain seperti oseanografi, dan pengalaman nelayan. Oleh karena itu, model
+HSI dapat digunakan sebagai alat identifikasi awal daerah potensial penangkapan, namun
+perlu dipadukan dengan pertimbangan operasional di lapangan.
+Gambar 16. Prediksi HSI Trip 1 – Trip 5
+94
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Validasi Model Prediksi dengan Data Aktual Penangkapan
+Validasi model Habitat Suitability Index (HSI) dilakukan dengan membandingkan nilai HSI
+hasil prediksi dengan hasil tangkapan aktual pada setiap titik pengamatan. Hasil
+menunjukkan bahwa tangkapan ikan karang cenderung lebih tinggi pada lokasi dengan nilai
+HSI sedang hingga tinggi (≥ 0,5). Beberapa titik dengan nilai HSI tinggi secara konsisten
+menghasilkan tangkapan besar, menunjukkan adanya kesesuaian antara prediksi model dan
+kondisi lapangan. Secara keseluruhan, sebanyak 61,40% (35 titik) lokasi penangkapan berada
+pada zona HSI ≥ 0,5, sedangkan 38,60% (22 titik) berada pada zona HSI < 0,5. Hasil ini
+menunjukkan bahwa model memiliki kemampuan yang cukup baik dalam mengidentifikasi
+daerah penangkapan yang produktif. Selain itu, parameter oseanografi yang digunakan,
+yaitu suhu, salinitas, arus, klorofil-a, dan tinggi muka laut, terbukti relevan dalam menjelaskan
+distribusi ikan karang di perairan Pulau Kerdau.
+Namun, masih ditemukan beberapa lokasi dengan nilai HSI rendah yang menghasilkan
+tangkapan relatif tinggi. Kondisi ini mengindikasikan bahwa keberadaan ikan tidak hanya
+dipengaruhi oleh faktor lingkungan, tetapi juga oleh kondisi habitat, aspek operasional
+penangkapan, serta faktor sosial-ekonomi nelayan. Oleh karena itu, model HSI dapat
+dimanfaatkan sebagai alat pendukung pengambilan keputusan dalam penentuan daerah
+penangkapan ikan, tetapi penggunaannya perlu dipadukan dengan pengetahuan dan
+pengalaman lokal nelayan agar hasilnya lebih optimal.
+Pengaruh Parameter Lingkungan (Oseanografi) Terhadap Distribusi Ikan
+Hasil pemodelan GAM menunjukkan bahwa tidak ada parameter oseanografi yang
+berpengaruh signifikan secara tunggal terhadap CPUE ikan karang. Nilai p-value seluruh
+model univariat > 0,05 dan CDE < 4%, yang mengindikasikan bahwa hasil tangkapan
+dipengaruhi oleh interaksi beberapa faktor lingkungan, bukan oleh satu parameter saja.
+Kinerja model meningkat ketika beberapa variabel dikombinasikan, terutama yang
+melibatkan arus. Model terbaik yang menggabungkan suhu, salinitas, arus, klorofil-a, dan
+tinggi muka laut menghasilkan nilai AIC terendah (709,943) dan CDE tertinggi (73,21%). Hasil
+ini menunjukkan bahwa distribusi ikan karang dipengaruhi oleh interaksi berbagai parameter
+oseanografi secara bersamaan. Kurva smoothing menunjukkan kisaran optimal untuk
+tingginya CPUE, yaitu suhu 29,7–31,0°C, arus 0,7–0,9 m/s, dan klorofil-a 0,2–0,6 mg/m³. Selain
+kondisi oseanografi, keberadaan ikan karang juga dipengaruhi oleh habitat terumbu karang
+dan ketersediaan pakan, sehingga pendekatan multivariat seperti GAM lebih efektif dalam
+menjelaskan pola distribusinya.
+Optimalisasi Kondisi Lingkungan Untuk Penangkapan Ikan
+Berdasarkan kurva smoothing GAM, kondisi lingkungan yang optimal untuk
+penangkapan ikan karang di Pulau Kerdau meliputi suhu 29,7–31,0°C, salinitas 29,4–29,7 psu,
+arus 0,7–0,9 m/s, klorofil-a 0,2–0,6 mg/m³, dan tinggi muka laut 0,9–1,5 m. Kisaran tersebut
+mencerminkan perairan yang mendukung ketersediaan pakan, metabolisme, dan aktivitas
+ikan karang.
+Arus sedang berperan dalam distribusi nutrien dan plankton, sedangkan klorofil-a
+menunjukkan tingkat produktivitas perairan yang mendukung rantai makanan. Salinitas yang
+stabil dan tinggi muka laut yang sesuai turut menciptakan kondisi habitat yang mendukung
+keberadaan ikan karang. Hasil ini menunjukkan bahwa distribusi ikan karang dipengaruhi oleh
+interaksi beberapa faktor lingkungan yang bersifat nonlinear. Oleh karena itu, pemetaan
+daerah penangkapan ikan perlu mempertimbangkan kombinasi parameter oseanografi
+secara menyeluruh untuk menghasilkan prediksi yang lebih akurat.
+Implikasi Habitat Bentik Terhadap Penangkapan Ikan
+Hasil pemetaan menunjukkan bahwa dari 57 titik penangkapan, hanya 8 titik (14,03%)
+berada pada habitat bentik, sedangkan 49 titik (85,97%) berada di luar habitat tersebut.
+Meskipun demikian, hasil tangkapan didominasi ikan famili Serranidae yang umumnya
+berasosiasi dengan ekosistem terumbu karang. Temuan ini menunjukkan bahwa ikan karang
+tidak selalu berada tepat di habitat intinya, tetapi juga memanfaatkan perairan sekitarnya
+untuk mencari makan dan merespons perubahan lingkungan.
+95
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Dominasi titik tangkapan di luar habitat bentik dapat dijelaskan oleh konektivitas
+ekologis antara habitat inti dan daerah pencarian makan (foraging ground), serta perilaku
+pergerakan ikan karang yang memungkinkan mereka tertangkap di luar area terumbu
+karang. Selain itu, keterbatasan resolusi peta habitat bentik juga berpotensi menyebabkan
+beberapa area habitat tidak teridentifikasi secara optimal.
+Hasil penelitian ini menunjukkan bahwa distribusi ikan karang dipengaruhi tidak hanya
+oleh keberadaan habitat bentik, tetapi juga oleh kondisi oseanografi dan konektivitas
+antarhabitat. Oleh karena itu, pengelolaan perikanan perlu menerapkan pendekatan
+berbasis ekosistem yang mencakup perlindungan habitat inti, pengaturan zonasi
+penangkapan, serta pelibatan masyarakat untuk mendukung keberlanjutan sumber daya
+ikan karang.
+Efektivitas Model GAM dan HSI dalam Pemetaan Fishing Ground
+Pendekatan Generalized Additive Model (GAM) yang dikombinasikan dengan
+Habitat Suitability Index (HSI) terbukti efektif dalam memetakan daerah potensial
+penangkapan ikan karang di perairan Pulau Kerdau. Hasil validasi menunjukkan 61,40% titik
+penangkapan aktual berada pada zona HSI ≥ 0,5, yang menunjukkan kemampuan model
+dalam mengidentifikasi lokasi penangkapan yang produktif. Peningkatan nilai CDE pada
+model multivariat juga mengindikasikan bahwa GAM mampu menangkap hubungan
+nonlinear dan interaksi kompleks antar parameter lingkungan dengan baik.
+Meskipun demikian, masih terdapat 38,60% titik tangkapan pada zona HSI rendah,
+yang menunjukkan adanya faktor lain yang belum terakomodasi dalam model, seperti
+kedalaman, karakteristik substrat, struktur terumbu karang, dan tekanan penangkapan. Oleh
+karena itu, pengembangan model selanjutnya perlu mengintegrasikan variabel habitat yang
+lebih lengkap serta mempertimbangkan pendekatan machine learning untuk meningkatkan
+akurasi prediksi. Hasil penelitian ini sejalan dengan penelitian sebelumnya di WPP 711 yang
+menunjukkan bahwa suhu dan klorofil-a merupakan parameter penting dalam menentukan
+daerah penangkapan ikan. Temuan tersebut memperkuat validitas pendekatan GAM-HSI
+sebagai metode pemetaan fishing ground yang efektif.
+Variasi Spasial dan Temporal Daerah Potensial Penangkapan
+Hasil pemetaan HSI menunjukkan adanya variasi spasial dan temporal pada daerah
+potensial penangkapan ikan karang di perairan Pulau Kerdau. Zona potensial (HSI ≥ 0,5)
+mengalami pergeseran dan perubahan luasan pada setiap trip penelitian, menunjukkan
+bahwa daerah penangkapan bersifat dinamis dan dipengaruhi oleh kondisi lingkungan
+perairan, terutama arus dan distribusi klorofil-a.
+Fluktuasi nilai HSI dan CPUE antar trip mengindikasikan bahwa perubahan suhu
+permukaan laut, arus, dan produktivitas perairan berpengaruh terhadap distribusi ikan karang.
+Hal ini menunjukkan bahwa ikan karang dapat berpindah mengikuti kondisi lingkungan yang
+lebih optimal. Selain faktor lingkungan, musim juga memengaruhi dinamika daerah
+penangkapan. Temuan ini menegaskan bahwa zona penangkapan ikan karang tidak bersifat
+tetap, sehingga diperlukan pemantauan lingkungan dan pembaruan peta fishing ground
+secara berkala untuk mendukung pengelolaan perikanan yang lebih adaptif dan efektif.
+Implikasi Pengelolaan Perikanan Berkelanjutan
+Hasil penelitian menunjukkan bahwa pemodelan Habitat Suitability Index (HSI)
+berpotensi mendukung pengelolaan perikanan berkelanjutan di perairan Pulau Kerdau. Peta
+HSI dapat membantu nelayan menentukan lokasi penangkapan yang lebih produktif
+sehingga meningkatkan efisiensi operasi penangkapan. Selain itu, kisaran optimal parameter
+oseanografi yang diperoleh dapat dimanfaatkan dalam sistem pemantauan lingkungan
+berbasis satelit untuk mendeteksi perubahan zona penangkapan.
+Variasi spasial dan temporal daerah penangkapan menunjukkan bahwa pengelolaan
+perikanan perlu dilakukan secara adaptif mengikuti dinamika lingkungan. Distribusi ikan tidak
+hanya dipengaruhi oleh faktor oseanografi, tetapi juga kondisi habitat, tekanan
+penangkapan, dan faktor sosial-ekonomi, sehingga diperlukan pendekatan pengelolaan
+berbasis ekosistem. Dalam konteks kebijakan, peta HSI dapat menjadi dasar penyusunan
+96
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+zonasi perikanan melalui pengaturan area penangkapan dan kawasan konservasi guna
+mendukung keberlanjutan sumber daya serta ekosistem laut di Pulau Kerdau.
+KESIMPULAN
+Parameter oseanografi secara individu tidak berpengaruh signifikan terhadap CPUE
+ikan karang di perairan Pulau Kerdau. Namun, kombinasi suhu, salinitas, arus, klorofil-a, dan
+tinggi muka laut mampu menjelaskan variasi CPUE dengan baik, dengan model terbaik
+memiliki nilai CDE 73,21% dan AIC 709,943. Pemetaan menggunakan HSI menunjukkan akurasi
+yang cukup baik, di mana 61,40% titik tangkapan berada pada zona potensial (HSI ≥ 0,5). Hasil
+ini menunjukkan bahwa pendekatan GAM dan HSI efektif untuk memetakan daerah
+penangkapan ikan karang serta mendukung pengelolaan perikanan yang lebih efisien dan
+berkelanjutan.
+Penelitian ini masih terbatas pada periode pengamatan Juli–Agustus dan hanya
+menggunakan beberapa parameter oseanografi, sehingga belum menggambarkan
+dinamika musiman maupun faktor habitat dan sosial-ekonomi yang memengaruhi hasil
+tangkapan. Selain itu, model GAM belum sepenuhnya mampu mengakomodasi interaksi
+kompleks dibandingkan pendekatan machine learning.
+Nelayan disarankan memanfaatkan peta HSI sebagai acuan penentuan lokasi
+penangkapan. Pemerintah dapat mengintegrasikan hasil penelitian ini dalam pengelolaan
+dan zonasi perikanan berkelanjutan. Penelitian selanjutnya perlu dilakukan lintas musim,
+menambahkan variabel lingkungan dan habitat yang lebih beragam, serta
+mengembangkan model berbasis machine learning untuk meningkatkan akurasi pemetaan
+daerah penangkapan ikan.
+DAFTAR PUSTAKA
+Akita, E. A., Gaol, J. L., & Amri, K. (2022). Model Maximum Entropy untuk Prediksi Daerah
+Penangkapan Ikan Pelagis Kecil di Laut Jawa. Jurnal Ilmu Dan Teknologi Kelautan
+Tropis, 14(3), 449–46.
+DOI: https://doi.org/10.29244/j itkt.v14i3.45164
+Ampou, E. E., Andrefouet, S., Muller-Karger, F. E., Robinson, J. A., Kranenburg, C. J., & Spencer,
+T. (2018). Challenges in coral reef habitat mapping in Indonesia. Marine Pollution
+Bulletin, 131, 290–301.
+DOI: https://doi.org/10.1016/j.marpolbul.2017.10.026
+Apriansyah, A., & Utami, P. B. (2024). Karakteristik Oseanografi dan Musim Penangkapan Ikan
+Kembung (Rastrellinger sp.) di Laut Natuna. MANFISH JOURNAL, 5(1), 22–31.
+DOI: https://doi.org/10.31573/manfish.v5i1.704
+Asmarani, E. W. D., Ma’mun, A., & Febrianto, T. (2025). ANALISIS PARAMETER OSEANOGRAFI
+DAN KAITANNYA DENGAN HASIL TANGKAPAN IKAN TENGGIRI (Scromeberomorus
+commerson) DI PERAIRAN TIMUR BINTAN. Jurnal Penelitian Perikanan Indonesia,
+31(2), 83.
+DOI: https://doi.org/10.15578/jppi.31.2.2025.1-13
+Damayanti, S. P., Aida, G. R., Kusyairi, A., Marpaung, S., & Setiawan, K. T. (2024). Pemetaan
+Daerah Penangkapan Ikan Cakalang (Katsuwonus Pelamis) Di Wilayah
+Pengelolaan Perikanan 572 Yang Didaratkan Pelabuhan Perikanan Samudera
+Nizam Zachman Jakarta. Jurnal Perikanan Unram, 14(1), 317–329.
+DOI: https://doi.org/10.29303/jp.v14i1.780
+Deniro, Sadarun, B., & Yusnaini. (2017). PENGARUH KENAIKAN SUHU AIR LAUT TERHADAP
+TINGKAH LAKU IKAN KARANG (Amblyglyphidodon curacao) PADA WADAH
+TERKONTROL. Jurnal Sapa Laut, 2(3).
+DOI: http://dx.doi.org/10.33772/jsl.v2i3.3608
+Fitriani, N. (2020). Analisis Pemetaan Daerah Potensial Penangkapan Ikan (Fishing Ground)
+Dengan Menggunakan Citra Satelit Terra Modis Dan Parameter Oseanografi. Jurnal
+Geodesi Undip, 10(1), 50–58.
+DOI: https://doi.org/10.14710/jgundip.2021.29622
+97
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Fitriani, W., & Tadjuddah, M. (2025). Pengaruh Suhu Permukaan Laut dan Klorofil-a Terhadap
+Hasil Tangkapan Ikan Cakalang di Perairan Buton, Sulawesi Tenggara. JSIPi (Jurnal
+Sains Dan Inovasi Perikanan)(Journal Of Fishery Science And Innovation), 9(1), 78–
+89.
+DOI: https://doi.org/10.33772/jsipi.v9i1.1036
+Fuadi, A., Akbar, M. W., & Irham, M. (2022). Analisis Daerah Penangkapan Ikan Tuna Sirip Kuning
+(Thunnus albacares) Berdasarkan Sebaran Klorofil A Di Perairan Utara Provinsi Aceh.
+Jurnal Perikanan Terpadu, 2(2).
+DOI: https://doi.org/10.35308/jupiter.v2i2.4562
+Gohin, F. (2011). Annual cycles of chlorophyll-a, non-algal suspended particulate matter, and
+turbidity observed from space and in-situ in coastal waters. Ocean Science, 7(5),
+705–732.
+DOI: https://doi.org/10.5194/os-7-705-2011
+Hafiz, M., Widagdo, S., & Prasita, V. D. (2024). Intensitas upwelling selama periode el niño–
+southern oscillation (enso) di perairan selatan jawa. Jurnal Riset Kelautan Tropis
+(Journal Of Tropical Marine Research)(J-Tropimar), 6(1), 1–10.
+DOI: https://doi.org/10.30649/jrkt.v6i1.77
+Hastuti, H., Wirasatriya, A., Maslukah, L., Subardjo, P., & Kunarso, K. (2021). Pengaruh faktor
+klorofil-a dan suhu permukaan laut terhadap hasil tangkapan ikan teri (Stelesphorus
+sp) di Jepara. Indonesian Journal of Oceanography, 3(2), 197–205.
+DOI: https://doi.org/10.14710/ijoce.v3i2.11222
+Hukubun, R. D., & Tubalawony, S. (2024). Variabilitas Klorofil-A Di Perairan Kepulauan Kei,
+Maluku Tenggara. Biofaal Journal, 5(1), 34–43.
+DOI: https://doi.org/10.30598/biofaal.v5i1pp034-043
+Kritzer, J. P., DeLucia, M.-B., Greene, E., Shumway, C., Topolski, M. F., Thomas-Blate, J., Chiarella,
+L. A., Davy, K. B., & Smith, K. (2016). The importance of benthic habitats for coastal
+fisheries. BioScience, 66(4), 274–284.
+DOI: https://doi.org/10.1093/biosci/biw014
+Kurnia, I. (2022). Aspek Nasional dan Internasional Pemanfaatan Surplus Perikanan. Sinar
+Grafika.
+Latifah, A. L., Wulandari, S. Y., & Kunarso, K. (2024). hubungan suhu permukaan laut (SPL) dan
+klorofil-a terhadap hasil tangkapan yellowfin tuna (Thunnus albacares) yang
+didaratkan di Pelabuhan Tamperan, Pacitan. Indonesian Journal of
+Oceanography, 6(3), 197–208.
+DOI: https://doi.org/10.14710/ijoce.v6i3.20575
+Link, J. S., & Browman, H. I. (2017). Operationalizing and implementing ecosystem-based
+management. ICES Journal of Marine Science, 74(1), 379–381.
+DOI: https://doi.org/10.1093/icesjms/fsw247
+Maturbongs, M. R., Elviana, S., & Burhanuddin, A. I. (2019). Keterkaitan parameter fisik-kimia
+perairan dengan kelimpahan jenis ikan demersal di Sungai Maro pada fase bulan
+berbeda musim peralihan I. Agrikan: Jurnal Agribisnis Perikanan, 12(1), 162–173.
+DOI: https://doi.org/10.29239/j.agrikan.12.1.162-172
+Miranto, T. (2017). Analisis Konsentrasi Klorofil-A Dan Suhu Permukaan Laut Terhadap
+Kelimpahan Ikan Karang Dengan Menggunakan Data Penginderaan Jauh Di
+Perairan Utara Selat Bali [Skripsi]. Universitas Brawijaya.
+Najmi, N., Boer, M., & Yulianda, F. (2016). Pengelolaan ekosistem terumbu karang di kawasan
+konservasi perairan daerah pesisir timur Pulau Weh. Jurnal Ilmu Dan Teknologi
+Kelautan Tropis, 2(8), 781–790.
+Ningsih, R. K., & Syah, A. F. (2020). Karakteristik parameter oseanografi ikan demersal di
+perairan laut arafura menggunakan data penginderaan jauh. Juvenil: Jurnal Ilmiah
+Kelautan Dan Perikanan, 1(1), 122-131.
+DOI: https://doi.org/10.21107/juvenil.v1i1.6884
+Nugraha, S., Zahrina, N., Yanfeto, B., & Agassi, R. N. (2024). Variasi Sebaran Parameter
+Oseanografi di Sekitar Pulau Bawean pada Bulan Maret 2019: The Distribution
+Variations of Oceanographic Parameters around Bawean Island in March 2019.
+Jurnal Hidrografi Indonesia, 6(1), 35–44.
+98
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+DOI: https://doi.org/10.62703/jhi.v6i1.50
+Nurhayati, E., & Putra, R. A. D. (2024). Strategi Pengawasan Wilayah Pengelolaan Perikanan
+Indonesia (WPP 711) guna Memaksimalkan Hasil Perikanan Tangkap. Seminar
+Nasional Kontribusi Vokasi, 1(1), 89–95.
+Pemerintah Kabupaten Natuna. (2021). Mengenal Kabupaten Natuna dan Segala Potensi
+Kekayaan Alamnya. Retrieved May 19, 2025, from
+https://marwahkepri.com/2024/02/09/mengenal-kabupaten-natuna-dan-segala-
+potensi-kekayaan-alamnya/
+Pratama, M. R., Kushadiwijayanto, A. A., & Nurrahman, Y. A. (2023). Pemetaan Daerah
+Potensial Penangkapan Ikan Tongkol Komo (Euthynnus affinis) di WPP-RI 711. Jurnal
+Laut Khatulistiwa, 6(2), 108–118.
+DOI: https://doi.org/10.26418/lkuntan.v6i2.59731
+Rahman, M. A. Z., Afiati, N., & Purnomo, P. W. (2021). Pengaruh Kondisi Terumbu Karang
+Dengan Struktur Komunitas Ikan Karang Di Pulau Karimunjawa Dan Pulau Kemujan,
+Jepara, Jawa Tengah. Jurnal Pasir Laut, 5(2), 128–140.
+DOI: https://doi.org/10.14710/jpl.2021.36473
+Ranawudd, U. I., Apriansyah, A., & Safitri, I. (2025). Penentuan Indeks Kesehatan Laut
+Berdasarkan Parameter Oseanografi di Perairan Kabupaten Sambas. Jurnal Ilmu
+Lingkungan, 23(2), 487–490.
+DOI: https://doi.org/10.14710/jil.23.2.487-490
+Rosalina, D., Rizkiah, R., Wardono, S., Sutrisno, B. O., Ismail, R. M., Leilani, A., & Amiluddin, M.
+(2024). Pola Arus Dan Sebaran Klorofil-a Di Perairan Laut Flores Pada Tahun 2021.
+Jurnal Kelautan: Indonesian Journal of Marine Science and Technology, 17(3), 201–
+212.
+DOI: https://doi.org/10.21107/jk.v17i3.25907
+Safruddin, S., Hidayat, R., & Zainuddin, M. (2020). Skipjack tuna fishing ground based on
+oceanography satellite image data in fisheries management area (FMA) 713. Torani
+Journal of Fisheries and Marine Science, 51–60. 1.
+DOI: https://doi.org/10.35911/torani.v3i2.11368
+Sambah, A. B., Fardilah, M. F. F., Fuad, M. A. Z., & Rahman, M. A. (2021, November). Fishing
+Ground Mapping of Demersal Fish in The Riau Islands Province Waters Related to the
+Oceanographic Factors. In IOP Conference Series: Earth and Environmental
+Science (Vol. 934, No. 1, p. 012061). IOP Publishing.
+https://iopscience.iop.org/article/10.1088/1755-1315/934/1/012061
+Sambah, A. B., Wuryantoro, P., & Yulianto, E. S. (2022). Komposisi dan distribusi penangkapan
+ikan alat tangkap payang di Perairan Kabupaten Pasuruan, Jawa Timur.
+DOI: https://doi.org/10.29244/jmf.v11i2.38272
+Saputra, G., Permatasari, I. N., & Kisnarti, E. A. (2024). Dampak Upwelling terhadap Zona
+Potensial Penangkapan Ikan (ZPPI). Jurnal Riset Kelautan Tropis (Journal Of Tropical
+Marine Research)(J-Tropimar), 6(2), 70–85.
+DOI: https://doi.org/10.30649/jrkt.v6i2.92
+Siregar, E. S. Y., Siregar, V. P., & Agus, S. B. (2018). Analisis daerah penangkapan ikan tuna sirip
+kuning Thunnus albacares di perairan sumatera barat berdasarkan model gam.
+Jurnal Ilmu Dan Teknologi Kelautan Tropis, 10(2), 501–516.
+DOI: http://dx.doi.org/10.29244/jitkt.v10i2.21908
+Tangke, U., Karuwal, J. W. C., Mallawa, A., & Zainuddin, M. (2016). Analisis Hubungan Suhu
+Permukaan Laut, Salinitas, Dan Arus Dengan Hasil Tangkapan Ikan Tuna Di Perairan
+Bagian Barat Pulau Halmahera. Jurnal IPTEKS Pemanfaatan Sumberdaya Perikanan,
+3(5).
+DOI: https://doi.org/10.20956/jipsp.v3i5.1927
+Utama, A. F., Maulana, A., Alfany, D., Dharma, C. S., & Harsono, G. (2023). Pemetaan Kriteria
+Upwelling di Wilayah Kepulauan Karimata Menggunakan Parameter Suhu
+Permukaan Laut dan Klorofil-A pada Bulan Mei 2023: Mapping of Upwelling Criteria
+in The Karimata Islands Region using Sea Surface Temperature and Chlorophyl-A
+Parameters in May 2023. Jurnal Hidrografi Indonesia, 5(2), 99–104.
+DOI: https://doi.org/10.62703/jhi.v5i2.26
+99
+Jurnal Teknologi dan Manajemen Perikanan Tangkap (AMANISAL UNPATTI – Ambon) Vol. 15 | No. 1 (Mei 2026)
+Wibowo, A., Prabawa, E., & Sugiarto, E. (2021). Manajemen strategi pengelolaan sumber daya
+maritim di Indonesia. Kebijakan: Jurnal Ilmu Administrasi, 12(2), 163–170.
+DOI: https://doi.org/10.23969/kebijakan.v12i2.4201
+100
