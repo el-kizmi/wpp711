@@ -1,6 +1,6 @@
-# WPP-711 Batch cMSY++ Stock Assessment
+# Batch cMSY++ Stock Assessment
 
-Aplikasi **Shiny/R** untuk analisis kesehatan stok ikan secara batch menggunakan metode **CMSY++** (Collapsed and Maximum Sustainable Yield) di Wilayah Pengelolaan Perikanan (WPP) 711 — Laut Natuna Utara, Laut Natuna, dan Laut Karimata.
+Aplikasi **Shiny/R** untuk analisis kesehatan stok ikan secara batch menggunakan metode **CMSY++** (Collapsed and Maximum Sustainable Yield). Aplikasi ini hanya mengembangkan **antarmuka (interface)** — kode inti CMSY++ tidak diubah dari versi aslinya.
 
 ---
 
@@ -23,14 +23,14 @@ Aplikasi **Shiny/R** untuk analisis kesehatan stok ikan secara batch menggunakan
 
 ## Tentang Project
 
-WPP-711 Batch cMSY++ Stock Assessment dirancang untuk Kementerian Kelautan dan Perikanan (KOMNASJISKAN) guna memproses **analisis stok multi-spesies secara paralel**. Aplikasi ini mengintegrasikan:
+Aplikasi ini dirancang untuk memproses **analisis stok multi-spesies secara paralel**. Aplikasi ini mengintegrasikan:
 
 - **CMSY++** — model Bayesian Schaefer yang dikembangkan oleh Rainer Froese, Gianpaolo Coro, dan Henning Winker (2016, diperbarui 2021) dengan implementasi JAGS
 - **Standardisasi CPUE** — metode Delta-Gamma GLM untuk mengolah data operasi penangkapan mentah menjadi indeks kelimpahan tahunan
 - **Antarmuka Wizard** — 7 langkah terstruktur (Import → Indeks → Validasi → Parameter → Proses → Hasil → Ringkasan)
 - **Pelaporan kelompok** — pengelompokan spesies berdasarkan komoditas dengan narasi otomatis berbahasa Indonesia
 
-> **Catatan:** Repository ini hanya mengembangkan **antarmuka (interface)** — kode awal CMSY++ berasal dari repo [SISTA16/cmsyPlusPlus](https://github.com/SISTA16/cmsyPlusPlus). Untuk pemahaman substantif tentang metode CMSY++, silakan baca: [*New developments in the analysis of catch time series as the basis for fish stock assessments: The CMSY++ method*](https://www.sciencedirect.com/org/science/article/pii/S0137159223000080) (Froese et al., 2023).
+> **Pernyataan Penting:** Repository ini hanya mengembangkan **antarmuka (interface)** untuk penggunaan CMSY++ tanpa mengubah kode asal. Kode inti CMSY++ (`engine/CMSY++16.R`) berasal dari repo [SISTA16/cmsyPlusPlus](https://github.com/SISTA16/cmsyPlusPlus) dan tidak dimodifikasi secara substantif. Untuk pemahaman tentang metode CMSY++, silakan baca: [*New developments in the analysis of catch time series as the basis for fish stock assessments: The CMSY++ method*](https://www.sciencedirect.com/org/science/article/pii/S0137159223000080) (Froese et al., 2023).
 
 ---
 
